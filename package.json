@@ -1,0 +1,17 @@
+{
+  "name": "apple-price-index",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "apple-price-index": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs",
+    "countries": "node src/cli.mjs countries",
+    "products": "node src/cli.mjs list-products",
+    "compare": "node src/cli.mjs compare",
+    "cheapest": "node src/cli.mjs cheapest",
+    "update-prices": "node src/cli.mjs update-prices"
+  }
+}

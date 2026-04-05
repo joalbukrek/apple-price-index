@@ -1,0 +1,29 @@
+{
+  "tr": {
+    "name": "Turkey",
+    "taxFreeEnabled": false,
+    "showDisplayedAsTaxFree": true,
+    "notes": "Turkey rows use the local list price because this comparison is for a Turkey-based buyer without a tourist refund."
+  },
+  "us": {
+    "name": "United States",
+    "displayPriceIncludesTax": false,
+    "taxFreeEnabled": false,
+    "notes": "Apple US prices are shown before state and local sales tax."
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "taxFreeEnabled": false,
+    "notes": "UK tourist VAT refunds are not configured in this prototype."
+  },
+  "jp": {
+    "name": "Japan",
+    "taxFreeEnabled": false,
+    "notes": "Japan tourist tax-free rules are not configured in this prototype."
+  },
+  "kr": {
+    "name": "South Korea",
+    "taxFreeEnabled": false,
+    "notes": "South Korea tourist tax-free rules are not configured in this prototype."
+  }
+}
