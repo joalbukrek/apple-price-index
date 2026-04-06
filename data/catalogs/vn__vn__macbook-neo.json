@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-04T18:16:57.279Z",
+  "familyUrl": "https://www.apple.com/vn/shop/buy-mac/macbook-neo",
+  "currency": "VND",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "macbook-neo::6-5-256gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-256gb",
+      "priceKey": "blush-6-5-256gb",
+      "priceKeys": [
+        "blush-6-5-256gb",
+        "citrus-6-5-256gb",
+        "indigo-6-5-256gb",
+        "silver-6-5-256gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:256gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 256GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 16499000,
+      "displayedPriceText": "16.499.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "macbook-neo::6-5-512gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-512gb",
+      "priceKey": "blush-6-5-512gb",
+      "priceKeys": [
+        "blush-6-5-512gb",
+        "citrus-6-5-512gb",
+        "indigo-6-5-512gb",
+        "silver-6-5-512gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:512gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 512GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 18999000,
+      "displayedPriceText": "18.999.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    }
+  ]
+}

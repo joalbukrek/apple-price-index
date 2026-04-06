@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-05T21:45:07.542Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-mac/mac-mini",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 279990,
+      "displayedPriceText": "279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 379990,
+      "displayedPriceText": "379 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 379990,
+      "displayedPriceText": "379 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 479990,
+      "displayedPriceText": "479 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 479990,
+      "displayedPriceText": "479 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 479990,
+      "displayedPriceText": "479 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 579990,
+      "displayedPriceText": "579 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 579990,
+      "displayedPriceText": "579 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 679990,
+      "displayedPriceText": "679 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 679990,
+      "displayedPriceText": "679 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 679990,
+      "displayedPriceText": "679 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 779990,
+      "displayedPriceText": "779 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 779990,
+      "displayedPriceText": "779 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 779990,
+      "displayedPriceText": "779 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 879990,
+      "displayedPriceText": "879 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 879990,
+      "displayedPriceText": "879 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 879990,
+      "displayedPriceText": "879 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 979990,
+      "displayedPriceText": "979 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 979990,
+      "displayedPriceText": "979 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 979990,
+      "displayedPriceText": "979 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 979990,
+      "displayedPriceText": "979 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1079990,
+      "displayedPriceText": "1 079 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1079990,
+      "displayedPriceText": "1 079 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1079990,
+      "displayedPriceText": "1 079 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1079990,
+      "displayedPriceText": "1 079 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1179990,
+      "displayedPriceText": "1 179 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1179990,
+      "displayedPriceText": "1 179 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1279990,
+      "displayedPriceText": "1 279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1279990,
+      "displayedPriceText": "1 279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1279990,
+      "displayedPriceText": "1 279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1379990,
+      "displayedPriceText": "1 379 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1379990,
+      "displayedPriceText": "1 379 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1479990,
+      "displayedPriceText": "1 479 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1579990,
+      "displayedPriceText": "1 579 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1579990,
+      "displayedPriceText": "1 579 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1679990,
+      "displayedPriceText": "1 679 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1879990,
+      "displayedPriceText": "1 879 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 1979990,
+      "displayedPriceText": "1 979 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 2079990,
+      "displayedPriceText": "2 079 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 2179990,
+      "displayedPriceText": "2 179 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 2179990,
+      "displayedPriceText": "2 179 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 2279990,
+      "displayedPriceText": "2 279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

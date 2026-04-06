@@ -18,6 +18,7 @@ export const SUPPORTED_COUNTRY_CODES = [
   "ae",
   "my",
   "ca",
+  "us",
   "tr",
   "nz",
   "cn",
@@ -66,7 +67,8 @@ Commands:
   node cli.mjs list-products --family <slug> [--country tr] [--query "..."] [--refresh]
   node cli.mjs compare --family <slug> (--variant <variant_key> | --query "...") [--countries <csv>|all] [--resolve-country tr] [--refresh]
   node cli.mjs cheapest --family <slug|all> [--countries <csv>|all] [--query "..."] [--limit 20] [--refresh]
-  node cli.mjs update-prices [--family <slug|all>] [--countries <csv>|all]
+  node cli.mjs update-prices [--family <slug|all>] [--countries <csv>|all] [--bundle]
+  node cli.mjs bundle-data [--family <slug|all>] [--countries <csv>|all]
 
 Known family slugs:
   ${MAC_FAMILIES.map((family) => family.slug).join(", ")}`;
@@ -77,6 +79,7 @@ export function parseOptions() {
     allowPositionals: true,
     options: {
       "all-locales": { type: "boolean", default: false },
+      bundle: { type: "boolean", default: false },
       countries: { type: "string" },
       country: { type: "string" },
       family: { type: "string" },

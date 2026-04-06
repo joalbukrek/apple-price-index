@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-05T13:12:36.709Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-mac/mac-mini",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 20900,
+      "displayedPriceText": "฿20,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 27900,
+      "displayedPriceText": "฿27,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 27900,
+      "displayedPriceText": "฿27,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34900,
+      "displayedPriceText": "฿34,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34900,
+      "displayedPriceText": "฿34,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34900,
+      "displayedPriceText": "฿34,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 41900,
+      "displayedPriceText": "฿41,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 41900,
+      "displayedPriceText": "฿41,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 48900,
+      "displayedPriceText": "฿48,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 48900,
+      "displayedPriceText": "฿48,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 49900,
+      "displayedPriceText": "฿49,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 55900,
+      "displayedPriceText": "฿55,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 56900,
+      "displayedPriceText": "฿56,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 56900,
+      "displayedPriceText": "฿56,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 62900,
+      "displayedPriceText": "฿62,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 63900,
+      "displayedPriceText": "฿63,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 63900,
+      "displayedPriceText": "฿63,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 70900,
+      "displayedPriceText": "฿70,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 70900,
+      "displayedPriceText": "฿70,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 70900,
+      "displayedPriceText": "฿70,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 70900,
+      "displayedPriceText": "฿70,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 77900,
+      "displayedPriceText": "฿77,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 77900,
+      "displayedPriceText": "฿77,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 77900,
+      "displayedPriceText": "฿77,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 77900,
+      "displayedPriceText": "฿77,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 84900,
+      "displayedPriceText": "฿84,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 84900,
+      "displayedPriceText": "฿84,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 91900,
+      "displayedPriceText": "฿91,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 91900,
+      "displayedPriceText": "฿91,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 91900,
+      "displayedPriceText": "฿91,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 98900,
+      "displayedPriceText": "฿98,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 98900,
+      "displayedPriceText": "฿98,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 105900,
+      "displayedPriceText": "฿105,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 112900,
+      "displayedPriceText": "฿112,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 112900,
+      "displayedPriceText": "฿112,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 119900,
+      "displayedPriceText": "฿119,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 133900,
+      "displayedPriceText": "฿133,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 140900,
+      "displayedPriceText": "฿140,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 147900,
+      "displayedPriceText": "฿147,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 154900,
+      "displayedPriceText": "฿154,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 154900,
+      "displayedPriceText": "฿154,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 161900,
+      "displayedPriceText": "฿161,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

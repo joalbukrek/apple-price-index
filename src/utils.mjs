@@ -89,6 +89,12 @@ export function formatMoney(amount, currency, maximumFractionDigits = 2) {
     return "";
   }
 
+  if (!/^[A-Z]{3}$/.test(currency ?? "")) {
+    return new Intl.NumberFormat("en-US", {
+      maximumFractionDigits,
+    }).format(amount);
+  }
+
   return new Intl.NumberFormat("en-US", {
     style: "currency",
     currency,

@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-04T19:46:57.814Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-mac/mac-mini",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 4599,
+      "displayedPriceText": "HK$4,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6099,
+      "displayedPriceText": "HK$6,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6099,
+      "displayedPriceText": "HK$6,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7599,
+      "displayedPriceText": "HK$7,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7599,
+      "displayedPriceText": "HK$7,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7599,
+      "displayedPriceText": "HK$7,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9099,
+      "displayedPriceText": "HK$9,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9099,
+      "displayedPriceText": "HK$9,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 10599,
+      "displayedPriceText": "HK$10,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 10599,
+      "displayedPriceText": "HK$10,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 10599,
+      "displayedPriceText": "HK$10,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 12099,
+      "displayedPriceText": "HK$12,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 12099,
+      "displayedPriceText": "HK$12,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 12099,
+      "displayedPriceText": "HK$12,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 13599,
+      "displayedPriceText": "HK$13,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 13599,
+      "displayedPriceText": "HK$13,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 13599,
+      "displayedPriceText": "HK$13,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 15099,
+      "displayedPriceText": "HK$15,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 15099,
+      "displayedPriceText": "HK$15,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 15099,
+      "displayedPriceText": "HK$15,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 15099,
+      "displayedPriceText": "HK$15,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 16599,
+      "displayedPriceText": "HK$16,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 16599,
+      "displayedPriceText": "HK$16,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 16599,
+      "displayedPriceText": "HK$16,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 16599,
+      "displayedPriceText": "HK$16,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 18099,
+      "displayedPriceText": "HK$18,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 18099,
+      "displayedPriceText": "HK$18,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19599,
+      "displayedPriceText": "HK$19,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19599,
+      "displayedPriceText": "HK$19,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19599,
+      "displayedPriceText": "HK$19,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 21099,
+      "displayedPriceText": "HK$21,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 21099,
+      "displayedPriceText": "HK$21,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 22599,
+      "displayedPriceText": "HK$22,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 24099,
+      "displayedPriceText": "HK$24,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 24099,
+      "displayedPriceText": "HK$24,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 25599,
+      "displayedPriceText": "HK$25,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 28599,
+      "displayedPriceText": "HK$28,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 30099,
+      "displayedPriceText": "HK$30,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 31599,
+      "displayedPriceText": "HK$31,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 33099,
+      "displayedPriceText": "HK$33,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 33099,
+      "displayedPriceText": "HK$33,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34599,
+      "displayedPriceText": "HK$34,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

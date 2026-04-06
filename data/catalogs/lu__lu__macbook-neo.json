@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-05T17:34:42.289Z",
+  "familyUrl": "https://www.apple.com/lu/shop/buy-mac/macbook-neo",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "macbook-neo::6-5-256gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-256gb",
+      "priceKey": "blush-6-5-256gb",
+      "priceKeys": [
+        "blush-6-5-256gb",
+        "citrus-6-5-256gb",
+        "indigo-6-5-256gb",
+        "silver-6-5-256gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:256gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 256GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 675.9,
+      "displayedPriceText": "675,90 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "macbook-neo::6-5-512gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-512gb",
+      "priceKey": "blush-6-5-512gb",
+      "priceKeys": [
+        "blush-6-5-512gb",
+        "citrus-6-5-512gb",
+        "indigo-6-5-512gb",
+        "silver-6-5-512gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:512gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 512GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 772.59,
+      "displayedPriceText": "772,59 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    }
+  ]
+}

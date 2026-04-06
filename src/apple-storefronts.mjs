@@ -23,9 +23,21 @@ const LANGUAGE_SUFFIXES = new Set([
   "portuguese",
   "spanish",
 ]);
+const PREFERRED_LOCALE_BY_COUNTRY = {
+  be: "be-fr",
+};
 
 function ensureTrailingSlash(url) {
   return url.endsWith("/") ? url : `${url}/`;
+}
+
+function canonicalizeLocalePath(pathname = "") {
+  const trimmed = pathname.replace(/^\/|\/$/g, "");
+  if (/^[a-z]{4}$/i.test(trimmed)) {
+    return `/${trimmed.slice(0, 2)}-${trimmed.slice(2)}/`;
+  }
+
+  return pathname;
 }
 
 function normalizeStorefrontHref(href) {
@@ -34,10 +46,14 @@ function normalizeStorefrontHref(href) {
   }
 
   if (href.startsWith("http://") || href.startsWith("https://")) {
-    return ensureTrailingSlash(href);
+    const parsed = new URL(href);
+    parsed.pathname = canonicalizeLocalePath(parsed.pathname);
+    return ensureTrailingSlash(parsed.toString());
   }
 
-  return ensureTrailingSlash(new URL(href, "https://www.apple.com").toString());
+  const parsed = new URL(href, "https://www.apple.com");
+  parsed.pathname = canonicalizeLocalePath(parsed.pathname);
+  return ensureTrailingSlash(parsed.toString());
 }
 
 function deriveLocaleKey(storefrontUrl) {
@@ -91,6 +107,11 @@ function cleanCountryName(rawName, analyticsTitle) {
 
 function storefrontPreferenceScore(storefront) {
   const locale = storefront.localeKey;
+  const preferredLocale = PREFERRED_LOCALE_BY_COUNTRY[storefront.countryCode];
+
+  if (preferredLocale && locale === preferredLocale) {
+    return 110;
+  }
 
   if (locale === storefront.countryCode) {
     return 100;
@@ -164,9 +185,18 @@ export async function discoverStorefronts({ refresh = false, allLocales = false 
   return normalized.sort((left, right) => left.name.localeCompare(right.name));
 }
 
+function buildBuyLocalePath(localeKey) {
+  if (/^[a-z]{4}$/i.test(localeKey)) {
+    return `${localeKey.slice(0, 2)}-${localeKey.slice(2)}`;
+  }
+
+  return localeKey;
+}
+
 export function buildFamilyUrl(storefront, familySlug) {
-  if (storefront.countryCode === "ch" && /^[a-z]{4}$/i.test(storefront.localeKey)) {
-    const localePath = `${storefront.localeKey.slice(0, 2)}-${storefront.localeKey.slice(2)}`;
+  const localePath = buildBuyLocalePath(storefront.localeKey);
+
+  if (localePath !== storefront.localeKey) {
     return `https://www.apple.com/${localePath}/shop/buy-mac/${familySlug}`;
   }
 

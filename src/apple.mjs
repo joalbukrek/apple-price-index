@@ -19,6 +19,71 @@ import {
   resolveStorefront,
 } from "./apple-storefronts.mjs";
 
+const FALLBACK_CURRENCY_BY_COUNTRY = {
+  ae: "AED",
+  at: "EUR",
+  au: "AUD",
+  be: "EUR",
+  br: "BRL",
+  ca: "CAD",
+  ch: "CHF",
+  cl: "CLP",
+  cn: "CNY",
+  cz: "CZK",
+  de: "EUR",
+  dk: "DKK",
+  es: "EUR",
+  fi: "EUR",
+  fr: "EUR",
+  hk: "HKD",
+  hu: "HUF",
+  ie: "EUR",
+  in: "INR",
+  it: "EUR",
+  jp: "JPY",
+  kr: "KRW",
+  lu: "EUR",
+  mx: "MXN",
+  my: "MYR",
+  nl: "EUR",
+  no: "NOK",
+  nz: "NZD",
+  ph: "PHP",
+  pl: "PLN",
+  pt: "EUR",
+  se: "SEK",
+  sg: "SGD",
+  th: "THB",
+  tr: "TRY",
+  tw: "TWD",
+  uk: "GBP",
+  us: "USD",
+  vn: "VND",
+};
+
+function resolveCatalogCurrency(storefront, currency) {
+  if (/^[A-Z]{3}$/.test(currency ?? "")) {
+    return currency;
+  }
+
+  return FALLBACK_CURRENCY_BY_COUNTRY[storefront.countryCode] ?? null;
+}
+
+function applyCurrencyFallbackToVariants(variants, currency) {
+  if (!currency) {
+    return variants;
+  }
+
+  return variants.map((variant) =>
+    variant.currency
+      ? variant
+      : {
+          ...variant,
+          currency,
+        },
+  );
+}
+
 export async function loadFamilyCatalog(
   storefront,
   familySlug,
@@ -36,12 +101,13 @@ export async function loadFamilyCatalog(
     });
 
     if (cachedCatalog) {
+      const resolvedCurrency = resolveCatalogCurrency(storefront, cachedCatalog.currency);
       return {
         storefront,
         family,
         familyUrl: cachedCatalog.familyUrl ?? familyUrl,
-        currency: cachedCatalog.currency,
-        variants: cachedCatalog.variants,
+        currency: resolvedCurrency,
+        variants: applyCurrencyFallbackToVariants(cachedCatalog.variants, resolvedCurrency),
         cachedAt: cachedCatalog.savedAt,
       };
     }
@@ -58,15 +124,18 @@ export async function loadFamilyCatalog(
   }
 
   const productSelectionData = extractBalancedJson(html, "productSelectionData: ");
-  const currency = extractCurrency(html);
+  const currency = resolveCatalogCurrency(storefront, extractCurrency(html));
   const updateConfigUrl = extractQuotedValue(html, "updateConfigUrl");
-  const variants = await buildVariants(
-    productSelectionData,
-    storefront,
-    family,
+  const variants = applyCurrencyFallbackToVariants(
+    await buildVariants(
+      productSelectionData,
+      storefront,
+      family,
+      currency,
+      updateConfigUrl ? new URL(updateConfigUrl, familyUrl).toString() : null,
+      refresh,
+    ),
     currency,
-    updateConfigUrl ? new URL(updateConfigUrl, familyUrl).toString() : null,
-    refresh,
   );
 
   await writeCatalogSnapshot(storefront, familySlug, {

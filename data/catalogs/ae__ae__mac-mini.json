@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-05T15:13:53.324Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-mac/mac-mini",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 2499,
+      "displayedPriceText": "AED 2,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 3399,
+      "displayedPriceText": "AED 3,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 3399,
+      "displayedPriceText": "AED 3,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 5199,
+      "displayedPriceText": "AED 5,199.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 5199,
+      "displayedPriceText": "AED 5,199.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 5999,
+      "displayedPriceText": "AED 5,999.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6099,
+      "displayedPriceText": "AED 6,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6099,
+      "displayedPriceText": "AED 6,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6899,
+      "displayedPriceText": "AED 6,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6899,
+      "displayedPriceText": "AED 6,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 6999,
+      "displayedPriceText": "AED 6,999.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7799,
+      "displayedPriceText": "AED 7,799.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7799,
+      "displayedPriceText": "AED 7,799.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 7899,
+      "displayedPriceText": "AED 7,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 8699,
+      "displayedPriceText": "AED 8,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 8699,
+      "displayedPriceText": "AED 8,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 8699,
+      "displayedPriceText": "AED 8,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 8699,
+      "displayedPriceText": "AED 8,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9599,
+      "displayedPriceText": "AED 9,599.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9599,
+      "displayedPriceText": "AED 9,599.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9599,
+      "displayedPriceText": "AED 9,599.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 9599,
+      "displayedPriceText": "AED 9,599.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 10499,
+      "displayedPriceText": "AED 10,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 10499,
+      "displayedPriceText": "AED 10,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 11399,
+      "displayedPriceText": "AED 11,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 11399,
+      "displayedPriceText": "AED 11,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 11399,
+      "displayedPriceText": "AED 11,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 12299,
+      "displayedPriceText": "AED 12,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 12299,
+      "displayedPriceText": "AED 12,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 13199,
+      "displayedPriceText": "AED 13,199.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14099,
+      "displayedPriceText": "AED 14,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14099,
+      "displayedPriceText": "AED 14,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14999,
+      "displayedPriceText": "AED 14,999.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 16799,
+      "displayedPriceText": "AED 16,799.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 17699,
+      "displayedPriceText": "AED 17,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 18599,
+      "displayedPriceText": "AED 18,599.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19499,
+      "displayedPriceText": "AED 19,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19499,
+      "displayedPriceText": "AED 19,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 20399,
+      "displayedPriceText": "AED 20,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

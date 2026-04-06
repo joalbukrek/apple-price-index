@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-04T19:34:06.543Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-mac/macbook-neo",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "macbook-neo::6-5-256gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-256gb",
+      "priceKey": "blush-6-5-256gb",
+      "priceKeys": [
+        "blush-6-5-256gb",
+        "citrus-6-5-256gb",
+        "indigo-6-5-256gb",
+        "silver-6-5-256gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:256gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 256GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 4799,
+      "displayedPriceText": "HK$4,799",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "macbook-neo::6-5-512gb",
+      "familySlug": "macbook-neo",
+      "familyName": "MacBook Neo",
+      "variantKey": "6-5-512gb",
+      "priceKey": "blush-6-5-512gb",
+      "priceKeys": [
+        "blush-6-5-512gb",
+        "citrus-6-5-512gb",
+        "indigo-6-5-512gb",
+        "silver-6-5-512gb"
+      ],
+      "signature": "processor-cpuCoreCount-gpuCoreCount:6-5|storage-dimensionCapacity:512gb",
+      "title": "MacBook Neo | 6 CPU / 5 GPU | 512GB",
+      "type": "PRECONFIGURED_BTR",
+      "displayedPrice": 5499,
+      "displayedPriceText": "HK$5,499",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

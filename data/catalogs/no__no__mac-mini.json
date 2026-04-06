@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-05T21:59:59.754Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-mac/mac-mini",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 8490,
+      "displayedPriceText": "kr 8 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 11490,
+      "displayedPriceText": "kr 11 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 11490,
+      "displayedPriceText": "kr 11 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14490,
+      "displayedPriceText": "kr 14 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14490,
+      "displayedPriceText": "kr 14 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-256gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-256gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-256gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:256gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 256GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 14490,
+      "displayedPriceText": "kr 14 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 17490,
+      "displayedPriceText": "kr 17 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 17490,
+      "displayedPriceText": "kr 17 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 19990,
+      "displayedPriceText": "kr 19 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-16gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-16gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-16gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:16gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 16GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 20490,
+      "displayedPriceText": "kr 20 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 20490,
+      "displayedPriceText": "kr 20 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 22990,
+      "displayedPriceText": "kr 22 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 22990,
+      "displayedPriceText": "kr 22 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 23490,
+      "displayedPriceText": "kr 23 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 25990,
+      "displayedPriceText": "kr 25 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 25990,
+      "displayedPriceText": "kr 25 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4-10-10-32gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKey": "m4-10-10-32gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4-10-10-32gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4-10-10|memory-dimensionMemory:32gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 10 CPU / 10 GPU | 32GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 26490,
+      "displayedPriceText": "kr 26 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 28990,
+      "displayedPriceText": "kr 28 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 28990,
+      "displayedPriceText": "kr 28 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 28990,
+      "displayedPriceText": "kr 28 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 28990,
+      "displayedPriceText": "kr 28 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 31990,
+      "displayedPriceText": "kr 31 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 31990,
+      "displayedPriceText": "kr 31 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 31990,
+      "displayedPriceText": "kr 31 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-512gb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-512gb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-512gb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:512gb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 512GB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 31990,
+      "displayedPriceText": "kr 31 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34990,
+      "displayedPriceText": "kr 34 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-1tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-1tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-1tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:1tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 1TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 34990,
+      "displayedPriceText": "kr 34 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 37990,
+      "displayedPriceText": "kr 37 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 37990,
+      "displayedPriceText": "kr 37 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 37990,
+      "displayedPriceText": "kr 37 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 40990,
+      "displayedPriceText": "kr 40 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-2tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-2tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-2tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:2tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 2TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 40990,
+      "displayedPriceText": "kr 40 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 43990,
+      "displayedPriceText": "kr 43 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 46990,
+      "displayedPriceText": "kr 46 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 46990,
+      "displayedPriceText": "kr 46 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-4tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-4tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-4tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:4tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 4TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 49990,
+      "displayedPriceText": "kr 49 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 55990,
+      "displayedPriceText": "kr 55 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-24gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-24gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-24gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:24gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 24GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 58990,
+      "displayedPriceText": "kr 58 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 61990,
+      "displayedPriceText": "kr 61 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-12-16-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-12-16-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4-10-10",
+        "m4pro-12-16",
+        "m4pro-12-16-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-12-16|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 12 CPU / 16 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 64990,
+      "displayedPriceText": "kr 64 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-48gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-48gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-48gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:48gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 48GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 64990,
+      "displayedPriceText": "kr 64 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "mac-mini::m4pro-14-20-64gb-8tb-1gb_per_second",
+      "familySlug": "mac-mini",
+      "familyName": "Mac mini",
+      "variantKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKey": "m4pro-14-20-64gb-8tb-1gb_per_second",
+      "priceKeys": [
+        "m4pro-14-20",
+        "m4pro-14-20-64gb-8tb-1gb_per_second"
+      ],
+      "signature": "processor-dimensionChip-cpuCoreCount-gpuCoreCount:m4pro-14-20|memory-dimensionMemory:64gb|storage-dimensionCapacity:8tb|ethernet_adapter-ethernetBandwidth:1gb_per_second",
+      "title": "Mac mini | M4 Pro 14 CPU / 20 GPU | 64GB | 8TB | 1Gb Ethernet",
+      "type": "CONFIGURABLE",
+      "displayedPrice": 67990,
+      "displayedPriceText": "kr 67 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

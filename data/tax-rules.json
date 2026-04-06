@@ -9,7 +9,17 @@
     "name": "United States",
     "displayPriceIncludesTax": false,
     "taxFreeEnabled": false,
-    "notes": "Apple US prices are shown before state and local sales tax."
+    "defaultSalesTaxRate": 0.08875,
+    "defaultSalesTaxLabel": "New York City sales tax 8.875%",
+    "notes": "Apple US prices are shown before sales tax. This prototype adds New York City sales tax by default."
+  },
+  "ca": {
+    "name": "Canada",
+    "displayPriceIncludesTax": false,
+    "taxFreeEnabled": false,
+    "defaultSalesTaxRate": 0.13,
+    "defaultSalesTaxLabel": "Toronto HST 13%",
+    "notes": "Apple Canada prices are shown before sales tax. This prototype adds Toronto HST by default."
   },
   "uk": {
     "name": "United Kingdom",

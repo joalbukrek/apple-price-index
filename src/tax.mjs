@@ -1,7 +1,10 @@
-import { readFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname } from "node:path";
 import { fetchText } from "./http.mjs";
+import { DEFAULT_BUNDLED_TAX_RULES_SNAPSHOT_PATH } from "./paths.mjs";
 
 const GLOCALZONE_URL = "https://glocalzone.com/vat-refund-calculator";
+const TAX_RULES_SNAPSHOT_VERSION = 1;
 const GLOCALZONE_COUNTRY_MAP = {
   ch: "switzerland",
   de: "germany",
@@ -137,16 +140,50 @@ function mergeTaxRules(baseRules, overrideRules) {
   return merged;
 }
 
+async function readBundledTaxRulesSnapshot() {
+  try {
+    const file = await readFile(DEFAULT_BUNDLED_TAX_RULES_SNAPSHOT_PATH, "utf8");
+    const payload = JSON.parse(file);
+
+    if (payload?.schemaVersion !== TAX_RULES_SNAPSHOT_VERSION) {
+      return null;
+    }
+
+    return payload.rules ?? null;
+  } catch {
+    return null;
+  }
+}
+
+export async function writeBundledTaxRulesSnapshot(rules) {
+  await mkdir(dirname(DEFAULT_BUNDLED_TAX_RULES_SNAPSHOT_PATH), { recursive: true });
+  await writeFile(
+    DEFAULT_BUNDLED_TAX_RULES_SNAPSHOT_PATH,
+    JSON.stringify(
+      {
+        schemaVersion: TAX_RULES_SNAPSHOT_VERSION,
+        savedAt: new Date().toISOString(),
+        rules,
+      },
+      null,
+      2,
+    ),
+    "utf8",
+  );
+}
+
 export async function loadTaxRules(path, { refresh = false } = {}) {
-  const glocalzoneRulesPromise = loadGlocalzoneRules({ refresh });
+  const baseRulesPromise = refresh
+    ? loadGlocalzoneRules({ refresh: true })
+    : readBundledTaxRulesSnapshot().then((rules) => rules ?? GLOCALZONE_FALLBACK_RULES);
 
   try {
     const file = await readFile(path, "utf8");
-    const [glocalzoneRules] = await Promise.all([glocalzoneRulesPromise]);
-    return mergeTaxRules(glocalzoneRules, normalizeLocalRules(JSON.parse(file)));
+    const [baseRules] = await Promise.all([baseRulesPromise]);
+    return mergeTaxRules(baseRules, normalizeLocalRules(JSON.parse(file)));
   } catch (error) {
     if (error?.code === "ENOENT") {
-      return glocalzoneRulesPromise;
+      return baseRulesPromise;
     }
     throw error;
   }
@@ -165,6 +202,40 @@ function resolveTieredRefundRate(displayedPrice, rule) {
   }
 
   return rates.max;
+}
+
+function formatRatePercent(rate) {
+  const percent = rate * 100;
+  if (Number.isInteger(percent)) {
+    return `${percent}%`;
+  }
+
+  return `${percent.toFixed(3).replace(/0+$/u, "").replace(/\.$/u, "")}%`;
+}
+
+export function applyDisplayedPriceRule(displayedPrice, rule) {
+  if (displayedPrice == null || Number.isNaN(displayedPrice)) {
+    return {
+      adjustedDisplayedPrice: displayedPrice,
+      note: "",
+    };
+  }
+
+  if (rule?.displayPriceIncludesTax === false && typeof rule.defaultSalesTaxRate === "number") {
+    return {
+      adjustedDisplayedPrice: Number(
+        (displayedPrice * (1 + rule.defaultSalesTaxRate)).toFixed(2),
+      ),
+      note: rule.defaultSalesTaxLabel
+        ? `incl ${rule.defaultSalesTaxLabel}`
+        : `incl tax ${formatRatePercent(rule.defaultSalesTaxRate)}`,
+    };
+  }
+
+  return {
+    adjustedDisplayedPrice: displayedPrice,
+    note: "",
+  };
 }
 
 export function applyTaxRule(displayedPrice, rule) {

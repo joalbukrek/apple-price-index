@@ -6,7 +6,7 @@ import {
   resolveStorefront,
 } from "./apple.mjs";
 import { convertToTry } from "./fx.mjs";
-import { applyTaxRule } from "./tax.mjs";
+import { applyDisplayedPriceRule, applyTaxRule } from "./tax.mjs";
 import { formatDeltaTry, formatMoney, formatTry, mapLimit, renderTable } from "./utils.mjs";
 import {
   DEFAULT_COMPARE_COUNTRIES,
@@ -17,6 +17,15 @@ import {
   resolveCountrySelectors,
   resolveRequestedStorefronts,
 } from "./cli-common.mjs";
+
+function mergeNotes(...notes) {
+  return notes.filter(Boolean).join("; ");
+}
+
+function formatLocalMoney(amount, currency) {
+  const maximumFractionDigits = Number.isInteger(amount) ? 0 : 2;
+  return formatMoney(amount, currency, maximumFractionDigits);
+}
 
 export async function buildComparison(values) {
   requireFamily(values.family);
@@ -60,7 +69,13 @@ export async function buildComparison(values) {
     }
   });
 
-  const baseDisplayedTry = convertToTry(targetVariant.displayedPrice, targetVariant.currency, fx);
+  const baseTaxRule = taxRules[baseStorefront.countryCode];
+  const baseDisplayAdjustment = applyDisplayedPriceRule(targetVariant.displayedPrice, baseTaxRule);
+  const baseDisplayedTry = convertToTry(
+    baseDisplayAdjustment.adjustedDisplayedPrice,
+    targetVariant.currency,
+    fx,
+  );
   const rows = catalogs
     .map((catalog, index) => {
       const storefront = selectedStorefronts[index];
@@ -87,9 +102,33 @@ export async function buildComparison(values) {
         };
       }
 
-      const displayedTry = convertToTry(match.displayedPrice, match.currency, fx);
       const taxRule = taxRules[storefront.countryCode];
-      const tax = applyTaxRule(match.displayedPrice, taxRule);
+      const displayAdjustment = applyDisplayedPriceRule(match.displayedPrice, taxRule);
+      const displayedTry = convertToTry(
+        displayAdjustment.adjustedDisplayedPrice,
+        match.currency,
+        fx,
+      );
+      if (displayedTry == null) {
+        return {
+          country: storefront.countryCode,
+          name: storefront.name,
+          displayedLocal: "unavailable",
+          displayedTry: "",
+          deltaTry: "",
+          taxLocal: "",
+          taxTry: "",
+          taxDeltaTry: "",
+          taxNote: "missing currency",
+          displayedTryRaw: Number.POSITIVE_INFINITY,
+          taxTryRaw: Number.POSITIVE_INFINITY,
+          averageTryRaw: Number.POSITIVE_INFINITY,
+          averageTry: "",
+          available: false,
+        };
+      }
+
+      const tax = applyTaxRule(displayAdjustment.adjustedDisplayedPrice, taxRule);
       const taxAdjustedTry =
         tax.taxAdjustedPrice == null
           ? null
@@ -100,18 +139,18 @@ export async function buildComparison(values) {
       return {
         country: storefront.countryCode,
         name: storefront.name,
-        displayedLocal: formatMoney(match.displayedPrice, match.currency, 0),
+        displayedLocal: formatLocalMoney(displayAdjustment.adjustedDisplayedPrice, match.currency),
         displayedTry: formatTry(displayedTry),
         deltaTry: formatDeltaTry(displayedTry - baseDisplayedTry),
         taxLocal:
           tax.taxAdjustedPrice == null
             ? ""
-            : formatMoney(tax.taxAdjustedPrice, match.currency, 0),
+            : formatLocalMoney(tax.taxAdjustedPrice, match.currency),
         taxTry: taxAdjustedTry == null ? "" : formatTry(taxAdjustedTry),
         taxDeltaTry:
           taxAdjustedTry == null ? "" : formatDeltaTry(taxAdjustedTry - baseDisplayedTry),
         averageTry: formatTry(averageTryRaw),
-        taxNote: tax.note,
+        taxNote: mergeNotes(displayAdjustment.note, tax.note),
         displayedTryRaw: displayedTry,
         taxTryRaw: taxAdjustedTry ?? Number.POSITIVE_INFINITY,
         averageTryRaw,
@@ -312,8 +351,17 @@ export async function commandCheapest(values) {
   for (const catalog of catalogs) {
     for (const variant of filterVariants(catalog.variants, values.query)) {
       const taxRule = taxRules[variant.countryCode];
-      const tax = applyTaxRule(variant.displayedPrice, taxRule);
-      const displayedTry = convertToTry(variant.displayedPrice, variant.currency, fx);
+      const displayAdjustment = applyDisplayedPriceRule(variant.displayedPrice, taxRule);
+      const displayedTry = convertToTry(
+        displayAdjustment.adjustedDisplayedPrice,
+        variant.currency,
+        fx,
+      );
+      if (displayedTry == null) {
+        continue;
+      }
+
+      const tax = applyTaxRule(displayAdjustment.adjustedDisplayedPrice, taxRule);
       const taxAdjustedTry =
         tax.taxAdjustedPrice == null
           ? null
@@ -328,14 +376,16 @@ export async function commandCheapest(values) {
         name: variant.countryName,
         family: variant.familyName,
         title: variant.title,
-        displayedLocal: formatMoney(variant.displayedPrice, variant.currency, 0),
+        displayedLocal: formatLocalMoney(displayAdjustment.adjustedDisplayedPrice, variant.currency),
         displayedTry: formatTry(displayedTry),
         taxLocal:
-          tax.taxAdjustedPrice == null ? "" : formatMoney(tax.taxAdjustedPrice, variant.currency, 0),
+          tax.taxAdjustedPrice == null
+            ? ""
+            : formatLocalMoney(tax.taxAdjustedPrice, variant.currency),
         taxTry: taxAdjustedTry == null ? "" : formatTry(taxAdjustedTry),
         averageTryRaw,
         averageTry: formatTry(averageTryRaw),
-        taxNote: tax.note,
+        taxNote: mergeNotes(displayAdjustment.note, tax.note),
       });
     }
   }

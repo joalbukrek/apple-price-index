@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "savedAt": "2026-04-06T19:38:57.016Z",
+  "rules": {
+    "ch": {
+      "name": "Switzerland",
+      "taxFreeEnabled": true,
+      "refundType": "glocalzone_tiered",
+      "source": "Glocalzone fallback",
+      "currency": "CHF",
+      "minimumAmount": 300,
+      "thresholds": {
+        "min": 1000,
+        "max": 5000
+      },
+      "taxRates": {
+        "min": 4.5,
+        "mid": 5,
+        "max": 5.4
+      }
+    },
+    "de": {
+      "name": "Germany",
+      "taxFreeEnabled": true,
+      "refundType": "glocalzone_tiered",
+      "source": "Glocalzone fallback",
+      "currency": "EUR",
+      "minimumAmount": 25,
+      "thresholds": {
+        "min": 1000,
+        "max": 5000
+      },
+      "taxRates": {
+        "min": 11.4,
+        "mid": 13,
+        "max": 13.6
+      }
+    },
+    "es": {
+      "name": "Spain",
+      "taxFreeEnabled": true,
+      "refundType": "glocalzone_tiered",
+      "source": "Glocalzone fallback",
+      "currency": "EUR",
+      "minimumAmount": 0.01,
+      "thresholds": {
+        "min": 1000,
+        "max": 5000
+      },
+      "taxRates": {
+        "min": 12.75,
+        "mid": 14.5,
+        "max": 15.3
+      }
+    },
+    "fr": {
+      "name": "France",
+      "taxFreeEnabled": true,
+      "refundType": "glocalzone_tiered",
+      "source": "Glocalzone fallback",
+      "currency": "EUR",
+      "minimumAmount": 100,
+      "thresholds": {
+        "min": 1000,
+        "max": 5000
+      },
+      "taxRates": {
+        "min": 12,
+        "mid": 12,
+        "max": 12
+      }
+    },
+    "tr": {
+      "name": "Turkey",
+      "taxFreeEnabled": false,
+      "refundType": "glocalzone_tiered",
+      "source": "Glocalzone fallback",
+      "currency": "TRY",
+      "minimumAmount": 118,
+      "thresholds": {
+        "min": 1000,
+        "max": 5000
+      },
+      "taxRates": {
+        "min": 10.5,
+        "mid": 12.5,
+        "max": 12.5
+      },
+      "showDisplayedAsTaxFree": true,
+      "notes": "Turkey rows use the local list price because this comparison is for a Turkey-based buyer without a tourist refund."
+    },
+    "us": {
+      "name": "United States",
+      "displayPriceIncludesTax": false,
+      "taxFreeEnabled": false,
+      "defaultSalesTaxRate": 0.08875,
+      "defaultSalesTaxLabel": "New York City sales tax 8.875%",
+      "notes": "Apple US prices are shown before sales tax. This prototype adds New York City sales tax by default."
+    },
+    "ca": {
+      "name": "Canada",
+      "displayPriceIncludesTax": false,
+      "taxFreeEnabled": false,
+      "defaultSalesTaxRate": 0.13,
+      "defaultSalesTaxLabel": "Toronto HST 13%",
+      "notes": "Apple Canada prices are shown before sales tax. This prototype adds Toronto HST by default."
+    },
+    "uk": {
+      "name": "United Kingdom",
+      "taxFreeEnabled": false,
+      "notes": "UK tourist VAT refunds are not configured in this prototype."
+    },
+    "jp": {
+      "name": "Japan",
+      "taxFreeEnabled": false,
+      "notes": "Japan tourist tax-free rules are not configured in this prototype."
+    },
+    "kr": {
+      "name": "South Korea",
+      "taxFreeEnabled": false,
+      "notes": "South Korea tourist tax-free rules are not configured in this prototype."
+    }
+  }
+}

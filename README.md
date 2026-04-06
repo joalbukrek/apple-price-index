@@ -45,7 +45,7 @@ The interactive CLI lets you:
 - instantly compare against the default country set you selected
 - ignore color duplicates when the Apple price is the same
 
-Normal runs use the saved catalog snapshots instead of re-checking Apple live every time. Use `update-prices` when you want to refresh them intentionally.
+Normal runs now prefer the bundled snapshot data shipped in `data/`, so a fresh clone works immediately without rebuilding Apple prices first. Use `update-prices` when you want to refresh them intentionally.
 
 ## Direct commands
 
@@ -82,6 +82,14 @@ Refresh the monthly catalog snapshot on demand:
 node cli.mjs update-prices
 node cli.mjs update-prices --family macbook-pro --countries tr,ch,fr
 node cli.mjs update-prices --family all --countries all
+node cli.mjs update-prices --family all --countries all --bundle
+```
+
+Bundle your existing local cache into committed repo data without hitting Apple again:
+
+```bash
+node cli.mjs bundle-data
+node cli.mjs bundle-data --family all --countries all
 ```
 
 If a long refresh stops in the middle, rerun the exact same `update-prices` command and it will resume from the last completed country/family pair instead of starting over.
@@ -106,13 +114,18 @@ Turkey is overridden to show `tax_free_try` equal to the local list price with `
 
 - Prices come from Apple Store buy pages.
 - The catalog expands Apple CTO memory and storage combinations by walking Apple’s `update-config` API.
-- Catalog snapshots are cached for 30 days under `~/.cache/apple-price-index/catalogs/`.
+- The repo can ship bundled catalog snapshots under `data/catalogs/`, plus bundled FX and tax snapshots under `data/`.
+- User-specific snapshots are still cached under `~/.cache/apple-price-index/catalogs/`.
+- Normal runs prefer the bundled data first, then user cache, and only fetch live data when no snapshot exists or when you explicitly refresh.
 - `update-prices` forces a fresh rebuild of the saved catalog snapshots.
+- `update-prices --bundle` refreshes Apple data and also rewrites the committed bundled dataset in `data/`.
+- `bundle-data` copies your existing local cache into the committed bundled dataset without scraping Apple again.
 - Refresh progress is checkpointed per country and Mac family, so interrupted runs can resume later.
 - If Apple starts returning blocking responses such as `403` or `429`, the refresh stops immediately and keeps the completed checkpoints.
 - Transient network failures use bounded retry/backoff, but Apple blocking responses still stop the job immediately.
 - The default comparison basket is limited to your selected 38 supported countries.
 - Large result sets are ranked by `average_try`, which averages displayed TRY and tax-free TRY when tax-free pricing exists.
-- FX conversion uses live rates converted into TRY.
+- FX conversion uses the bundled FX snapshot by default and can be refreshed manually.
+- Tax rules use the bundled snapshot plus your local overrides by default and can be refreshed manually.
 - Results are cached under `~/.cache/apple-price-index/`.
 - This follows the same CLI-first direction emphasized by [CLI-Anything](https://github.com/HKUDS/CLI-Anything): simple entrypoint, self-describing commands, and an agent-friendly terminal workflow.

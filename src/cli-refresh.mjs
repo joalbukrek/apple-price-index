@@ -3,16 +3,21 @@ import {
   clearRefreshCheckpoint,
   DEFAULT_CATALOG_CACHE_DAYS,
   hasFreshCatalogSnapshot,
+  readUserCatalogSnapshot,
   readRefreshCheckpoint,
+  writeCatalogSnapshot,
   writeRefreshCheckpoint,
+  writeBundledCatalogSnapshot,
 } from "./catalog-cache.mjs";
 import { discoverStorefronts, loadFamilyCatalog } from "./apple.mjs";
 import { getHttpStatsSnapshot, isAppleRejectionError, isNotFoundError } from "./http.mjs";
 import { mapLimit } from "./utils.mjs";
+import { loadFxRates, writeBundledFxSnapshot } from "./fx.mjs";
+import { DEFAULT_TAX_RULES_PATH } from "./paths.mjs";
+import { loadTaxRules, writeBundledTaxRulesSnapshot } from "./tax.mjs";
 import {
   buildCatalogTasks,
   buildRefreshJobKey,
-  DEFAULT_COMPARE_COUNTRIES,
   DEFAULT_WARMUP_FAMILY_SLUGS,
   filterSupportedStorefronts,
   resolveCountrySelectors,
@@ -73,6 +78,18 @@ function formatRefreshMetrics(metrics) {
 
   parts.push(formatDurationMs(metrics.elapsedMs));
   return parts.join(" | ");
+}
+
+async function writeBundledSupportSnapshots(values, { refresh = false } = {}) {
+  const [fxSnapshot, taxRules] = await Promise.all([
+    loadFxRates({ refresh }),
+    loadTaxRules(values["tax-rules"] ?? DEFAULT_TAX_RULES_PATH, { refresh }),
+  ]);
+
+  await Promise.all([
+    writeBundledFxSnapshot(fxSnapshot),
+    writeBundledTaxRulesSnapshot(taxRules),
+  ]);
 }
 
 async function warmCatalogTasks(tasks, { refresh = false, showProgress = false } = {}) {
@@ -206,6 +223,16 @@ export async function commandUpdatePrices(values) {
         refresh: true,
         snapshotDays: DEFAULT_CATALOG_CACHE_DAYS,
       });
+
+      if (values.bundle) {
+        await writeBundledCatalogSnapshot(storefront, familySlug, {
+          savedAt: catalog.cachedAt,
+          familyUrl: catalog.familyUrl,
+          currency: catalog.currency,
+          variants: catalog.variants,
+        });
+      }
+
       const statsAfter = getHttpStatsSnapshot();
       const taskMetrics = {
         ...diffHttpStats(statsBefore, statsAfter),
@@ -247,6 +274,21 @@ export async function commandUpdatePrices(values) {
 
       if (isUnsupportedCatalogError(error)) {
         processedCount += 1;
+        await writeCatalogSnapshot(storefront, familySlug, {
+          familyUrl: null,
+          currency: null,
+          unsupported: true,
+          variants: [],
+        });
+        if (values.bundle) {
+          await writeBundledCatalogSnapshot(storefront, familySlug, {
+            familyUrl: null,
+            currency: null,
+            unsupported: true,
+            variants: [],
+          });
+        }
+
         taskStates[taskId] = {
           status: "unsupported",
           completedAt: new Date().toISOString(),
@@ -350,6 +392,10 @@ export async function commandUpdatePrices(values) {
     0,
   );
 
+  if (values.bundle) {
+    await writeBundledSupportSnapshots(values, { refresh: true });
+  }
+
   await clearRefreshCheckpoint(jobKey);
 
   console.log(
@@ -368,4 +414,66 @@ export async function commandUpdatePrices(values) {
   if (failedResults.length) {
     console.log(`Encountered ${failedResults.length} failed catalog refreshes.`);
   }
+
+  if (values.bundle) {
+    console.log("Bundled data files in data/ were updated too.");
+  }
+}
+
+export async function commandBundleData(values) {
+  const requestedFamily = values.family ?? "all";
+  const familySlugs = resolveFamilySlugs(requestedFamily);
+  const storefronts = filterSupportedStorefronts(
+    await discoverStorefronts({
+      refresh: values.refresh,
+      allLocales: values["all-locales"],
+    }),
+  );
+  const selectedStorefronts =
+    values.countries === "all"
+      ? storefronts
+      : resolveRequestedStorefronts(storefronts, resolveCountrySelectors(values.countries));
+  const tasks = buildCatalogTasks(selectedStorefronts, familySlugs);
+
+  console.log(
+    `Bundling saved catalog snapshots for ${selectedStorefronts.length} countries and ${familySlugs.length} Mac families.\n`,
+  );
+
+  let completed = 0;
+  let bundledCount = 0;
+  let missingCount = 0;
+
+  for (const { storefront, familySlug } of tasks) {
+    const snapshot = await readUserCatalogSnapshot(storefront, familySlug, {
+      maxAgeDays: DEFAULT_CATALOG_CACHE_DAYS,
+      allowStale: true,
+    });
+    completed += 1;
+
+    if (!snapshot) {
+      missingCount += 1;
+      console.log(
+        `[${completed}/${tasks.length}] ${formatRefreshTaskLabel(storefront, familySlug)}: missing local cache snapshot`,
+      );
+      continue;
+    }
+
+    await writeBundledCatalogSnapshot(storefront, familySlug, snapshot);
+    bundledCount += 1;
+    console.log(
+      `[${completed}/${tasks.length}] ${formatRefreshTaskLabel(storefront, familySlug)}: bundled ${snapshot.variants.length} variants`,
+    );
+  }
+
+  await writeBundledSupportSnapshots(values, { refresh: false });
+
+  console.log(
+    `\nBundled ${bundledCount} catalog snapshots into data/catalogs/.`,
+  );
+  if (missingCount) {
+    console.log(
+      `${missingCount} catalog snapshots were missing locally. Run update-prices for those families or countries first if you want them bundled too.`,
+    );
+  }
+  console.log("Bundled FX and tax snapshots were updated too.");
 }
