@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:42:18.429Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-ipad/ipad-mini",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63zp_a",
+      "priceKeys": [
+        "mxn63zp_a",
+        "mxn73zp_a",
+        "mxn83zp_a",
+        "mxn93zp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 699,
+      "displayedPriceText": "S$699.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3zp_a",
+      "priceKeys": [
+        "mxna3zp_a",
+        "mxnc3zp_a",
+        "mxnd3zp_a",
+        "mxne3zp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 849,
+      "displayedPriceText": "S$849.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3zp_a",
+      "priceKeys": [
+        "mxpn3zp_a",
+        "mxpp3zp_a",
+        "mxpq3zp_a",
+        "mxpr3zp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 929,
+      "displayedPriceText": "S$929.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3zp_a",
+      "priceKeys": [
+        "mxpt3zp_a",
+        "mxpw3zp_a",
+        "mxpx3zp_a",
+        "mxpy3zp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1079,
+      "displayedPriceText": "S$1,079.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3zp_a",
+      "priceKeys": [
+        "mygy3zp_a",
+        "myh13zp_a",
+        "myh23zp_a",
+        "myh33zp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 1149,
+      "displayedPriceText": "S$1,149.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3zp_a",
+      "priceKeys": [
+        "myhc3zp_a",
+        "myhd3zp_a",
+        "myhe3zp_a",
+        "myhf3zp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1379,
+      "displayedPriceText": "S$1,379.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}

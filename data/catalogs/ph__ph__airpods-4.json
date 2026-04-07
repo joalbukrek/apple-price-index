@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:12.878Z",
+  "familyUrl": "https://www.apple.com/ph/shop/buy-airpods/airpods-4",
+  "currency": "PHP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "8490_00",
+      "priceKeys": [
+        "8490_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 8490,
+      "displayedPriceText": "₱8,490.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "11490_00",
+      "priceKeys": [
+        "11490_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 11490,
+      "displayedPriceText": "₱11,490.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    }
+  ]
+}

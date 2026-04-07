@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:35.564Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-airpods/airpods-pro-3",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "299990_00",
+      "priceKeys": [
+        "299990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 299990,
+      "displayedPriceText": "$299.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

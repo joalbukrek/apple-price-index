@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:33.634Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-airpods/airpods-max-2",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "4599_00",
+      "priceKeys": [
+        "4599_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 4599,
+      "displayedPriceText": "HK$4,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

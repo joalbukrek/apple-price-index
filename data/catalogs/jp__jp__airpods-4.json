@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:36.307Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-airpods/airpods-4",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "21800_00",
+      "priceKeys": [
+        "21800_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 21800,
+      "displayedPriceText": "<span>21,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "29800_00",
+      "priceKeys": [
+        "29800_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 29800,
+      "displayedPriceText": "<span>29,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:45:57.268Z",
+  "familyUrl": "https://www.apple.com/ie/shop/buy-ipad/ipad-mini",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63nf_a",
+      "priceKeys": [
+        "mxn63nf_a",
+        "mxn73nf_a",
+        "mxn83nf_a",
+        "mxn93nf_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 569,
+      "displayedPriceText": "€569.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3nf_a",
+      "priceKeys": [
+        "mxna3nf_a",
+        "mxnc3nf_a",
+        "mxnd3nf_a",
+        "mxne3nf_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 699,
+      "displayedPriceText": "€699.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3nf_a",
+      "priceKeys": [
+        "mxpn3nf_a",
+        "mxpp3nf_a",
+        "mxpq3nf_a",
+        "mxpr3nf_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 739,
+      "displayedPriceText": "€739.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3nf_a",
+      "priceKeys": [
+        "mxpt3nf_a",
+        "mxpw3nf_a",
+        "mxpx3nf_a",
+        "mxpy3nf_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 869,
+      "displayedPriceText": "€869.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3nf_a",
+      "priceKeys": [
+        "mygy3nf_a",
+        "myh13nf_a",
+        "myh23nf_a",
+        "myh33nf_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 949,
+      "displayedPriceText": "€949.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3nf_a",
+      "priceKeys": [
+        "myhc3nf_a",
+        "myhd3nf_a",
+        "myhe3nf_a",
+        "myhf3nf_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1119,
+      "displayedPriceText": "€1,119.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    }
+  ]
+}

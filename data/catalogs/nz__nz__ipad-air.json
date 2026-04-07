@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:41:48.212Z",
+  "familyUrl": "https://www.apple.com/nz/shop/buy-ipad/ipad-air",
+  "currency": "NZD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304x_a",
+      "priceKeys": [
+        "mh304x_a",
+        "mh314x_a",
+        "mh334x_a",
+        "mh344x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 1199,
+      "displayedPriceText": "NZ$1,199.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354x_a",
+      "priceKeys": [
+        "mh354x_a",
+        "mh364x_a",
+        "mh374x_a",
+        "mh394x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 1399,
+      "displayedPriceText": "NZ$1,399.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784x_a",
+      "priceKeys": [
+        "mh784x_a",
+        "mh794x_a",
+        "mh7a4x_a",
+        "mh7c4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1499,
+      "displayedPriceText": "NZ$1,499.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4x_a",
+      "priceKeys": [
+        "mh5n4x_a",
+        "mh5p4x_a",
+        "mh5q4x_a",
+        "mh5t4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 1549,
+      "displayedPriceText": "NZ$1,549.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4x_a",
+      "priceKeys": [
+        "mh7d4x_a",
+        "mh7e4x_a",
+        "mh7f4x_a",
+        "mh7g4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1699,
+      "displayedPriceText": "NZ$1,699.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4x_a",
+      "priceKeys": [
+        "mh5u4x_a",
+        "mh5v4x_a",
+        "mh5w4x_a",
+        "mh5x4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 1749,
+      "displayedPriceText": "NZ$1,749.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4x_a",
+      "priceKeys": [
+        "mh3a4x_a",
+        "mh3c4x_a",
+        "mh3d4x_a",
+        "mh3e4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1799,
+      "displayedPriceText": "NZ$1,799.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4x_a",
+      "priceKeys": [
+        "mh9d4x_a",
+        "mh9e4x_a",
+        "mh9f4x_a",
+        "mh9g4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1849,
+      "displayedPriceText": "NZ$1,849.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4x_a",
+      "priceKeys": [
+        "mh9h4x_a",
+        "mh9j4x_a",
+        "mh9k4x_a",
+        "mh9l4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 2049,
+      "displayedPriceText": "NZ$2,049.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4x_a",
+      "priceKeys": [
+        "mh7h4x_a",
+        "mh7j4x_a",
+        "mh7k4x_a",
+        "mh7l4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 2099,
+      "displayedPriceText": "NZ$2,099.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4x_a",
+      "priceKeys": [
+        "mh5y4x_a",
+        "mh604x_a",
+        "mh614x_a",
+        "mh624x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 2149,
+      "displayedPriceText": "NZ$2,149.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4x_a",
+      "priceKeys": [
+        "mh3g4x_a",
+        "mh3h4x_a",
+        "mh3j4x_a",
+        "mh3k4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 2199,
+      "displayedPriceText": "NZ$2,199.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4x_a",
+      "priceKeys": [
+        "mh9m4x_a",
+        "mh9n4x_a",
+        "mh9p4x_a",
+        "mh9q4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 2449,
+      "displayedPriceText": "NZ$2,449.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4x_a",
+      "priceKeys": [
+        "mh7m4x_a",
+        "mh7n4x_a",
+        "mh7p4x_a",
+        "mh7q4x_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 2499,
+      "displayedPriceText": "NZ$2,499.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634x_a",
+      "priceKeys": [
+        "mh634x_a",
+        "mh644x_a",
+        "mh654x_a",
+        "mhdk4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 2549,
+      "displayedPriceText": "NZ$2,549.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4x_a",
+      "priceKeys": [
+        "mh9r4x_a",
+        "mh9t4x_a",
+        "mh9u4x_a",
+        "mh9v4x_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 2849,
+      "displayedPriceText": "NZ$2,849.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    }
+  ]
+}

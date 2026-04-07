@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:53.205Z",
+  "familyUrl": "https://www.apple.com/ca/shop/buy-airpods/airpods-max-2",
+  "currency": "CAD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "799_00",
+      "priceKeys": [
+        "799_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 799,
+      "displayedPriceText": "$799.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    }
+  ]
+}

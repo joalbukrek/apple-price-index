@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:47:24.424Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-ipad/ipad-pro",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4kn_a",
+      "priceKeys": [
+        "mdwk4kn_a",
+        "mdwl4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 13490,
+      "displayedPriceText": "kr 13 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4kn_a",
+      "priceKeys": [
+        "mdwm4kn_a",
+        "mdwn4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 16290,
+      "displayedPriceText": "kr 16 290,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4kn_a",
+      "priceKeys": [
+        "me2n4kn_a",
+        "me2p4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 16290,
+      "displayedPriceText": "kr 16 290,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4kn_a",
+      "priceKeys": [
+        "mdyj4kn_a",
+        "mdyk4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 17990,
+      "displayedPriceText": "kr 17 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4kn_a",
+      "priceKeys": [
+        "me2q4kn_a",
+        "me2t4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 19090,
+      "displayedPriceText": "kr 19 090,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4kn_a",
+      "priceKeys": [
+        "mdyl4kn_a",
+        "mdym4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 20790,
+      "displayedPriceText": "kr 20 790,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4kn_a",
+      "priceKeys": [
+        "me7w4kn_a",
+        "me7x4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 20790,
+      "displayedPriceText": "kr 20 790,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4kn_a",
+      "priceKeys": [
+        "mdwp4kn_a",
+        "mdwq4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 21890,
+      "displayedPriceText": "kr 21 890,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4kn_a",
+      "priceKeys": [
+        "mdwr4kn_a",
+        "mdwt4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 23290,
+      "displayedPriceText": "kr 23 290,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4kn_a",
+      "priceKeys": [
+        "me7y4kn_a",
+        "me8c4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 23590,
+      "displayedPriceText": "kr 23 590,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4kn_a",
+      "priceKeys": [
+        "me2u4kn_a",
+        "me2v4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 24690,
+      "displayedPriceText": "kr 24 690,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4kn_a",
+      "priceKeys": [
+        "me2w4kn_a",
+        "me2x4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 26090,
+      "displayedPriceText": "kr 26 090,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4kn_a",
+      "priceKeys": [
+        "mdyn4kn_a",
+        "mdyp4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 26390,
+      "displayedPriceText": "kr 26 390,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4kn_a",
+      "priceKeys": [
+        "mdwu4kn_a",
+        "mdwv4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 27490,
+      "displayedPriceText": "kr 27 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4kn_a",
+      "priceKeys": [
+        "mdyq4kn_a",
+        "mdyr4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 27790,
+      "displayedPriceText": "kr 27 790,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4kn_a",
+      "priceKeys": [
+        "mdww4kn_a",
+        "mdwx4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 28890,
+      "displayedPriceText": "kr 28 890,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4kn_a",
+      "priceKeys": [
+        "me8d4kn_a",
+        "me8f4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 29190,
+      "displayedPriceText": "kr 29 190,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4kn_a",
+      "priceKeys": [
+        "me2y4kn_a",
+        "me6a4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 30290,
+      "displayedPriceText": "kr 30 290,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4kn_a",
+      "priceKeys": [
+        "me8g4kn_a",
+        "me8h4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 30590,
+      "displayedPriceText": "kr 30 590,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4kn_a",
+      "priceKeys": [
+        "me6c4kn_a",
+        "me6d4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 31690,
+      "displayedPriceText": "kr 31 690,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4kn_a",
+      "priceKeys": [
+        "mdyt4kn_a",
+        "mdyu4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 31990,
+      "displayedPriceText": "kr 31 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4kn_a",
+      "priceKeys": [
+        "mdyv4kn_a",
+        "mdyw4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 33390,
+      "displayedPriceText": "kr 33 390,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4kn_a",
+      "priceKeys": [
+        "me8j4kn_a",
+        "me8k4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 34790,
+      "displayedPriceText": "kr 34 790,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4kn_a",
+      "priceKeys": [
+        "me8m4kn_a",
+        "me8n4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 36190,
+      "displayedPriceText": "kr 36 190,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:37.230Z",
+  "familyUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+  "currency": "CNY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhu44ch_a",
+      "priceKeys": [
+        "mhu44ch_a",
+        "mhu54ch_a",
+        "mhu64ch_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 4499,
+      "displayedPriceText": "RMB 4,499",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhu74ch_a",
+      "priceKeys": [
+        "mhu74ch_a",
+        "mhu94ch_a",
+        "mhua4ch_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 6499,
+      "displayedPriceText": "RMB 6,499",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    }
+  ]
+}

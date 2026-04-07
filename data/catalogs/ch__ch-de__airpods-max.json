@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:02.228Z",
+  "familyUrl": "https://www.apple.com/ch-de/shop/buy-airpods/airpods-max-2",
+  "currency": "CHF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "499_00",
+      "priceKeys": [
+        "499_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 499,
+      "displayedPriceText": "CHF 499.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    }
+  ]
+}

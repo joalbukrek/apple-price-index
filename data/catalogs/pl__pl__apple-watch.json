@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:51:39.303Z",
+  "familyUrl": "https://www.apple.com/pl/shop/buy-watch/apple-watch",
+  "currency": "PLN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gps",
+      "priceKey": "watch_cases-aluminum-42mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 42mm | GPS",
+      "displayedPrice": 1899,
+      "displayedPriceText": "1 899,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gps",
+      "priceKey": "watch_cases-aluminum-46mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 46mm | GPS",
+      "displayedPrice": 2099,
+      "displayedPriceText": "2 099,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gpscell",
+      "priceKey": "watch_cases-aluminum-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 42mm | GPS + Cellular",
+      "displayedPrice": 2399,
+      "displayedPriceText": "2 399,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gpscell",
+      "priceKey": "watch_cases-aluminum-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 46mm | GPS + Cellular",
+      "displayedPrice": 2599,
+      "displayedPriceText": "2 599,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-42mm-gpscell",
+      "priceKey": "watch_cases-titanium-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 42mm | GPS + Cellular",
+      "displayedPrice": 3299,
+      "displayedPriceText": "3 299,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-46mm-gpscell",
+      "priceKey": "watch_cases-titanium-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 46mm | GPS + Cellular",
+      "displayedPrice": 3599,
+      "displayedPriceText": "3 599,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    }
+  ]
+}

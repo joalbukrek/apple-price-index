@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:38:56.343Z",
+  "familyUrl": "https://www.apple.com/vn/shop/buy-ipad/ipad-mini",
+  "currency": "VND",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63za_a",
+      "priceKeys": [
+        "mxn63za_a",
+        "mxn73za_a",
+        "mxn83za_a",
+        "mxn93za_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 13744000,
+      "displayedPriceText": "13.744.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3za_a",
+      "priceKeys": [
+        "mxna3za_a",
+        "mxnc3za_a",
+        "mxnd3za_a",
+        "mxne3za_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 16544000,
+      "displayedPriceText": "16.544.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3za_a",
+      "priceKeys": [
+        "mxpn3za_a",
+        "mxpp3za_a",
+        "mxpq3za_a",
+        "mxpr3za_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 17944000,
+      "displayedPriceText": "17.944.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3za_a",
+      "priceKeys": [
+        "mxpt3za_a",
+        "mxpw3za_a",
+        "mxpx3za_a",
+        "mxpy3za_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 20744000,
+      "displayedPriceText": "20.744.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3za_a",
+      "priceKeys": [
+        "mygy3za_a",
+        "myh13za_a",
+        "myh23za_a",
+        "myh33za_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 22144000,
+      "displayedPriceText": "22.144.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3za_a",
+      "priceKeys": [
+        "myhc3za_a",
+        "myhd3za_a",
+        "myhe3za_a",
+        "myhf3za_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 26344000,
+      "displayedPriceText": "26.344.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    }
+  ]
+}

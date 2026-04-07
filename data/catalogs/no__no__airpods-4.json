@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:51.276Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-airpods/airpods-4",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "1790_00",
+      "priceKeys": [
+        "1790_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 1790,
+      "displayedPriceText": "kr 1 790,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "2490_00",
+      "priceKeys": [
+        "2490_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 2490,
+      "displayedPriceText": "kr 2 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

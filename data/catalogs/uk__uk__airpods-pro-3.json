@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:07.320Z",
+  "familyUrl": "https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3",
+  "currency": "GBP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "219_00",
+      "priceKeys": [
+        "219_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 219,
+      "displayedPriceText": "£219.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    }
+  ]
+}

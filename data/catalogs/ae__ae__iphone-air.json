@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:07:49.302Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg184ah_a",
+      "priceKeys": [
+        "mg184ah_a",
+        "mg194ah_a",
+        "mg1a4ah_a",
+        "mg1d4ah_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg1e4ah_a",
+      "priceKeys": [
+        "mg1e4ah_a",
+        "mg1g4ah_a",
+        "mg1h4ah_a",
+        "mg1j4ah_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 5149,
+      "displayedPriceText": "AED 5,149.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg1l4ah_a",
+      "priceKeys": [
+        "mg1l4ah_a",
+        "mg1n4ah_a",
+        "mg1p4ah_a",
+        "mg1q4ah_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 5999,
+      "displayedPriceText": "AED 5,999.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:38:50.872Z",
+  "familyUrl": "https://www.apple.com/vn/shop/buy-ipad/ipad-air",
+  "currency": "VND",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304za_a",
+      "priceKeys": [
+        "mh304za_a",
+        "mh314za_a",
+        "mh334za_a",
+        "mh344za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 16689000,
+      "displayedPriceText": "16.689.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354za_a",
+      "priceKeys": [
+        "mh354za_a",
+        "mh364za_a",
+        "mh374za_a",
+        "mh394za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 19489000,
+      "displayedPriceText": "19.489.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784za_a",
+      "priceKeys": [
+        "mh784za_a",
+        "mh794za_a",
+        "mh7a4za_a",
+        "mh7c4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 20889000,
+      "displayedPriceText": "20.889.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4za_a",
+      "priceKeys": [
+        "mh5n4za_a",
+        "mh5p4za_a",
+        "mh5q4za_a",
+        "mh5t4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 22089000,
+      "displayedPriceText": "22.089.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4za_a",
+      "priceKeys": [
+        "mh7d4za_a",
+        "mh7e4za_a",
+        "mh7f4za_a",
+        "mh7g4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 23689000,
+      "displayedPriceText": "23.689.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4za_a",
+      "priceKeys": [
+        "mh5u4za_a",
+        "mh5v4za_a",
+        "mh5w4za_a",
+        "mh5x4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 24889000,
+      "displayedPriceText": "24.889.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4za_a",
+      "priceKeys": [
+        "mh3a4za_a",
+        "mh3c4za_a",
+        "mh3d4za_a",
+        "mh3e4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 25089000,
+      "displayedPriceText": "25.089.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4za_a",
+      "priceKeys": [
+        "mh9d4za_a",
+        "mh9e4za_a",
+        "mh9f4za_a",
+        "mh9g4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 26289000,
+      "displayedPriceText": "26.289.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4za_a",
+      "priceKeys": [
+        "mh9h4za_a",
+        "mh9j4za_a",
+        "mh9k4za_a",
+        "mh9l4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 29089000,
+      "displayedPriceText": "29.089.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4za_a",
+      "priceKeys": [
+        "mh7h4za_a",
+        "mh7j4za_a",
+        "mh7k4za_a",
+        "mh7l4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 29289000,
+      "displayedPriceText": "29.289.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4za_a",
+      "priceKeys": [
+        "mh5y4za_a",
+        "mh604za_a",
+        "mh614za_a",
+        "mh624za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 30489000,
+      "displayedPriceText": "30.489.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4za_a",
+      "priceKeys": [
+        "mh3g4za_a",
+        "mh3h4za_a",
+        "mh3j4za_a",
+        "mh3k4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 30689000,
+      "displayedPriceText": "30.689.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4za_a",
+      "priceKeys": [
+        "mh9m4za_a",
+        "mh9n4za_a",
+        "mh9p4za_a",
+        "mh9q4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 34689000,
+      "displayedPriceText": "34.689.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4za_a",
+      "priceKeys": [
+        "mh7m4za_a",
+        "mh7n4za_a",
+        "mh7p4za_a",
+        "mh7q4za_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 34889000,
+      "displayedPriceText": "34.889.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634za_a",
+      "priceKeys": [
+        "mh634za_a",
+        "mh644za_a",
+        "mh654za_a",
+        "mhdk4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 36089000,
+      "displayedPriceText": "36.089.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4za_a",
+      "priceKeys": [
+        "mh9r4za_a",
+        "mh9t4za_a",
+        "mh9u4za_a",
+        "mh9v4za_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 40289000,
+      "displayedPriceText": "40.289.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:05:38.695Z",
+  "familyUrl": "https://www.apple.com/mx/shop/buy-airpods/airpods-pro-3",
+  "currency": "MXN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "5799_00",
+      "priceKeys": [
+        "5799_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 5799,
+      "displayedPriceText": "$5,799.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    }
+  ]
+}

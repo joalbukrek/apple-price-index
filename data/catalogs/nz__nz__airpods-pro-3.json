@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:18.804Z",
+  "familyUrl": "https://www.apple.com/nz/shop/buy-airpods/airpods-pro-3",
+  "currency": "NZD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "479_00",
+      "priceKeys": [
+        "479_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 479,
+      "displayedPriceText": "NZ$479.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    }
+  ]
+}

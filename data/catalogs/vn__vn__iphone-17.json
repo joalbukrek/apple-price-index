@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:05:37.408Z",
+  "familyUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-17",
+  "currency": "VND",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4zp_a",
+      "priceKeys": [
+        "mg6j4zp_a",
+        "mg6k4zp_a",
+        "mg6l4zp_a",
+        "mg6m4zp_a",
+        "mg6n4zp_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 24999000,
+      "displayedPriceText": "24.999.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4zp_a",
+      "priceKeys": [
+        "mg6p4zp_a",
+        "mg6q4zp_a",
+        "mg6t4zp_a",
+        "mg6u4zp_a",
+        "mg6v4zp_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 31499000,
+      "displayedPriceText": "31.499.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    }
+  ]
+}

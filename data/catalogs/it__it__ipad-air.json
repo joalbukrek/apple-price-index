@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:46:06.935Z",
+  "familyUrl": "https://www.apple.com/it/shop/buy-ipad/ipad-air",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304ty_a",
+      "priceKeys": [
+        "mh304ty_a",
+        "mh314ty_a",
+        "mh334ty_a",
+        "mh344ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 669,
+      "displayedPriceText": "€ 669,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354ty_a",
+      "priceKeys": [
+        "mh354ty_a",
+        "mh364ty_a",
+        "mh374ty_a",
+        "mh394ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "€ 799,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784ty_a",
+      "priceKeys": [
+        "mh784ty_a",
+        "mh794ty_a",
+        "mh7a4ty_a",
+        "mh7c4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 839,
+      "displayedPriceText": "€ 839,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4ty_a",
+      "priceKeys": [
+        "mh5n4ty_a",
+        "mh5p4ty_a",
+        "mh5q4ty_a",
+        "mh5t4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 869,
+      "displayedPriceText": "€ 869,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4ty_a",
+      "priceKeys": [
+        "mh7d4ty_a",
+        "mh7e4ty_a",
+        "mh7f4ty_a",
+        "mh7g4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 969,
+      "displayedPriceText": "€ 969,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4ty_a",
+      "priceKeys": [
+        "mh5u4ty_a",
+        "mh5v4ty_a",
+        "mh5w4ty_a",
+        "mh5x4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 999,
+      "displayedPriceText": "€ 999,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4ty_a",
+      "priceKeys": [
+        "mh9d4ty_a",
+        "mh9e4ty_a",
+        "mh9f4ty_a",
+        "mh9g4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1039,
+      "displayedPriceText": "€ 1.039,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4ty_a",
+      "priceKeys": [
+        "mh3a4ty_a",
+        "mh3c4ty_a",
+        "mh3d4ty_a",
+        "mh3e4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1049,
+      "displayedPriceText": "€ 1.049,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4ty_a",
+      "priceKeys": [
+        "mh9h4ty_a",
+        "mh9j4ty_a",
+        "mh9k4ty_a",
+        "mh9l4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1169,
+      "displayedPriceText": "€ 1.169,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4ty_a",
+      "priceKeys": [
+        "mh7h4ty_a",
+        "mh7j4ty_a",
+        "mh7k4ty_a",
+        "mh7l4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1219,
+      "displayedPriceText": "€ 1.219,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4ty_a",
+      "priceKeys": [
+        "mh5y4ty_a",
+        "mh604ty_a",
+        "mh614ty_a",
+        "mh624ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "€ 1.249,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4ty_a",
+      "priceKeys": [
+        "mh3g4ty_a",
+        "mh3h4ty_a",
+        "mh3j4ty_a",
+        "mh3k4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1299,
+      "displayedPriceText": "€ 1.299,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4ty_a",
+      "priceKeys": [
+        "mh9m4ty_a",
+        "mh9n4ty_a",
+        "mh9p4ty_a",
+        "mh9q4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1419,
+      "displayedPriceText": "€ 1.419,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4ty_a",
+      "priceKeys": [
+        "mh7m4ty_a",
+        "mh7n4ty_a",
+        "mh7p4ty_a",
+        "mh7q4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1469,
+      "displayedPriceText": "€ 1.469,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634ty_a",
+      "priceKeys": [
+        "mh634ty_a",
+        "mh644ty_a",
+        "mh654ty_a",
+        "mhdk4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1499,
+      "displayedPriceText": "€ 1.499,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4ty_a",
+      "priceKeys": [
+        "mh9r4ty_a",
+        "mh9t4ty_a",
+        "mh9u4ty_a",
+        "mh9v4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1669,
+      "displayedPriceText": "€ 1.669,00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/it/",
+      "countryCode": "it",
+      "countryName": "Italia"
+    }
+  ]
+}

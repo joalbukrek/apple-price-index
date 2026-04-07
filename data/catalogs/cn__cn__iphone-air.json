@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:30.899Z",
+  "familyUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+  "currency": "CNY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg314ch_a",
+      "priceKeys": [
+        "mg314ch_a",
+        "mg334ch_a",
+        "mg344ch_a",
+        "mg364ch_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 7999,
+      "displayedPriceText": "RMB 7,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg374ch_a",
+      "priceKeys": [
+        "mg374ch_a",
+        "mg394ch_a",
+        "mg3a4ch_a",
+        "mg3c4ch_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 9999,
+      "displayedPriceText": "RMB 9,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg3d4ch_a",
+      "priceKeys": [
+        "mg3d4ch_a",
+        "mg3e4ch_a",
+        "mg3f4ch_a",
+        "mg3g4ch_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 11999,
+      "displayedPriceText": "RMB 11,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    }
+  ]
+}

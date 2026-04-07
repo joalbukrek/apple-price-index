@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:54:20.567Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-watch/apple-watch-se",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gps",
+      "priceKey": "watch_cases-aluminum-40mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS",
+      "displayedPrice": 109990,
+      "displayedPriceText": "109 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gps",
+      "priceKey": "watch_cases-aluminum-44mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS",
+      "displayedPrice": 124990,
+      "displayedPriceText": "124 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gpscell",
+      "priceKey": "watch_cases-aluminum-40mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS + Cellular",
+      "displayedPrice": 134990,
+      "displayedPriceText": "134 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gpscell",
+      "priceKey": "watch_cases-aluminum-44mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS + Cellular",
+      "displayedPrice": 149990,
+      "displayedPriceText": "149 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

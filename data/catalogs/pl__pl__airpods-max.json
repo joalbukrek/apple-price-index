@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:30.112Z",
+  "familyUrl": "https://www.apple.com/pl/shop/buy-airpods/airpods-max-2",
+  "currency": "PLN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "2499_00",
+      "priceKeys": [
+        "2499_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 2499,
+      "displayedPriceText": "2 499,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    }
+  ]
+}

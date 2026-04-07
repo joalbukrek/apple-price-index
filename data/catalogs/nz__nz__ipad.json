@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:41:50.634Z",
+  "familyUrl": "https://www.apple.com/nz/shop/buy-ipad/ipad",
+  "currency": "NZD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad::wifi-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-128gb",
+      "priceKey": "md3y4x_a",
+      "priceKeys": [
+        "md3y4x_a",
+        "md4a4x_a",
+        "md4d4x_a",
+        "md4e4x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi | 128GB",
+      "displayedPrice": 699,
+      "displayedPriceText": "NZ$699.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad::wifi-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-256gb",
+      "priceKey": "md4g4x_a",
+      "priceKeys": [
+        "md4g4x_a",
+        "md4h4x_a",
+        "md4j4x_a",
+        "md4p4x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi | 256GB",
+      "displayedPrice": 899,
+      "displayedPriceText": "NZ$899.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad::wificell-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-128gb",
+      "priceKey": "md7f4x_a",
+      "priceKeys": [
+        "md7f4x_a",
+        "md7g4x_a",
+        "md7h4x_a",
+        "md7j4x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 999,
+      "displayedPriceText": "NZ$999.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad::wificell-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-256gb",
+      "priceKey": "md7k4x_a",
+      "priceKeys": [
+        "md7k4x_a",
+        "md7l4x_a",
+        "md7m4x_a",
+        "md7n4x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1199,
+      "displayedPriceText": "NZ$1,199.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad::wifi-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-512gb",
+      "priceKey": "md4q4x_a",
+      "priceKeys": [
+        "md4q4x_a",
+        "md4y4x_a",
+        "md5a4x_a",
+        "md5c4x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi | 512GB",
+      "displayedPrice": 1299,
+      "displayedPriceText": "NZ$1,299.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "ipad::wificell-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-512gb",
+      "priceKey": "md7p4x_a",
+      "priceKeys": [
+        "md7p4x_a",
+        "md7q4x_a",
+        "md7r4x_a",
+        "md7t4x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1599,
+      "displayedPriceText": "NZ$1,599.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    }
+  ]
+}

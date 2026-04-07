@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:02.668Z",
+  "familyUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-17",
+  "currency": "TRY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4tu_a",
+      "priceKeys": [
+        "mg6j4tu_a",
+        "mg6k4tu_a",
+        "mg6l4tu_a",
+        "mg6m4tu_a",
+        "mg6n4tu_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 77999,
+      "displayedPriceText": "77.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4tu_a",
+      "priceKeys": [
+        "mg6p4tu_a",
+        "mg6q4tu_a",
+        "mg6t4tu_a",
+        "mg6u4tu_a",
+        "mg6v4tu_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 89999,
+      "displayedPriceText": "89.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    }
+  ]
+}

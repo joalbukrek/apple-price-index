@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:13.525Z",
+  "familyUrl": "https://www.apple.com/lu/shop/buy-ipad/ipad-air",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304ty_a",
+      "priceKeys": [
+        "mh304ty_a",
+        "mh314ty_a",
+        "mh334ty_a",
+        "mh344ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 646.88,
+      "displayedPriceText": "646,88 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354ty_a",
+      "priceKeys": [
+        "mh354ty_a",
+        "mh364ty_a",
+        "mh374ty_a",
+        "mh394ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 772.59,
+      "displayedPriceText": "772,59 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784ty_a",
+      "priceKeys": [
+        "mh784ty_a",
+        "mh794ty_a",
+        "mh7a4ty_a",
+        "mh7c4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 811.27,
+      "displayedPriceText": "811,27 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4ty_a",
+      "priceKeys": [
+        "mh5n4ty_a",
+        "mh5p4ty_a",
+        "mh5q4ty_a",
+        "mh5t4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 840.27,
+      "displayedPriceText": "840,27 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4ty_a",
+      "priceKeys": [
+        "mh7d4ty_a",
+        "mh7e4ty_a",
+        "mh7f4ty_a",
+        "mh7g4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 936.97,
+      "displayedPriceText": "936,97 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4ty_a",
+      "priceKeys": [
+        "mh5u4ty_a",
+        "mh5v4ty_a",
+        "mh5w4ty_a",
+        "mh5x4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 965.98,
+      "displayedPriceText": "965,98 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4ty_a",
+      "priceKeys": [
+        "mh9d4ty_a",
+        "mh9e4ty_a",
+        "mh9f4ty_a",
+        "mh9g4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1004.66,
+      "displayedPriceText": "1 004,66 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4ty_a",
+      "priceKeys": [
+        "mh3a4ty_a",
+        "mh3c4ty_a",
+        "mh3d4ty_a",
+        "mh3e4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1014.32,
+      "displayedPriceText": "1 014,32 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4ty_a",
+      "priceKeys": [
+        "mh9h4ty_a",
+        "mh9j4ty_a",
+        "mh9k4ty_a",
+        "mh9l4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1130.36,
+      "displayedPriceText": "1 130,36 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4ty_a",
+      "priceKeys": [
+        "mh7h4ty_a",
+        "mh7j4ty_a",
+        "mh7k4ty_a",
+        "mh7l4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1178.7,
+      "displayedPriceText": "1 178,70 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4ty_a",
+      "priceKeys": [
+        "mh5y4ty_a",
+        "mh604ty_a",
+        "mh614ty_a",
+        "mh624ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1207.71,
+      "displayedPriceText": "1 207,71 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4ty_a",
+      "priceKeys": [
+        "mh3g4ty_a",
+        "mh3h4ty_a",
+        "mh3j4ty_a",
+        "mh3k4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1256.05,
+      "displayedPriceText": "1 256,05 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4ty_a",
+      "priceKeys": [
+        "mh9m4ty_a",
+        "mh9n4ty_a",
+        "mh9p4ty_a",
+        "mh9q4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1372.09,
+      "displayedPriceText": "1 372,09 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4ty_a",
+      "priceKeys": [
+        "mh7m4ty_a",
+        "mh7n4ty_a",
+        "mh7p4ty_a",
+        "mh7q4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1420.44,
+      "displayedPriceText": "1 420,44 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634ty_a",
+      "priceKeys": [
+        "mh634ty_a",
+        "mh644ty_a",
+        "mh654ty_a",
+        "mhdk4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1449.44,
+      "displayedPriceText": "1 449,44 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4ty_a",
+      "priceKeys": [
+        "mh9r4ty_a",
+        "mh9t4ty_a",
+        "mh9u4ty_a",
+        "mh9v4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1613.83,
+      "displayedPriceText": "1 613,83 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    }
+  ]
+}

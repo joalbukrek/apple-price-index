@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:44.144Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-air",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4zp_a",
+      "priceKeys": [
+        "mg2l4zp_a",
+        "mg2m4zp_a",
+        "mg2n4zp_a",
+        "mg2p4zp_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 39900,
+      "displayedPriceText": "฿39,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4zp_a",
+      "priceKeys": [
+        "mg2q4zp_a",
+        "mg2t4zp_a",
+        "mg2u4zp_a",
+        "mg2v4zp_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 47900,
+      "displayedPriceText": "฿47,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4zp_a",
+      "priceKeys": [
+        "mg2w4zp_a",
+        "mg2x4zp_a",
+        "mg2y4zp_a",
+        "mg304zp_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 55900,
+      "displayedPriceText": "฿55,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

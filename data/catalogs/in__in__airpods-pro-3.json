@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:07.527Z",
+  "familyUrl": "https://www.apple.com/in/shop/buy-airpods/airpods-pro-3",
+  "currency": "INR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "25900_00",
+      "priceKeys": [
+        "25900_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 25900,
+      "displayedPriceText": "₹25900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    }
+  ]
+}

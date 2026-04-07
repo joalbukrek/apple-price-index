@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:15:26.590Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-iphone/iphone-16",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-16::6_1inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_1inch-128gb",
+      "priceKey": "mye73hx_a",
+      "priceKeys": [
+        "mye73hx_a",
+        "mye93hx_a",
+        "myea3hx_a",
+        "myec3hx_a",
+        "myed3hx_a"
+      ],
+      "signature": "dimensionScreensize:6_1inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.1-Inch | 128GB",
+      "displayedPrice": 349990,
+      "displayedPriceText": "349 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-128gb",
+      "priceKey": "mxvu3hx_a",
+      "priceKeys": [
+        "mxvu3hx_a",
+        "mxvv3hx_a",
+        "mxvw3hx_a",
+        "mxvx3hx_a",
+        "mxvy3hx_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.7-Inch | 128GB",
+      "displayedPrice": 399990,
+      "displayedPriceText": "399 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-256gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-256gb",
+      "priceKey": "mxwn3hx_a",
+      "priceKeys": [
+        "mxwn3hx_a",
+        "mxwv3hx_a",
+        "mxy13hx_a",
+        "mxy23hx_a",
+        "mxy53hx_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:256gb",
+      "title": "iPhone 16 | 6.7-Inch | 256GB",
+      "displayedPrice": 449990,
+      "displayedPriceText": "449 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

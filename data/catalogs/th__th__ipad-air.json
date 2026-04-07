@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:44.281Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-ipad/ipad-air",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304th_a",
+      "priceKeys": [
+        "mh304th_a",
+        "mh314th_a",
+        "mh334th_a",
+        "mh344th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 21900,
+      "displayedPriceText": "฿21,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354th_a",
+      "priceKeys": [
+        "mh354th_a",
+        "mh364th_a",
+        "mh374th_a",
+        "mh394th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 25900,
+      "displayedPriceText": "฿25,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784th_a",
+      "priceKeys": [
+        "mh784th_a",
+        "mh794th_a",
+        "mh7a4th_a",
+        "mh7c4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 27900,
+      "displayedPriceText": "฿27,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4th_a",
+      "priceKeys": [
+        "mh5n4th_a",
+        "mh5p4th_a",
+        "mh5q4th_a",
+        "mh5t4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 28900,
+      "displayedPriceText": "฿28,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4th_a",
+      "priceKeys": [
+        "mh7d4th_a",
+        "mh7e4th_a",
+        "mh7f4th_a",
+        "mh7g4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 31900,
+      "displayedPriceText": "฿31,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4th_a",
+      "priceKeys": [
+        "mh3a4th_a",
+        "mh3c4th_a",
+        "mh3d4th_a",
+        "mh3e4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 32900,
+      "displayedPriceText": "฿32,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4th_a",
+      "priceKeys": [
+        "mh5u4th_a",
+        "mh5v4th_a",
+        "mh5w4th_a",
+        "mh5x4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 32900,
+      "displayedPriceText": "฿32,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4th_a",
+      "priceKeys": [
+        "mh9d4th_a",
+        "mh9e4th_a",
+        "mh9f4th_a",
+        "mh9g4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 34900,
+      "displayedPriceText": "฿34,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4th_a",
+      "priceKeys": [
+        "mh7h4th_a",
+        "mh7j4th_a",
+        "mh7k4th_a",
+        "mh7l4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 38900,
+      "displayedPriceText": "฿38,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4th_a",
+      "priceKeys": [
+        "mh9h4th_a",
+        "mh9j4th_a",
+        "mh9k4th_a",
+        "mh9l4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 38900,
+      "displayedPriceText": "฿38,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4th_a",
+      "priceKeys": [
+        "mh3g4th_a",
+        "mh3h4th_a",
+        "mh3j4th_a",
+        "mh3k4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 39900,
+      "displayedPriceText": "฿39,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4th_a",
+      "priceKeys": [
+        "mh5y4th_a",
+        "mh604th_a",
+        "mh614th_a",
+        "mh624th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 39900,
+      "displayedPriceText": "฿39,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4th_a",
+      "priceKeys": [
+        "mh7m4th_a",
+        "mh7n4th_a",
+        "mh7p4th_a",
+        "mh7q4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 45900,
+      "displayedPriceText": "฿45,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4th_a",
+      "priceKeys": [
+        "mh9m4th_a",
+        "mh9n4th_a",
+        "mh9p4th_a",
+        "mh9q4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 45900,
+      "displayedPriceText": "฿45,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634th_a",
+      "priceKeys": [
+        "mh634th_a",
+        "mh644th_a",
+        "mh654th_a",
+        "mhdk4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 46900,
+      "displayedPriceText": "฿46,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4th_a",
+      "priceKeys": [
+        "mh9r4th_a",
+        "mh9t4th_a",
+        "mh9u4th_a",
+        "mh9v4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 52900,
+      "displayedPriceText": "฿52,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:47:56.770Z",
+  "familyUrl": "https://www.apple.com/br/shop/buy-ipad/ipad-mini",
+  "currency": "BRL",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63bz_a",
+      "priceKeys": [
+        "mxn63bz_a",
+        "mxn73bz_a",
+        "mxn83bz_a",
+        "mxn93bz_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 6299,
+      "displayedPriceText": "R$ 6.299,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3bz_a",
+      "priceKeys": [
+        "mxna3bz_a",
+        "mxnc3bz_a",
+        "mxnd3bz_a",
+        "mxne3bz_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 7499,
+      "displayedPriceText": "R$ 7.499,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3bz_a",
+      "priceKeys": [
+        "mxpn3bz_a",
+        "mxpp3bz_a",
+        "mxpq3bz_a",
+        "mxpr3bz_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 8299,
+      "displayedPriceText": "R$ 8.299,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3bz_a",
+      "priceKeys": [
+        "mxpt3bz_a",
+        "mxpw3bz_a",
+        "mxpx3bz_a",
+        "mxpy3bz_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 9499,
+      "displayedPriceText": "R$ 9.499,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3bz_a",
+      "priceKeys": [
+        "mygy3bz_a",
+        "myh13bz_a",
+        "myh23bz_a",
+        "myh33bz_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 9899,
+      "displayedPriceText": "R$ 9.899,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3bz_a",
+      "priceKeys": [
+        "myhc3bz_a",
+        "myhd3bz_a",
+        "myhe3bz_a",
+        "myhf3bz_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 11899,
+      "displayedPriceText": "R$ 11.899,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    }
+  ]
+}

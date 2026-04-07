@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:08:32.211Z",
+  "familyUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-17e",
+  "currency": "CAD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrn4vc_a",
+      "priceKeys": [
+        "mhrn4vc_a",
+        "mhrp4vc_a",
+        "mhrq4vc_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 899,
+      "displayedPriceText": "$899.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhrr4vc_a",
+      "priceKeys": [
+        "mhrr4vc_a",
+        "mhrt4vc_a",
+        "mhru4vc_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 1199,
+      "displayedPriceText": "$1,199.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    }
+  ]
+}

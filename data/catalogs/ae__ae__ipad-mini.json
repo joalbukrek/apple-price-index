@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:43.937Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-ipad/ipad-mini",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63ab_a",
+      "priceKeys": [
+        "mxn63ab_a",
+        "mxn73ab_a",
+        "mxn83ab_a",
+        "mxn93ab_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 2099,
+      "displayedPriceText": "AED 2,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3ab_a",
+      "priceKeys": [
+        "mxna3ab_a",
+        "mxnc3ab_a",
+        "mxnd3ab_a",
+        "mxne3ab_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 2499,
+      "displayedPriceText": "AED 2,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3ab_a",
+      "priceKeys": [
+        "mxpn3ab_a",
+        "mxpp3ab_a",
+        "mxpq3ab_a",
+        "mxpr3ab_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 2699,
+      "displayedPriceText": "AED 2,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3ab_a",
+      "priceKeys": [
+        "mxpt3ab_a",
+        "mxpw3ab_a",
+        "mxpx3ab_a",
+        "mxpy3ab_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 3099,
+      "displayedPriceText": "AED 3,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3ab_a",
+      "priceKeys": [
+        "mygy3ab_a",
+        "myh13ab_a",
+        "myh23ab_a",
+        "myh33ab_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 3299,
+      "displayedPriceText": "AED 3,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3ab_a",
+      "priceKeys": [
+        "myhc3ab_a",
+        "myhd3ab_a",
+        "myhe3ab_a",
+        "myhf3ab_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 3899,
+      "displayedPriceText": "AED 3,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

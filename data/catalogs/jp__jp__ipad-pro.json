@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:14.403Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-ipad/ipad-pro",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4j_a",
+      "priceKeys": [
+        "mdwk4j_a",
+        "mdwl4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 168800,
+      "displayedPriceText": "<span>168,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4j_a",
+      "priceKeys": [
+        "mdwm4j_a",
+        "mdwn4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 204800,
+      "displayedPriceText": "<span>204,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4j_a",
+      "priceKeys": [
+        "me2n4j_a",
+        "me2p4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 204800,
+      "displayedPriceText": "<span>204,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4j_a",
+      "priceKeys": [
+        "mdyj4j_a",
+        "mdyk4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 218800,
+      "displayedPriceText": "<span>218,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4j_a",
+      "priceKeys": [
+        "me2q4j_a",
+        "me2t4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 240800,
+      "displayedPriceText": "<span>240,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4j_a",
+      "priceKeys": [
+        "mdyl4j_a",
+        "mdym4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 254800,
+      "displayedPriceText": "<span>254,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4j_a",
+      "priceKeys": [
+        "me7w4j_a",
+        "me7x4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 254800,
+      "displayedPriceText": "<span>254,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4j_a",
+      "priceKeys": [
+        "mdwp4j_a",
+        "mdwq4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 272800,
+      "displayedPriceText": "<span>272,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4j_a",
+      "priceKeys": [
+        "mdwr4j_a",
+        "mdwt4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 288800,
+      "displayedPriceText": "<span>288,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4j_a",
+      "priceKeys": [
+        "me7y4j_a",
+        "me8c4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 290800,
+      "displayedPriceText": "<span>290,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4j_a",
+      "priceKeys": [
+        "me2u4j_a",
+        "me2v4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 308800,
+      "displayedPriceText": "<span>308,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4j_a",
+      "priceKeys": [
+        "mdyn4j_a",
+        "mdyp4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 322800,
+      "displayedPriceText": "<span>322,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4j_a",
+      "priceKeys": [
+        "me2w4j_a",
+        "me2x4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 324800,
+      "displayedPriceText": "<span>324,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4j_a",
+      "priceKeys": [
+        "mdyq4j_a",
+        "mdyr4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 338800,
+      "displayedPriceText": "<span>338,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4j_a",
+      "priceKeys": [
+        "mdwu4j_a",
+        "mdwv4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 340800,
+      "displayedPriceText": "<span>340,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4j_a",
+      "priceKeys": [
+        "mdww4j_a",
+        "mdwx4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 356800,
+      "displayedPriceText": "<span>356,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4j_a",
+      "priceKeys": [
+        "me8d4j_a",
+        "me8f4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 358800,
+      "displayedPriceText": "<span>358,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4j_a",
+      "priceKeys": [
+        "me8g4j_a",
+        "me8h4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 374800,
+      "displayedPriceText": "<span>374,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4j_a",
+      "priceKeys": [
+        "me2y4j_a",
+        "me6a4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 376800,
+      "displayedPriceText": "<span>376,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4j_a",
+      "priceKeys": [
+        "mdyt4j_a",
+        "mdyu4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 390800,
+      "displayedPriceText": "<span>390,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4j_a",
+      "priceKeys": [
+        "me6c4j_a",
+        "me6d4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 392800,
+      "displayedPriceText": "<span>392,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4j_a",
+      "priceKeys": [
+        "mdyv4j_a",
+        "mdyw4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 406800,
+      "displayedPriceText": "<span>406,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4j_a",
+      "priceKeys": [
+        "me8j4j_a",
+        "me8k4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 426800,
+      "displayedPriceText": "<span>426,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4j_a",
+      "priceKeys": [
+        "me8m4j_a",
+        "me8n4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 442800,
+      "displayedPriceText": "<span>442,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

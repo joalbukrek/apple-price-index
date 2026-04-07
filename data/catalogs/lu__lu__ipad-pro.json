@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:10.707Z",
+  "familyUrl": "https://www.apple.com/lu/shop/buy-ipad/ipad-pro",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4ty_a",
+      "priceKeys": [
+        "mdwk4ty_a",
+        "mdwl4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1082,
+      "displayedPriceText": "1 082,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4ty_a",
+      "priceKeys": [
+        "mdwm4ty_a",
+        "mdwn4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1323.74,
+      "displayedPriceText": "1 323,74 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4ty_a",
+      "priceKeys": [
+        "me2n4ty_a",
+        "me2p4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1323.74,
+      "displayedPriceText": "1 323,74 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4ty_a",
+      "priceKeys": [
+        "mdyj4ty_a",
+        "mdyk4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1420.44,
+      "displayedPriceText": "1 420,44 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4ty_a",
+      "priceKeys": [
+        "me2q4ty_a",
+        "me2t4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 1565.48,
+      "displayedPriceText": "1 565,48 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4ty_a",
+      "priceKeys": [
+        "mdyl4ty_a",
+        "mdym4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1662.17,
+      "displayedPriceText": "1 662,17 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4ty_a",
+      "priceKeys": [
+        "me7w4ty_a",
+        "me7x4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1662.17,
+      "displayedPriceText": "1 662,17 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4ty_a",
+      "priceKeys": [
+        "mdwp4ty_a",
+        "mdwq4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 1787.88,
+      "displayedPriceText": "1 787,88 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4ty_a",
+      "priceKeys": [
+        "me7y4ty_a",
+        "me8c4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 1903.91,
+      "displayedPriceText": "1 903,91 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4ty_a",
+      "priceKeys": [
+        "mdwr4ty_a",
+        "mdwt4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 1913.58,
+      "displayedPriceText": "1 913,58 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4ty_a",
+      "priceKeys": [
+        "me2u4ty_a",
+        "me2v4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2029.61,
+      "displayedPriceText": "2 029,61 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4ty_a",
+      "priceKeys": [
+        "mdyn4ty_a",
+        "mdyp4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 2126.31,
+      "displayedPriceText": "2 126,31 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4ty_a",
+      "priceKeys": [
+        "me2w4ty_a",
+        "me2x4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2155.32,
+      "displayedPriceText": "2 155,32 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4ty_a",
+      "priceKeys": [
+        "mdwu4ty_a",
+        "mdwv4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2252,
+      "displayedPriceText": "2 252,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4ty_a",
+      "priceKeys": [
+        "mdyq4ty_a",
+        "mdyr4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 2252,
+      "displayedPriceText": "2 252,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4ty_a",
+      "priceKeys": [
+        "me8d4ty_a",
+        "me8f4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2368.04,
+      "displayedPriceText": "2 368,04 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4ty_a",
+      "priceKeys": [
+        "mdww4ty_a",
+        "mdwx4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 2377.71,
+      "displayedPriceText": "2 377,71 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4ty_a",
+      "priceKeys": [
+        "me2y4ty_a",
+        "me6a4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 2493.74,
+      "displayedPriceText": "2 493,74 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4ty_a",
+      "priceKeys": [
+        "me8g4ty_a",
+        "me8h4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2493.74,
+      "displayedPriceText": "2 493,74 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4ty_a",
+      "priceKeys": [
+        "mdyt4ty_a",
+        "mdyu4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2590.44,
+      "displayedPriceText": "2 590,44 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4ty_a",
+      "priceKeys": [
+        "me6c4ty_a",
+        "me6d4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 2619.44,
+      "displayedPriceText": "2 619,44 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4ty_a",
+      "priceKeys": [
+        "mdyv4ty_a",
+        "mdyw4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 2716.14,
+      "displayedPriceText": "2 716,14 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4ty_a",
+      "priceKeys": [
+        "me8j4ty_a",
+        "me8k4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 2832.17,
+      "displayedPriceText": "2 832,17 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4ty_a",
+      "priceKeys": [
+        "me8m4ty_a",
+        "me8n4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 2957.88,
+      "displayedPriceText": "2 957,88 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    }
+  ]
+}

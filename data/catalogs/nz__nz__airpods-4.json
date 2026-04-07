@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:14.643Z",
+  "familyUrl": "https://www.apple.com/nz/shop/buy-airpods/airpods-4",
+  "currency": "NZD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "249_00",
+      "priceKeys": [
+        "249_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 249,
+      "displayedPriceText": "NZ$249.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "349_00",
+      "priceKeys": [
+        "349_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 349,
+      "displayedPriceText": "NZ$349.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    }
+  ]
+}

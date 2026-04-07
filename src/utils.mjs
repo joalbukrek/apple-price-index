@@ -46,12 +46,23 @@ export function humanizeIdentifier(input = "") {
   return input
     .replace(/_/g, " ")
     .replace(/-/g, " ")
+    .replace(/\bwithactivenoisecancellation\b/gi, "With Active Noise Cancellation")
+    .replace(/\bwithoutactivenoisecancellation\b/gi, "Without Active Noise Cancellation")
+    .replace(/\bwificell\b/gi, "Wi-Fi + Cellular")
+    .replace(/\bwificellular\b/gi, "Wi-Fi + Cellular")
+    .replace(/\bwifi\b/gi, "Wi-Fi")
+    .replace(/\bgpscell\b/gi, "GPS + Cellular")
+    .replace(/\bgps\b/gi, "GPS")
     .replace(/\bspaceblack\b/gi, "Space Black")
     .replace(/\bnano texture\b/gi, "Nano Texture")
     .replace(/\bmidnight\b/gi, "Midnight")
     .replace(/\bstarlight\b/gi, "Starlight")
     .replace(/\bskyblue\b/gi, "Sky Blue")
+    .replace(/\b(\d+)\s+(\d+)inch\b/gi, "$1.$2-inch")
+    .replace(/\bairpods\b/gi, "AirPods")
     .replace(/\bmacbook\b/gi, "MacBook")
+    .replace(/\biphone\b/gi, "iPhone")
+    .replace(/\bipad\b/gi, "iPad")
     .replace(/\bimac\b/gi, "iMac")
     .replace(/\bmac\b/gi, "Mac")
     .replace(/\bm(\d+)\s*pro\b/gi, "M$1 Pro")
@@ -123,15 +134,95 @@ export function formatDeltaTry(amount) {
   return `${sign}${formatTry(amount)}`;
 }
 
+function isCombiningCodePoint(codePoint) {
+  return (
+    (codePoint >= 0x0300 && codePoint <= 0x036f) ||
+    (codePoint >= 0x1ab0 && codePoint <= 0x1aff) ||
+    (codePoint >= 0x1dc0 && codePoint <= 0x1dff) ||
+    (codePoint >= 0x20d0 && codePoint <= 0x20ff) ||
+    (codePoint >= 0xfe20 && codePoint <= 0xfe2f)
+  );
+}
+
+function isWideCodePoint(codePoint) {
+  return (
+    codePoint === 0x2329 ||
+    codePoint === 0x232a ||
+    (codePoint >= 0x1100 &&
+      (codePoint <= 0x115f ||
+        codePoint === 0x303f ||
+        (codePoint >= 0x2e80 && codePoint <= 0xa4cf) ||
+        (codePoint >= 0xac00 && codePoint <= 0xd7a3) ||
+        (codePoint >= 0xf900 && codePoint <= 0xfaff) ||
+        (codePoint >= 0xfe10 && codePoint <= 0xfe19) ||
+        (codePoint >= 0xfe30 && codePoint <= 0xfe6f) ||
+        (codePoint >= 0xff00 && codePoint <= 0xff60) ||
+        (codePoint >= 0xffe0 && codePoint <= 0xffe6) ||
+        (codePoint >= 0x1f300 && codePoint <= 0x1f64f) ||
+        (codePoint >= 0x1f900 && codePoint <= 0x1f9ff) ||
+        (codePoint >= 0x20000 && codePoint <= 0x3fffd)))
+  );
+}
+
+function charDisplayWidth(char) {
+  const codePoint = char.codePointAt(0);
+  if (codePoint == null || codePoint === 0 || isCombiningCodePoint(codePoint)) {
+    return 0;
+  }
+
+  return isWideCodePoint(codePoint) ? 2 : 1;
+}
+
+function stringDisplayWidth(value) {
+  let width = 0;
+
+  for (const char of String(value ?? "")) {
+    width += charDisplayWidth(char);
+  }
+
+  return width;
+}
+
+function sliceByDisplayWidth(value, maxWidth) {
+  if (!maxWidth) {
+    return "";
+  }
+
+  let width = 0;
+  let output = "";
+
+  for (const char of String(value ?? "")) {
+    const charWidth = charDisplayWidth(char);
+    if (width + charWidth > maxWidth) {
+      break;
+    }
+
+    output += char;
+    width += charWidth;
+  }
+
+  return output;
+}
+
+function padEndDisplayWidth(value, width) {
+  const stringValue = String(value ?? "");
+  const padding = width - stringDisplayWidth(stringValue);
+  if (padding <= 0) {
+    return stringValue;
+  }
+
+  return `${stringValue}${" ".repeat(padding)}`;
+}
+
 function truncate(value, maxWidth) {
   const stringValue = String(value ?? "");
-  if (!maxWidth || stringValue.length <= maxWidth) {
+  if (!maxWidth || stringDisplayWidth(stringValue) <= maxWidth) {
     return stringValue;
   }
   if (maxWidth <= 3) {
-    return stringValue.slice(0, maxWidth);
+    return sliceByDisplayWidth(stringValue, maxWidth);
   }
-  return `${stringValue.slice(0, maxWidth - 3)}...`;
+  return `${sliceByDisplayWidth(stringValue, maxWidth - 3)}...`;
 }
 
 export function renderTable(rows, columns) {
@@ -149,18 +240,15 @@ export function renderTable(rows, columns) {
   );
 
   const widths = columns.map((column, index) =>
-    Math.max(
-      column.label.length,
-      ...renderedRows.map((row) => row[index].length),
-    ),
+    Math.max(column.label.length, ...renderedRows.map((row) => stringDisplayWidth(row[index]))),
   );
 
   const header = columns
-    .map((column, index) => column.label.padEnd(widths[index]))
+    .map((column, index) => padEndDisplayWidth(column.label, widths[index]))
     .join("  ");
   const divider = widths.map((width) => "-".repeat(width)).join("  ");
   const body = renderedRows
-    .map((row) => row.map((cell, index) => cell.padEnd(widths[index])).join("  "))
+    .map((row) => row.map((cell, index) => padEndDisplayWidth(cell, widths[index])).join("  "))
     .join("\n");
 
   return `${header}\n${divider}\n${body}`;

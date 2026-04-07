@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:46.501Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-ipad/ipad-mini",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63ci_a",
+      "priceKeys": [
+        "mxn63ci_a",
+        "mxn73ci_a",
+        "mxn83ci_a",
+        "mxn93ci_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 624990,
+      "displayedPriceText": "$624.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3ci_a",
+      "priceKeys": [
+        "mxna3ci_a",
+        "mxnc3ci_a",
+        "mxnd3ci_a",
+        "mxne3ci_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 744990,
+      "displayedPriceText": "$744.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3ci_a",
+      "priceKeys": [
+        "mxpn3ci_a",
+        "mxpp3ci_a",
+        "mxpq3ci_a",
+        "mxpr3ci_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 804990,
+      "displayedPriceText": "$804.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3ci_a",
+      "priceKeys": [
+        "mxpt3ci_a",
+        "mxpw3ci_a",
+        "mxpx3ci_a",
+        "mxpy3ci_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 924990,
+      "displayedPriceText": "$924.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3ci_a",
+      "priceKeys": [
+        "mygy3ci_a",
+        "myh13ci_a",
+        "myh23ci_a",
+        "myh33ci_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 984990,
+      "displayedPriceText": "$984.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3ci_a",
+      "priceKeys": [
+        "myhc3ci_a",
+        "myhd3ci_a",
+        "myhe3ci_a",
+        "myhf3ci_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1164990,
+      "displayedPriceText": "$1.164.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

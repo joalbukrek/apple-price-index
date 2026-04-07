@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:12.534Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg674j_a_unlocked_jp",
+      "priceKeys": [
+        "mg674j_a_docomo_iphone17",
+        "mg674j_a_softbank_iphone17",
+        "mg674j_a_unlocked_jp",
+        "mg684j_a_docomo_iphone17",
+        "mg684j_a_softbank_iphone17",
+        "mg684j_a_unlocked_jp",
+        "mg694j_a_docomo_iphone17",
+        "mg694j_a_softbank_iphone17",
+        "mg694j_a_unlocked_jp",
+        "mg6a4j_a_docomo_iphone17",
+        "mg6a4j_a_softbank_iphone17",
+        "mg6a4j_a_unlocked_jp",
+        "mg6c4j_a_docomo_iphone17",
+        "mg6c4j_a_softbank_iphone17",
+        "mg6c4j_a_unlocked_jp"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 129800,
+      "displayedPriceText": "<span>129,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6d4j_a_unlocked_jp",
+      "priceKeys": [
+        "mg6d4j_a_docomo_iphone17",
+        "mg6d4j_a_softbank_iphone17",
+        "mg6d4j_a_unlocked_jp",
+        "mg6e4j_a_docomo_iphone17",
+        "mg6e4j_a_softbank_iphone17",
+        "mg6e4j_a_unlocked_jp",
+        "mg6f4j_a_docomo_iphone17",
+        "mg6f4j_a_softbank_iphone17",
+        "mg6f4j_a_unlocked_jp",
+        "mg6g4j_a_docomo_iphone17",
+        "mg6g4j_a_softbank_iphone17",
+        "mg6g4j_a_unlocked_jp",
+        "mg6h4j_a_docomo_iphone17",
+        "mg6h4j_a_softbank_iphone17",
+        "mg6h4j_a_unlocked_jp"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 164800,
+      "displayedPriceText": "<span>164,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

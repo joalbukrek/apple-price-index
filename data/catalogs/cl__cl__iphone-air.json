@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:11:29.622Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-iphone/iphone-air",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4be_a",
+      "priceKeys": [
+        "mg2l4be_a",
+        "mg2m4be_a",
+        "mg2n4be_a",
+        "mg2p4be_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 1299990,
+      "displayedPriceText": "$1.299.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4be_a",
+      "priceKeys": [
+        "mg2q4be_a",
+        "mg2t4be_a",
+        "mg2u4be_a",
+        "mg2v4be_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 1559990,
+      "displayedPriceText": "$1.559.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4be_a",
+      "priceKeys": [
+        "mg2w4be_a",
+        "mg2x4be_a",
+        "mg2y4be_a",
+        "mg304be_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 1819990,
+      "displayedPriceText": "$1.819.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

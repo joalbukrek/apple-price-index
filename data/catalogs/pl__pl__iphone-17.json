@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:11:18.456Z",
+  "familyUrl": "https://www.apple.com/pl/shop/buy-iphone/iphone-17",
+  "currency": "PLN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4hx_a",
+      "priceKeys": [
+        "mg6j4hx_a",
+        "mg6k4hx_a",
+        "mg6l4hx_a",
+        "mg6m4hx_a",
+        "mg6n4hx_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 3999,
+      "displayedPriceText": "3 999,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4hx_a",
+      "priceKeys": [
+        "mg6p4hx_a",
+        "mg6q4hx_a",
+        "mg6t4hx_a",
+        "mg6u4hx_a",
+        "mg6v4hx_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 4999,
+      "displayedPriceText": "4 999,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    }
+  ]
+}

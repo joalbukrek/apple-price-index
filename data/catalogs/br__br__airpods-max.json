@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:07:15.753Z",
+  "familyUrl": "https://www.apple.com/br/shop/buy-airpods/airpods-max-2",
+  "currency": "BRL",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "6590_00",
+      "priceKeys": [
+        "6590_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 6590,
+      "displayedPriceText": "R$ 6.590,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    }
+  ]
+}

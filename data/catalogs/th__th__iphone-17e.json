@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:51.614Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-17e",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrv4zp_a",
+      "priceKeys": [
+        "mhrv4zp_a",
+        "mhrw4zp_a",
+        "mhrx4zp_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 22900,
+      "displayedPriceText": "฿22,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhry4zp_a",
+      "priceKeys": [
+        "mhry4zp_a",
+        "mhu04zp_a",
+        "mhu34zp_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 30900,
+      "displayedPriceText": "฿30,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

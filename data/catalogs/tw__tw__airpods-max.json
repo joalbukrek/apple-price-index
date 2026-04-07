@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:28.534Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-airpods/airpods-max-2",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "17990_00",
+      "priceKeys": [
+        "17990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 17990,
+      "displayedPriceText": "NT$17,990",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

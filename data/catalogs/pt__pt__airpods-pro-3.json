@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:16.760Z",
+  "familyUrl": "https://www.apple.com/pt/shop/buy-airpods/airpods-pro-3",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "249_00",
+      "priceKeys": [
+        "249_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 249,
+      "displayedPriceText": "249,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/pt/",
+      "countryCode": "pt",
+      "countryName": "Portugal"
+    }
+  ]
+}

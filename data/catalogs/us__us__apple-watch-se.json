@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:50:01.719Z",
+  "familyUrl": "https://www.apple.com/us/shop/buy-watch/apple-watch-se",
+  "currency": "USD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gps",
+      "priceKey": "watch_cases-aluminum-40mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS",
+      "displayedPrice": 249,
+      "displayedPriceText": "$249.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gps",
+      "priceKey": "watch_cases-aluminum-44mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS",
+      "displayedPrice": 279,
+      "displayedPriceText": "$279.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gpscell",
+      "priceKey": "watch_cases-aluminum-40mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS + Cellular",
+      "displayedPrice": 299,
+      "displayedPriceText": "$299.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gpscell",
+      "priceKey": "watch_cases-aluminum-44mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS + Cellular",
+      "displayedPrice": 329,
+      "displayedPriceText": "$329.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:07:12.085Z",
+  "familyUrl": "https://www.apple.com/br/shop/buy-airpods/airpods-pro-3",
+  "currency": "BRL",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "2699_00",
+      "priceKeys": [
+        "2699_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 2699,
+      "displayedPriceText": "R$ 2.699,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:50:49.493Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-watch/apple-watch-ultra",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-ultra::49mm",
+      "familySlug": "apple-watch-ultra",
+      "familyName": "Apple Watch Ultra",
+      "variantKey": "49mm",
+      "priceKey": "watch_cases-49mm",
+      "priceKeys": [
+        "watch_cases-49mm"
+      ],
+      "signature": "watch_cases-dimensionCaseSize:49mm",
+      "title": "Apple Watch Ultra | 49mm",
+      "displayedPrice": 1199,
+      "displayedPriceText": "S$1,199.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}

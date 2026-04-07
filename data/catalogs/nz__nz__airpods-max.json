@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:22.475Z",
+  "familyUrl": "https://www.apple.com/nz/shop/buy-airpods/airpods-max-2",
+  "currency": "NZD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "1149_00",
+      "priceKeys": [
+        "1149_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 1149,
+      "displayedPriceText": "NZ$1,149.00",
+      "currency": "NZD",
+      "storefrontUrl": "https://www.apple.com/nz/",
+      "countryCode": "nz",
+      "countryName": "New Zealand"
+    }
+  ]
+}

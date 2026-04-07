@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:05:35.967Z",
+  "familyUrl": "https://www.apple.com/mx/shop/buy-airpods/airpods-4",
+  "currency": "MXN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "2999_00",
+      "priceKeys": [
+        "2999_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 2999,
+      "displayedPriceText": "$2,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "4299_00",
+      "priceKeys": [
+        "4299_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 4299,
+      "displayedPriceText": "$4,299.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    }
+  ]
+}

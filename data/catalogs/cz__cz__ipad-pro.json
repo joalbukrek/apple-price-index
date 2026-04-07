@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:45:27.577Z",
+  "familyUrl": "https://www.apple.com/cz/shop/buy-ipad/ipad-pro",
+  "currency": "CZK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4hc_a",
+      "priceKeys": [
+        "mdwk4hc_a",
+        "mdwl4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 26990,
+      "displayedPriceText": "26 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4hc_a",
+      "priceKeys": [
+        "mdwm4hc_a",
+        "mdwn4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 32990,
+      "displayedPriceText": "32 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4hc_a",
+      "priceKeys": [
+        "me2n4hc_a",
+        "me2p4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 32990,
+      "displayedPriceText": "32 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4hc_a",
+      "priceKeys": [
+        "mdyj4hc_a",
+        "mdyk4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 36990,
+      "displayedPriceText": "36 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4hc_a",
+      "priceKeys": [
+        "me2q4hc_a",
+        "me2t4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 38990,
+      "displayedPriceText": "38 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4hc_a",
+      "priceKeys": [
+        "mdyl4hc_a",
+        "mdym4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 42990,
+      "displayedPriceText": "42 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4hc_a",
+      "priceKeys": [
+        "me7w4hc_a",
+        "me7x4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 42990,
+      "displayedPriceText": "42 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4hc_a",
+      "priceKeys": [
+        "mdwp4hc_a",
+        "mdwq4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 44990,
+      "displayedPriceText": "44 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4hc_a",
+      "priceKeys": [
+        "mdwr4hc_a",
+        "mdwt4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 47990,
+      "displayedPriceText": "47 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4hc_a",
+      "priceKeys": [
+        "me7y4hc_a",
+        "me8c4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 48990,
+      "displayedPriceText": "48 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4hc_a",
+      "priceKeys": [
+        "me2u4hc_a",
+        "me2v4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 50990,
+      "displayedPriceText": "50 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4hc_a",
+      "priceKeys": [
+        "me2w4hc_a",
+        "me2x4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 53990,
+      "displayedPriceText": "53 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4hc_a",
+      "priceKeys": [
+        "mdyn4hc_a",
+        "mdyp4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 54990,
+      "displayedPriceText": "54 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4hc_a",
+      "priceKeys": [
+        "mdwu4hc_a",
+        "mdwv4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 56990,
+      "displayedPriceText": "56 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4hc_a",
+      "priceKeys": [
+        "mdyq4hc_a",
+        "mdyr4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 57990,
+      "displayedPriceText": "57 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4hc_a",
+      "priceKeys": [
+        "mdww4hc_a",
+        "mdwx4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 59990,
+      "displayedPriceText": "59 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4hc_a",
+      "priceKeys": [
+        "me8d4hc_a",
+        "me8f4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 60990,
+      "displayedPriceText": "60 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4hc_a",
+      "priceKeys": [
+        "me2y4hc_a",
+        "me6a4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 62990,
+      "displayedPriceText": "62 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4hc_a",
+      "priceKeys": [
+        "me8g4hc_a",
+        "me8h4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 63990,
+      "displayedPriceText": "63 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4hc_a",
+      "priceKeys": [
+        "me6c4hc_a",
+        "me6d4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 65990,
+      "displayedPriceText": "65 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4hc_a",
+      "priceKeys": [
+        "mdyt4hc_a",
+        "mdyu4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 66990,
+      "displayedPriceText": "66 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4hc_a",
+      "priceKeys": [
+        "mdyv4hc_a",
+        "mdyw4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 69990,
+      "displayedPriceText": "69 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4hc_a",
+      "priceKeys": [
+        "me8j4hc_a",
+        "me8k4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 72990,
+      "displayedPriceText": "72 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4hc_a",
+      "priceKeys": [
+        "me8m4hc_a",
+        "me8n4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 75990,
+      "displayedPriceText": "75 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    }
+  ]
+}

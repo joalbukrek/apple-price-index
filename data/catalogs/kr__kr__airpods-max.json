@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:50.765Z",
+  "familyUrl": "https://www.apple.com/kr/shop/buy-airpods/airpods-max-2",
+  "currency": "KRW",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "849000_00",
+      "priceKeys": [
+        "849000_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 849000,
+      "displayedPriceText": "₩849,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    }
+  ]
+}

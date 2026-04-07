@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:38.455Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304ab_a",
+      "priceKeys": [
+        "mh304ab_a",
+        "mh314ab_a",
+        "mh334ab_a",
+        "mh344ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 2499,
+      "displayedPriceText": "AED 2,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354ab_a",
+      "priceKeys": [
+        "mh354ab_a",
+        "mh364ab_a",
+        "mh374ab_a",
+        "mh394ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 2899,
+      "displayedPriceText": "AED 2,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784ab_a",
+      "priceKeys": [
+        "mh784ab_a",
+        "mh794ab_a",
+        "mh7a4ab_a",
+        "mh7c4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 3099,
+      "displayedPriceText": "AED 3,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4ab_a",
+      "priceKeys": [
+        "mh5n4ab_a",
+        "mh5p4ab_a",
+        "mh5q4ab_a",
+        "mh5t4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 3299,
+      "displayedPriceText": "AED 3,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4ab_a",
+      "priceKeys": [
+        "mh7d4ab_a",
+        "mh7e4ab_a",
+        "mh7f4ab_a",
+        "mh7g4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 3499,
+      "displayedPriceText": "AED 3,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4ab_a",
+      "priceKeys": [
+        "mh3a4ab_a",
+        "mh3c4ab_a",
+        "mh3d4ab_a",
+        "mh3e4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 3699,
+      "displayedPriceText": "AED 3,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4ab_a",
+      "priceKeys": [
+        "mh5u4ab_a",
+        "mh5v4ab_a",
+        "mh5w4ab_a",
+        "mh5x4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 3699,
+      "displayedPriceText": "AED 3,699.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4ab_a",
+      "priceKeys": [
+        "mh9d4ab_a",
+        "mh9e4ab_a",
+        "mh9f4ab_a",
+        "mh9g4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 3899,
+      "displayedPriceText": "AED 3,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4ab_a",
+      "priceKeys": [
+        "mh7h4ab_a",
+        "mh7j4ab_a",
+        "mh7k4ab_a",
+        "mh7l4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4ab_a",
+      "priceKeys": [
+        "mh9h4ab_a",
+        "mh9j4ab_a",
+        "mh9k4ab_a",
+        "mh9l4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 4299,
+      "displayedPriceText": "AED 4,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4ab_a",
+      "priceKeys": [
+        "mh3g4ab_a",
+        "mh3h4ab_a",
+        "mh3j4ab_a",
+        "mh3k4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 4499,
+      "displayedPriceText": "AED 4,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4ab_a",
+      "priceKeys": [
+        "mh5y4ab_a",
+        "mh604ab_a",
+        "mh614ab_a",
+        "mh624ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 4499,
+      "displayedPriceText": "AED 4,499.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4ab_a",
+      "priceKeys": [
+        "mh7m4ab_a",
+        "mh7n4ab_a",
+        "mh7p4ab_a",
+        "mh7q4ab_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 5099,
+      "displayedPriceText": "AED 5,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4ab_a",
+      "priceKeys": [
+        "mh9m4ab_a",
+        "mh9n4ab_a",
+        "mh9p4ab_a",
+        "mh9q4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 5099,
+      "displayedPriceText": "AED 5,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634ab_a",
+      "priceKeys": [
+        "mh634ab_a",
+        "mh644ab_a",
+        "mh654ab_a",
+        "mhdk4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 5299,
+      "displayedPriceText": "AED 5,299.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4ab_a",
+      "priceKeys": [
+        "mh9r4ab_a",
+        "mh9t4ab_a",
+        "mh9u4ab_a",
+        "mh9v4ab_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 5899,
+      "displayedPriceText": "AED 5,899.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:02.525Z",
+  "familyUrl": "https://www.apple.com/uk/shop/buy-ipad/ipad",
+  "currency": "GBP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad::wifi-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-128gb",
+      "priceKey": "md3y4kn_a",
+      "priceKeys": [
+        "md3y4kn_a",
+        "md4a4kn_a",
+        "md4d4kn_a",
+        "md4e4kn_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi | 128GB",
+      "displayedPrice": 329,
+      "displayedPriceText": "£329.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "ipad::wifi-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-256gb",
+      "priceKey": "md4g4kn_a",
+      "priceKeys": [
+        "md4g4kn_a",
+        "md4h4kn_a",
+        "md4j4kn_a",
+        "md4p4kn_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi | 256GB",
+      "displayedPrice": 429,
+      "displayedPriceText": "£429.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "ipad::wificell-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-128gb",
+      "priceKey": "md7f4kn_a",
+      "priceKeys": [
+        "md7f4kn_a",
+        "md7g4kn_a",
+        "md7h4kn_a",
+        "md7j4kn_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 479,
+      "displayedPriceText": "£479.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "ipad::wificell-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-256gb",
+      "priceKey": "md7k4kn_a",
+      "priceKeys": [
+        "md7k4kn_a",
+        "md7l4kn_a",
+        "md7m4kn_a",
+        "md7n4kn_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 579,
+      "displayedPriceText": "£579.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "ipad::wifi-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-512gb",
+      "priceKey": "md4q4kn_a",
+      "priceKeys": [
+        "md4q4kn_a",
+        "md4y4kn_a",
+        "md5a4kn_a",
+        "md5c4kn_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi | 512GB",
+      "displayedPrice": 629,
+      "displayedPriceText": "£629.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "ipad::wificell-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-512gb",
+      "priceKey": "md7p4kn_a",
+      "priceKeys": [
+        "md7p4kn_a",
+        "md7q4kn_a",
+        "md7r4kn_a",
+        "md7t4kn_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 779,
+      "displayedPriceText": "£779.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    }
+  ]
+}

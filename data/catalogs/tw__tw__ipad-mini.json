@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:31.361Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-ipad/ipad-mini",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63ta_a",
+      "priceKeys": [
+        "mxn63ta_a",
+        "mxn73ta_a",
+        "mxn83ta_a",
+        "mxn93ta_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 15900,
+      "displayedPriceText": "NT$15,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3ta_a",
+      "priceKeys": [
+        "mxna3ta_a",
+        "mxnc3ta_a",
+        "mxnd3ta_a",
+        "mxne3ta_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 19400,
+      "displayedPriceText": "NT$19,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3ta_a",
+      "priceKeys": [
+        "mxpn3ta_a",
+        "mxpp3ta_a",
+        "mxpq3ta_a",
+        "mxpr3ta_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 20900,
+      "displayedPriceText": "NT$20,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3ta_a",
+      "priceKeys": [
+        "mxpt3ta_a",
+        "mxpw3ta_a",
+        "mxpx3ta_a",
+        "mxpy3ta_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 24400,
+      "displayedPriceText": "NT$24,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3ta_a",
+      "priceKeys": [
+        "mygy3ta_a",
+        "myh13ta_a",
+        "myh23ta_a",
+        "myh33ta_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 26400,
+      "displayedPriceText": "NT$26,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3ta_a",
+      "priceKeys": [
+        "myhc3ta_a",
+        "myhd3ta_a",
+        "myhe3ta_a",
+        "myhf3ta_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 31400,
+      "displayedPriceText": "NT$31,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:45:47.975Z",
+  "familyUrl": "https://www.apple.com/ie/shop/buy-ipad/ipad-air",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304kn_a",
+      "priceKeys": [
+        "mh304kn_a",
+        "mh314kn_a",
+        "mh334kn_a",
+        "mh344kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 679,
+      "displayedPriceText": "€679.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354kn_a",
+      "priceKeys": [
+        "mh354kn_a",
+        "mh364kn_a",
+        "mh374kn_a",
+        "mh394kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 809,
+      "displayedPriceText": "€809.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784kn_a",
+      "priceKeys": [
+        "mh784kn_a",
+        "mh794kn_a",
+        "mh7a4kn_a",
+        "mh7c4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 849,
+      "displayedPriceText": "€849.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4kn_a",
+      "priceKeys": [
+        "mh5n4kn_a",
+        "mh5p4kn_a",
+        "mh5q4kn_a",
+        "mh5t4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 879,
+      "displayedPriceText": "€879.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4kn_a",
+      "priceKeys": [
+        "mh7d4kn_a",
+        "mh7e4kn_a",
+        "mh7f4kn_a",
+        "mh7g4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 979,
+      "displayedPriceText": "€979.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4kn_a",
+      "priceKeys": [
+        "mh5u4kn_a",
+        "mh5v4kn_a",
+        "mh5w4kn_a",
+        "mh5x4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 1009,
+      "displayedPriceText": "€1,009.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4kn_a",
+      "priceKeys": [
+        "mh9d4kn_a",
+        "mh9e4kn_a",
+        "mh9f4kn_a",
+        "mh9g4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1049,
+      "displayedPriceText": "€1,049.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4kn_a",
+      "priceKeys": [
+        "mh3a4kn_a",
+        "mh3c4kn_a",
+        "mh3d4kn_a",
+        "mh3e4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1059,
+      "displayedPriceText": "€1,059.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4kn_a",
+      "priceKeys": [
+        "mh9h4kn_a",
+        "mh9j4kn_a",
+        "mh9k4kn_a",
+        "mh9l4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1179,
+      "displayedPriceText": "€1,179.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4kn_a",
+      "priceKeys": [
+        "mh7h4kn_a",
+        "mh7j4kn_a",
+        "mh7k4kn_a",
+        "mh7l4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1229,
+      "displayedPriceText": "€1,229.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4kn_a",
+      "priceKeys": [
+        "mh5y4kn_a",
+        "mh604kn_a",
+        "mh614kn_a",
+        "mh624kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1259,
+      "displayedPriceText": "€1,259.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4kn_a",
+      "priceKeys": [
+        "mh3g4kn_a",
+        "mh3h4kn_a",
+        "mh3j4kn_a",
+        "mh3k4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1309,
+      "displayedPriceText": "€1,309.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4kn_a",
+      "priceKeys": [
+        "mh9m4kn_a",
+        "mh9n4kn_a",
+        "mh9p4kn_a",
+        "mh9q4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1429,
+      "displayedPriceText": "€1,429.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4kn_a",
+      "priceKeys": [
+        "mh7m4kn_a",
+        "mh7n4kn_a",
+        "mh7p4kn_a",
+        "mh7q4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1479,
+      "displayedPriceText": "€1,479.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634kn_a",
+      "priceKeys": [
+        "mh634kn_a",
+        "mh644kn_a",
+        "mh654kn_a",
+        "mhdk4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1509,
+      "displayedPriceText": "€1,509.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4kn_a",
+      "priceKeys": [
+        "mh9r4kn_a",
+        "mh9t4kn_a",
+        "mh9u4kn_a",
+        "mh9v4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1679,
+      "displayedPriceText": "€1,679.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    }
+  ]
+}

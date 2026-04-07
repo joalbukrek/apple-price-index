@@ -37,17 +37,24 @@ export async function writeBundledFxSnapshot(response) {
 }
 
 export async function loadFxRates({ refresh = false } = {}) {
-  if (!refresh) {
-    const bundledSnapshot = await readBundledFxSnapshot();
+  const bundledSnapshot = await readBundledFxSnapshot();
+
+  if (!refresh && bundledSnapshot) {
+    return bundledSnapshot;
+  }
+
+  try {
+    return await fetchJson(FX_URL, {
+      refresh,
+      cacheHours: 6,
+    });
+  } catch (error) {
     if (bundledSnapshot) {
       return bundledSnapshot;
     }
-  }
 
-  return fetchJson(FX_URL, {
-    refresh,
-    cacheHours: 6,
-  });
+    throw error;
+  }
 }
 
 export function convertToTry(amount, currency, fx) {

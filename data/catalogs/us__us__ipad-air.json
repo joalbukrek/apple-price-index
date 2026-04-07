@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:41:19.729Z",
+  "familyUrl": "https://www.apple.com/us/shop/buy-ipad/ipad-air",
+  "currency": "USD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304ll_a",
+      "priceKeys": [
+        "mh304ll_a",
+        "mh314ll_a",
+        "mh334ll_a",
+        "mh344ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 599,
+      "displayedPriceText": "$599.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354ll_a",
+      "priceKeys": [
+        "mh354ll_a",
+        "mh364ll_a",
+        "mh374ll_a",
+        "mh394ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 699,
+      "displayedPriceText": "$699.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784ll_a",
+      "priceKeys": [
+        "mh784ll_a",
+        "mh794ll_a",
+        "mh7a4ll_a",
+        "mh7c4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 749,
+      "displayedPriceText": "$749.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4ll_a",
+      "priceKeys": [
+        "mh5n4ll_a",
+        "mh5p4ll_a",
+        "mh5q4ll_a",
+        "mh5t4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "$799.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4ll_a",
+      "priceKeys": [
+        "mh7d4ll_a",
+        "mh7e4ll_a",
+        "mh7f4ll_a",
+        "mh7g4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 849,
+      "displayedPriceText": "$849.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4ll_a",
+      "priceKeys": [
+        "mh3a4ll_a",
+        "mh3c4ll_a",
+        "mh3d4ll_a",
+        "mh3e4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 899,
+      "displayedPriceText": "$899.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4ll_a",
+      "priceKeys": [
+        "mh5u4ll_a",
+        "mh5v4ll_a",
+        "mh5w4ll_a",
+        "mh5x4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 899,
+      "displayedPriceText": "$899.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4ll_a",
+      "priceKeys": [
+        "mh9d4ll_a",
+        "mh9e4ll_a",
+        "mh9f4ll_a",
+        "mh9g4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 949,
+      "displayedPriceText": "$949.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4ll_a",
+      "priceKeys": [
+        "mh7h4ll_a",
+        "mh7j4ll_a",
+        "mh7k4ll_a",
+        "mh7l4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1049,
+      "displayedPriceText": "$1,049.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4ll_a",
+      "priceKeys": [
+        "mh9h4ll_a",
+        "mh9j4ll_a",
+        "mh9k4ll_a",
+        "mh9l4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1049,
+      "displayedPriceText": "$1,049.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4ll_a",
+      "priceKeys": [
+        "mh3g4ll_a",
+        "mh3h4ll_a",
+        "mh3j4ll_a",
+        "mh3k4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1099,
+      "displayedPriceText": "$1,099.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4ll_a",
+      "priceKeys": [
+        "mh5y4ll_a",
+        "mh604ll_a",
+        "mh614ll_a",
+        "mh624ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 1099,
+      "displayedPriceText": "$1,099.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4ll_a",
+      "priceKeys": [
+        "mh7m4ll_a",
+        "mh7n4ll_a",
+        "mh7p4ll_a",
+        "mh7q4ll_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "$1,249.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4ll_a",
+      "priceKeys": [
+        "mh9m4ll_a",
+        "mh9n4ll_a",
+        "mh9p4ll_a",
+        "mh9q4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "$1,249.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634ll_a",
+      "priceKeys": [
+        "mh634ll_a",
+        "mh644ll_a",
+        "mh654ll_a",
+        "mhdk4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 1299,
+      "displayedPriceText": "$1,299.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4ll_a",
+      "priceKeys": [
+        "mh9r4ll_a",
+        "mh9t4ll_a",
+        "mh9u4ll_a",
+        "mh9v4ll_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 1449,
+      "displayedPriceText": "$1,449.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    }
+  ]
+}

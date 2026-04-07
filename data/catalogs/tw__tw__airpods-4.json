@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:22.414Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-airpods/airpods-4",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "4490_00",
+      "priceKeys": [
+        "4490_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 4490,
+      "displayedPriceText": "NT$4,490",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "5990_00",
+      "priceKeys": [
+        "5990_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 5990,
+      "displayedPriceText": "NT$5,990",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

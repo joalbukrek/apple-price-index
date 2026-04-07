@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:31.274Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-airpods/airpods-4",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "549_00",
+      "priceKeys": [
+        "549_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 549,
+      "displayedPriceText": "AED 549.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "749_00",
+      "priceKeys": [
+        "749_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 749,
+      "displayedPriceText": "AED 749.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

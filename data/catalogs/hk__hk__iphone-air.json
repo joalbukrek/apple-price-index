@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:05:52.842Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4za_a",
+      "priceKeys": [
+        "mg2l4za_a",
+        "mg2m4za_a",
+        "mg2n4za_a",
+        "mg2p4za_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 8599,
+      "displayedPriceText": "HK$8,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4za_a",
+      "priceKeys": [
+        "mg2q4za_a",
+        "mg2t4za_a",
+        "mg2u4za_a",
+        "mg2v4za_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 10299,
+      "displayedPriceText": "HK$10,299",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4za_a",
+      "priceKeys": [
+        "mg2w4za_a",
+        "mg2x4za_a",
+        "mg2y4za_a",
+        "mg304za_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 11999,
+      "displayedPriceText": "HK$11,999",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

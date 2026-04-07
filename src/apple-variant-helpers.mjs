@@ -3,29 +3,47 @@ import { humanizeIdentifier, normalizeText, stripHtml, uniqueBy } from "./utils.
 export const EXPANDABLE_DIMENSION_KEYS = [
   "memory-dimensionMemory",
   "storage-dimensionCapacity",
+  "dimensionScreensize",
+  "dimensionCapacity",
 ];
 
 const EXCLUDED_VARIANT_DIMENSION_KEYS = new Set([
   "chassis-dimensionColor",
+  "dimensionSteporder",
+  "dimensionColor",
   "keyboard-localizationCode",
   "power_adapter-wattage",
+  "carrierModel",
+  "watch_cases-dimensionColor",
+  "watch_bands-dimensionBandStyle",
+  "watch_bands-dimensionColor",
+  "watch_bands-dimensionbandsize",
 ]);
 
 const VARIANT_DIMENSION_PRIORITY = [
+  "dimensionActiveNoiseCancellation",
+  "dimensionScreensize",
+  "dimensionConnection",
   "chassis-dimensionScreensize",
   "chassis-dimensionEnclosureType",
   "display-dimensionFinish",
   "processor-dimensionChip-cpuCoreCount-gpuCoreCount",
   "processor-cpuCoreCount-gpuCoreCount",
   "processor-dimensionChip",
+  "watch_cases-dimensionCaseMaterial",
+  "watch_cases-dimensionCaseSize",
+  "watch_cases-dimensionConnection",
   "memory-dimensionMemory",
   "storage-dimensionCapacity",
+  "dimensionCapacity",
   "ethernet_adapter-ethernetBandwidth",
   "ethernet_adapter-ethernetPortCount",
   "chassis_support-dimensionStandType",
   "chassis-dimensionStandType",
   "keyboard-keyboardFormFactor",
 ];
+
+const INCLUDED_FLAT_DIMENSION_KEYS = new Set(["carrierModel"]);
 
 export function extractBalancedJson(source, marker) {
   const markerIndex = source.indexOf(marker);
@@ -83,10 +101,85 @@ export function extractQuotedValue(source, key) {
   return match?.[1] ?? null;
 }
 
+function normalizePriceKey(value) {
+  return String(value ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/\//g, "_");
+}
+
+function buildPriceKeyLookup(priceMap) {
+  return new Map(
+    Object.keys(priceMap ?? {}).map((priceKey) => [normalizePriceKey(priceKey), priceKey]),
+  );
+}
+
+export function extractProductDimensions(productOrDimensions = {}) {
+  if (productOrDimensions?.dimensions && typeof productOrDimensions.dimensions === "object") {
+    return productOrDimensions.dimensions;
+  }
+
+  return Object.fromEntries(
+    Object.entries(productOrDimensions ?? {}).filter(
+      ([dimensionKey, dimensionValue]) =>
+        Boolean(dimensionValue) &&
+        (dimensionKey.startsWith("dimension") || INCLUDED_FLAT_DIMENSION_KEYS.has(dimensionKey)),
+    ),
+  );
+}
+
+function resolveFallbackProductKey(product = {}) {
+  return (
+    product.priceKey ??
+    product.fullPrice ??
+    product.basePartNumber ??
+    product.partNumber ??
+    product.seoUrlToken ??
+    "custom"
+  );
+}
+
+function resolveProductPriceKey(product, priceMap, priceKeyLookup = buildPriceKeyLookup(priceMap)) {
+  const candidates = [
+    product?.priceKey,
+    product?.price,
+    product?.fullPrice,
+    product?.partNumber,
+    product?.basePartNumber,
+    product?.seoUrlToken,
+  ];
+
+  for (const candidate of candidates) {
+    if (!candidate) {
+      continue;
+    }
+
+    const resolved = priceKeyLookup.get(normalizePriceKey(candidate));
+    if (resolved) {
+      return resolved;
+    }
+  }
+
+  return null;
+}
+
 function findPriceMap(productSelectionData) {
   const directPriceMap = productSelectionData.mainDisplayValues?.prices;
-  if (directPriceMap && typeof directPriceMap === "object") {
+  if (
+    directPriceMap &&
+    typeof directPriceMap === "object" &&
+    Object.keys(directPriceMap).length
+  ) {
     return { key: "mainDisplayValues.prices", map: directPriceMap };
+  }
+
+  const displayValuesPriceMap = productSelectionData.displayValues?.prices;
+  if (
+    displayValuesPriceMap &&
+    typeof displayValuesPriceMap === "object" &&
+    Object.keys(displayValuesPriceMap).length
+  ) {
+    return { key: "displayValues.prices", map: displayValuesPriceMap };
   }
 
   for (const [key, value] of Object.entries(productSelectionData)) {
@@ -146,7 +239,7 @@ function compareDimensionKeys(leftKey, rightKey) {
 }
 
 function listRelevantDimensions(productOrDimensions) {
-  const dimensions = productOrDimensions?.dimensions ?? productOrDimensions ?? {};
+  const dimensions = extractProductDimensions(productOrDimensions);
   const hasDetailedProcessor = hasDetailedProcessorDimension(dimensions);
 
   return Object.entries(dimensions)
@@ -165,17 +258,28 @@ function listRelevantDimensions(productOrDimensions) {
 }
 
 export function buildVariantKey(product) {
-  const dimensions = product.dimensions ?? {};
+  const dimensions = extractProductDimensions(product);
+  const relevantDimensions = listRelevantDimensions(product);
   const hasDetailedProcessor = hasDetailedProcessorDimension(dimensions);
+  if (!relevantDimensions.length) {
+    return "default";
+  }
   const orderedDimensionKeys = [
+    "dimensionActiveNoiseCancellation",
+    "dimensionScreensize",
+    "dimensionConnection",
     "chassis-dimensionScreensize",
     "chassis-dimensionEnclosureType",
     "display-dimensionFinish",
     "processor-dimensionChip-cpuCoreCount-gpuCoreCount",
     "processor-cpuCoreCount-gpuCoreCount",
     ...(hasDetailedProcessor ? [] : ["processor-dimensionChip"]),
+    "watch_cases-dimensionCaseMaterial",
+    "watch_cases-dimensionCaseSize",
+    "watch_cases-dimensionConnection",
     "memory-dimensionMemory",
     "storage-dimensionCapacity",
+    "dimensionCapacity",
   ];
   const consumed = new Set();
   const pieces = [];
@@ -198,13 +302,13 @@ export function buildVariantKey(product) {
     pieces.push(dimensionValue);
   }
 
-  return pieces.join("-") || product.priceKey;
+  return pieces.join("-") || resolveFallbackProductKey(product);
 }
 
 export function buildDimensionSignature(product) {
   const dimensions = listRelevantDimensions(product);
   if (!dimensions.length) {
-    return buildVariantKey(product);
+    return "default";
   }
 
   return dimensions
@@ -213,22 +317,34 @@ export function buildDimensionSignature(product) {
 }
 
 function buildVariantTitle(familyName, product) {
-  const hasDetailedProcessor = hasDetailedProcessorDimension(product.dimensions ?? {});
+  const dimensions = extractProductDimensions(product);
+  const relevantDimensions = listRelevantDimensions(product);
+  const hasDetailedProcessor = hasDetailedProcessorDimension(dimensions);
   const dimensionOrder = [
+    "dimensionActiveNoiseCancellation",
+    "dimensionScreensize",
+    "dimensionConnection",
     "chassis-dimensionScreensize",
     "chassis-dimensionEnclosureType",
     "display-dimensionFinish",
     "processor-dimensionChip-cpuCoreCount-gpuCoreCount",
     "processor-cpuCoreCount-gpuCoreCount",
     ...(hasDetailedProcessor ? [] : ["processor-dimensionChip"]),
+    "watch_cases-dimensionCaseMaterial",
+    "watch_cases-dimensionCaseSize",
+    "watch_cases-dimensionConnection",
     "memory-dimensionMemory",
     "storage-dimensionCapacity",
+    "dimensionCapacity",
   ];
 
   const pieces = [familyName];
+  if (!relevantDimensions.length) {
+    return familyName;
+  }
   const consumed = new Set();
   for (const dimensionKey of dimensionOrder) {
-    const dimensionValue = product.dimensions?.[dimensionKey];
+    const dimensionValue = dimensions[dimensionKey];
     if (!dimensionValue) {
       continue;
     }
@@ -251,15 +367,27 @@ function buildVariantTitle(familyName, product) {
     }
   }
 
-  if (pieces.length === 1) {
-    pieces.push(humanizeIdentifier(product.priceKey));
-  }
-
   return pieces.join(" | ");
 }
 
 export function pickRepresentativeProduct(products) {
   return [...products].sort((left, right) => {
+    const leftCarrierScore =
+      left.isCarrierDevice === false || normalizeText(left.carrierModel).includes("no carrier")
+        ? -1
+        : normalizeText(left.carrierModel).includes("unlocked")
+          ? 0
+          : 1;
+    const rightCarrierScore =
+      right.isCarrierDevice === false || normalizeText(right.carrierModel).includes("no carrier")
+        ? -1
+        : normalizeText(right.carrierModel).includes("unlocked")
+          ? 0
+          : 1;
+    if (leftCarrierScore !== rightCarrierScore) {
+      return leftCarrierScore - rightCarrierScore;
+    }
+
     if (left.type !== right.type) {
       if (left.type === "PRECONFIGURED_BTR") {
         return -1;
@@ -269,7 +397,7 @@ export function pickRepresentativeProduct(products) {
       }
     }
 
-    return String(left.priceKey).localeCompare(String(right.priceKey));
+    return String(resolveFallbackProductKey(left)).localeCompare(String(resolveFallbackProductKey(right)));
   })[0];
 }
 
@@ -338,10 +466,12 @@ export function serializeDimensions(dimensions = {}) {
 
 export function buildPresetVariants(productSelectionData, storefront, family, currency) {
   const { map: priceMap } = findPriceMap(productSelectionData);
+  const priceKeyLookup = buildPriceKeyLookup(priceMap);
   const bySignature = new Map();
 
   for (const product of productSelectionData.products ?? []) {
-    if (!product.priceKey || !priceMap[product.priceKey]) {
+    const resolvedPriceKey = resolveProductPriceKey(product, priceMap, priceKeyLookup);
+    if (!resolvedPriceKey || !priceMap[resolvedPriceKey]) {
       continue;
     }
 
@@ -349,13 +479,16 @@ export function buildPresetVariants(productSelectionData, storefront, family, cu
     if (!bySignature.has(signature)) {
       bySignature.set(signature, []);
     }
-    bySignature.get(signature).push(product);
+    bySignature.get(signature).push({
+      ...product,
+      resolvedPriceKey,
+    });
   }
 
   return [...bySignature.entries()]
     .map(([signature, products]) => {
       const product = pickRepresentativeProduct(products);
-      const priceEntry = priceMap[product.priceKey];
+      const priceEntry = priceMap[product.resolvedPriceKey];
       const rawAmount = extractRawAmount(priceEntry);
 
       if (rawAmount == null) {
@@ -366,11 +499,11 @@ export function buildPresetVariants(productSelectionData, storefront, family, cu
         storefront,
         family,
         currency,
-        dimensions: product.dimensions ?? {},
+        dimensions: extractProductDimensions(product),
         displayedPrice: rawAmount,
         displayedPriceText: extractDisplayedPriceText(priceEntry),
-        priceKey: product.priceKey,
-        priceKeys: products.map((candidate) => candidate.priceKey),
+        priceKey: product.resolvedPriceKey,
+        priceKeys: products.map((candidate) => candidate.resolvedPriceKey),
         type: product.type,
         signature,
       });

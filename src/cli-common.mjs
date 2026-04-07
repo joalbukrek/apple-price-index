@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto";
 import { parseArgs } from "node:util";
-import { discoverStorefronts, MAC_FAMILIES, resolveStorefront } from "./apple.mjs";
+import { discoverStorefronts, PRODUCT_CATEGORIES, PRODUCT_FAMILIES, resolveStorefront } from "./apple.mjs";
 import { loadFxRates } from "./fx.mjs";
 import { DEFAULT_TAX_RULES_PATH } from "./paths.mjs";
 import { loadTaxRules } from "./tax.mjs";
@@ -50,10 +50,17 @@ export const SUPPORTED_COUNTRY_CODES = [
 
 export const DEFAULT_COMPARE_COUNTRY_CODES = SUPPORTED_COUNTRY_CODES;
 export const DEFAULT_COMPARE_COUNTRIES = DEFAULT_COMPARE_COUNTRY_CODES.join(",");
-export const DEFAULT_WARMUP_FAMILY_SLUGS = MAC_FAMILIES.map((family) => family.slug);
+export const DEFAULT_WARMUP_FAMILY_SLUGS = PRODUCT_FAMILIES.map((family) => family.slug);
 export const DEFAULT_COMPARE_ROW_LIMIT = 20;
 export const SNAPSHOT_WARMUP_CONCURRENCY = 1;
 export const VARIANT_PAGE_SIZE = 20;
+export const FAMILY_GROUP_ALIASES = Object.fromEntries(
+  PRODUCT_CATEGORIES.map((category) => [
+    category.slug,
+    PRODUCT_FAMILIES.filter((family) => family.category === category.slug).map((family) => family.slug),
+  ]),
+);
+FAMILY_GROUP_ALIASES.airpod = FAMILY_GROUP_ALIASES.airpods;
 
 export function usage() {
   return `Usage:
@@ -66,12 +73,17 @@ Commands:
   node cli.mjs countries [--all-locales] [--refresh]
   node cli.mjs list-products --family <slug> [--country tr] [--query "..."] [--refresh]
   node cli.mjs compare --family <slug> (--variant <variant_key> | --query "...") [--countries <csv>|all] [--resolve-country tr] [--refresh]
-  node cli.mjs cheapest --family <slug|all> [--countries <csv>|all] [--query "..."] [--limit 20] [--refresh]
-  node cli.mjs update-prices [--family <slug|all>] [--countries <csv>|all] [--bundle]
-  node cli.mjs bundle-data [--family <slug|all>] [--countries <csv>|all]
+  node cli.mjs cheapest --family <slug|group|all> [--countries <csv>|all] [--query "..."] [--limit 20] [--refresh]
+  node cli.mjs self-test [--family <slug|group|all>] [--countries <csv>|all]
+  node cli.mjs update-fx [--bundle]
+  node cli.mjs update-prices [--family <slug|group|all>] [--countries <csv>|all] [--bundle]
+  node cli.mjs bundle-data [--family <slug|group|all>] [--countries <csv>|all]
 
 Known family slugs:
-  ${MAC_FAMILIES.map((family) => family.slug).join(", ")}`;
+  ${PRODUCT_FAMILIES.map((family) => family.slug).join(", ")}
+
+Family group aliases for refresh/bundle/cheapest:
+  ${Object.keys(FAMILY_GROUP_ALIASES).join(", ")}`;
 }
 
 export function parseOptions() {
@@ -104,7 +116,7 @@ export function requireFamily(familySlug) {
     throw new Error("--family is required.");
   }
 
-  if (familySlug !== "all" && !MAC_FAMILIES.some((family) => family.slug === familySlug)) {
+  if (familySlug !== "all" && !PRODUCT_FAMILIES.some((family) => family.slug === familySlug)) {
     throw new Error(`Unknown family slug: ${familySlug}`);
   }
 }
@@ -127,10 +139,16 @@ export function filterSupportedStorefronts(storefronts) {
 }
 
 export function resolveFamilySlugs(familySlug = "all") {
+  if (familySlug === "all") {
+    return PRODUCT_FAMILIES.map((family) => family.slug);
+  }
+
+  if (FAMILY_GROUP_ALIASES[familySlug]) {
+    return FAMILY_GROUP_ALIASES[familySlug];
+  }
+
   requireFamily(familySlug);
-  return familySlug === "all"
-    ? MAC_FAMILIES.map((family) => family.slug)
-    : [familySlug];
+  return [familySlug];
 }
 
 export function buildCatalogTasks(storefronts, familySlugs) {

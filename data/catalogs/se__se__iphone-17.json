@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:15:57.219Z",
+  "familyUrl": "https://www.apple.com/se/shop/buy-iphone/iphone-17",
+  "currency": "SEK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4qn_a",
+      "priceKeys": [
+        "mg6j4qn_a",
+        "mg6k4qn_a",
+        "mg6l4qn_a",
+        "mg6m4qn_a",
+        "mg6n4qn_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 10995,
+      "displayedPriceText": "10 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4qn_a",
+      "priceKeys": [
+        "mg6p4qn_a",
+        "mg6q4qn_a",
+        "mg6t4qn_a",
+        "mg6u4qn_a",
+        "mg6v4qn_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 13995,
+      "displayedPriceText": "13 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:46.149Z",
+  "familyUrl": "https://www.apple.com/kr/shop/buy-airpods/airpods-4",
+  "currency": "KRW",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "199000_00",
+      "priceKeys": [
+        "199000_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 199000,
+      "displayedPriceText": "₩199,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "269000_00",
+      "priceKeys": [
+        "269000_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 269000,
+      "displayedPriceText": "₩269,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    }
+  ]
+}

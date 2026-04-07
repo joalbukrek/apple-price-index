@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:39.008Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-airpods/airpods-pro-3",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "349_00",
+      "priceKeys": [
+        "349_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 349,
+      "displayedPriceText": "S$349.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}

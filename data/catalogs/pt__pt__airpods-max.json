@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:20.634Z",
+  "familyUrl": "https://www.apple.com/pt/shop/buy-airpods/airpods-max-2",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "579_00",
+      "priceKeys": [
+        "579_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 579,
+      "displayedPriceText": "579,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/pt/",
+      "countryCode": "pt",
+      "countryName": "Portugal"
+    }
+  ]
+}

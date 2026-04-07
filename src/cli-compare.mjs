@@ -2,7 +2,6 @@ import {
   discoverStorefronts,
   filterVariants,
   loadFamilyCatalog,
-  MAC_FAMILIES,
   resolveStorefront,
 } from "./apple.mjs";
 import { convertToTry } from "./fx.mjs";
@@ -15,6 +14,7 @@ import {
   loadSharedContext,
   requireFamily,
   resolveCountrySelectors,
+  resolveFamilySlugs,
   resolveRequestedStorefronts,
 } from "./cli-common.mjs";
 
@@ -129,12 +129,16 @@ export async function buildComparison(values) {
       }
 
       const tax = applyTaxRule(displayAdjustment.adjustedDisplayedPrice, taxRule);
-      const taxAdjustedTry =
-        tax.taxAdjustedPrice == null
+      const refundTry =
+        tax.refundAmount == null ? null : convertToTry(tax.refundAmount, match.currency, fx);
+      const finalPriceAfterRefundTry =
+        tax.finalPriceAfterRefund == null
           ? null
-          : convertToTry(tax.taxAdjustedPrice, match.currency, fx);
+          : convertToTry(tax.finalPriceAfterRefund, match.currency, fx);
       const averageTryRaw =
-        taxAdjustedTry == null ? displayedTry : (displayedTry + taxAdjustedTry) / 2;
+        finalPriceAfterRefundTry == null
+          ? displayedTry
+          : (displayedTry + finalPriceAfterRefundTry) / 2;
 
       return {
         country: storefront.countryCode,
@@ -143,16 +147,16 @@ export async function buildComparison(values) {
         displayedTry: formatTry(displayedTry),
         deltaTry: formatDeltaTry(displayedTry - baseDisplayedTry),
         taxLocal:
-          tax.taxAdjustedPrice == null
-            ? ""
-            : formatLocalMoney(tax.taxAdjustedPrice, match.currency),
-        taxTry: taxAdjustedTry == null ? "" : formatTry(taxAdjustedTry),
+          tax.refundAmount == null ? "" : formatLocalMoney(tax.refundAmount, match.currency),
+        taxTry: refundTry == null ? "" : formatTry(refundTry),
         taxDeltaTry:
-          taxAdjustedTry == null ? "" : formatDeltaTry(taxAdjustedTry - baseDisplayedTry),
+          finalPriceAfterRefundTry == null
+            ? ""
+            : formatDeltaTry(finalPriceAfterRefundTry - baseDisplayedTry),
         averageTry: formatTry(averageTryRaw),
         taxNote: mergeNotes(displayAdjustment.note, tax.note),
         displayedTryRaw: displayedTry,
-        taxTryRaw: taxAdjustedTry ?? Number.POSITIVE_INFINITY,
+        taxTryRaw: finalPriceAfterRefundTry ?? Number.POSITIVE_INFINITY,
         averageTryRaw,
         available: true,
       };
@@ -315,7 +319,7 @@ export async function commandCompare(values) {
 
 export async function commandCheapest(values) {
   const requestedFamily = values.family ?? "all";
-  requireFamily(requestedFamily);
+  const familySlugs = resolveFamilySlugs(requestedFamily);
 
   const { storefronts, fx, taxRules } = await loadSharedContext(values);
   const selectedStorefronts =
@@ -323,8 +327,6 @@ export async function commandCheapest(values) {
       ? storefronts
       : resolveRequestedStorefronts(storefronts, resolveCountrySelectors(values.countries));
 
-  const familySlugs =
-    requestedFamily === "all" ? MAC_FAMILIES.map((family) => family.slug) : [requestedFamily];
   const limit = Number.parseInt(values.limit ?? "20", 10);
 
   const tasks = [];
@@ -362,14 +364,16 @@ export async function commandCheapest(values) {
       }
 
       const tax = applyTaxRule(displayAdjustment.adjustedDisplayedPrice, taxRule);
-      const taxAdjustedTry =
-        tax.taxAdjustedPrice == null
+      const refundTry =
+        tax.refundAmount == null ? null : convertToTry(tax.refundAmount, variant.currency, fx);
+      const finalPriceAfterRefundTry =
+        tax.finalPriceAfterRefund == null
           ? null
-          : convertToTry(tax.taxAdjustedPrice, variant.currency, fx);
+          : convertToTry(tax.finalPriceAfterRefund, variant.currency, fx);
       const averageTryRaw =
-        taxAdjustedTry == null
+        finalPriceAfterRefundTry == null
           ? displayedTry ?? Number.POSITIVE_INFINITY
-          : (displayedTry + taxAdjustedTry) / 2;
+          : (displayedTry + finalPriceAfterRefundTry) / 2;
 
       rows.push({
         country: variant.countryCode,
@@ -379,10 +383,8 @@ export async function commandCheapest(values) {
         displayedLocal: formatLocalMoney(displayAdjustment.adjustedDisplayedPrice, variant.currency),
         displayedTry: formatTry(displayedTry),
         taxLocal:
-          tax.taxAdjustedPrice == null
-            ? ""
-            : formatLocalMoney(tax.taxAdjustedPrice, variant.currency),
-        taxTry: taxAdjustedTry == null ? "" : formatTry(taxAdjustedTry),
+          tax.refundAmount == null ? "" : formatLocalMoney(tax.refundAmount, variant.currency),
+        taxTry: refundTry == null ? "" : formatTry(refundTry),
         averageTryRaw,
         averageTry: formatTry(averageTryRaw),
         taxNote: mergeNotes(displayAdjustment.note, tax.note),

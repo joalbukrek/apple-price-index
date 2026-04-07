@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:39.164Z",
+  "familyUrl": "https://www.apple.com/kr/shop/buy-ipad/ipad-mini",
+  "currency": "KRW",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63kh_a",
+      "priceKeys": [
+        "mxn63kh_a",
+        "mxn73kh_a",
+        "mxn83kh_a",
+        "mxn93kh_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 749000,
+      "displayedPriceText": "₩749,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3kh_a",
+      "priceKeys": [
+        "mxna3kh_a",
+        "mxnc3kh_a",
+        "mxnd3kh_a",
+        "mxne3kh_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 899000,
+      "displayedPriceText": "₩899,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3kh_a",
+      "priceKeys": [
+        "mxpn3kh_a",
+        "mxpp3kh_a",
+        "mxpq3kh_a",
+        "mxpr3kh_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 999000,
+      "displayedPriceText": "₩999,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3kh_a",
+      "priceKeys": [
+        "mxpt3kh_a",
+        "mxpw3kh_a",
+        "mxpx3kh_a",
+        "mxpy3kh_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1149000,
+      "displayedPriceText": "₩1,149,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3kh_a",
+      "priceKeys": [
+        "mygy3kh_a",
+        "myh13kh_a",
+        "myh23kh_a",
+        "myh33kh_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 1199000,
+      "displayedPriceText": "₩1,199,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3kh_a",
+      "priceKeys": [
+        "myhc3kh_a",
+        "myhd3kh_a",
+        "myhe3kh_a",
+        "myhf3kh_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1449000,
+      "displayedPriceText": "₩1,449,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    }
+  ]
+}

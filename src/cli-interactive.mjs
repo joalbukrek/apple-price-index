@@ -1,6 +1,13 @@
 import { stdin as input, stdout as output } from "node:process";
 import { createInterface } from "node:readline/promises";
-import { discoverStorefronts, filterVariants, loadFamilyCatalog, MAC_FAMILIES, resolveStorefront } from "./apple.mjs";
+import {
+  discoverStorefronts,
+  filterVariants,
+  loadFamilyCatalog,
+  PRODUCT_CATEGORIES,
+  PRODUCT_FAMILIES,
+  resolveStorefront,
+} from "./apple.mjs";
 import {
   DEFAULT_COMPARE_COUNTRIES,
   DEFAULT_COMPARE_COUNTRY_CODES,
@@ -10,27 +17,47 @@ import {
 import { buildComparison, printComparison } from "./cli-compare.mjs";
 import { formatMoney, renderTable } from "./utils.mjs";
 
-async function promptForOption(rl, title, options, { showExitHint = true } = {}) {
+async function promptForOption(
+  rl,
+  title,
+  options,
+  { showExitHint = true, showBackHint = false, promptText = "> " } = {},
+) {
   console.log(`\n${title}`);
   options.forEach((option, index) => {
     console.log(`  ${index + 1}. ${option.label}`);
   });
+  if (showBackHint) {
+    console.log("  /prev");
+  }
   if (showExitHint) {
     console.log("  /exit");
   }
 
   while (true) {
-    const answer = (await rl.question("> ")).trim();
-    if (answer === "/exit") {
-      return null;
+    const answer = (await rl.question(promptText)).trim();
+    if (showBackHint && answer === "/prev") {
+      return { type: "back" };
+    }
+
+    if (showExitHint && answer === "/exit") {
+      return { type: "exit" };
     }
 
     const choice = Number.parseInt(answer, 10);
     if (Number.isInteger(choice) && choice >= 1 && choice <= options.length) {
-      return options[choice - 1].value;
+      return { type: "value", value: options[choice - 1].value };
     }
 
-    console.log(`Enter a number between 1 and ${options.length}, or /exit.`);
+    const commands = [];
+    if (showBackHint) {
+      commands.push("/prev");
+    }
+    if (showExitHint) {
+      commands.push("/exit");
+    }
+    const suffix = commands.length ? `, or ${commands.join(" or ")}` : "";
+    console.log(`Enter a number between 1 and ${options.length}${suffix}.`);
   }
 }
 
@@ -164,7 +191,7 @@ async function promptForVariant(rl, catalog, initialState = {}) {
 
 async function promptAfterComparison(rl) {
   console.log(
-    "\nCommands: /prev to return to the variant list, /home to choose another Mac family, /exit to quit.",
+    "\nCommands: /prev to return to the variant list, /home to return to the home screen, /exit to quit.",
   );
 
   while (true) {
@@ -191,7 +218,7 @@ export async function commandInteractive(values) {
 
   try {
     console.log("Apple Price Index");
-    console.log("Choose a Mac product and get a country comparison.\n");
+    console.log("Choose a category, then a product, then compare prices across countries.\n");
 
     const storefronts = await discoverStorefronts({
       refresh: values.refresh,
@@ -204,25 +231,58 @@ export async function commandInteractive(values) {
       throw new Error("Could not resolve Turkey storefront.");
     }
 
+    let categorySlug = null;
     let familySlug = null;
     let variantBrowserState = null;
 
     while (true) {
+      if (!categorySlug) {
+        familySlug = null;
+        variantBrowserState = null;
+        const categorySelection = await promptForOption(
+          rl,
+          "Choose a product category:",
+          PRODUCT_CATEGORIES.map((category) => ({
+            label: category.name,
+            value: category.slug,
+          })),
+          { showExitHint: false, promptText: "> " },
+        );
+
+        if (categorySelection.type === "exit") {
+          return;
+        }
+
+        categorySlug = categorySelection.value;
+      }
+
       if (!familySlug) {
         variantBrowserState = null;
-        familySlug = await promptForOption(
+        const families = PRODUCT_FAMILIES.filter((family) => family.category === categorySlug);
+        const familySelection = await promptForOption(
           rl,
-          "Choose a Mac family:",
-          MAC_FAMILIES.map((family) => ({
+          `Choose from ${PRODUCT_CATEGORIES.find((category) => category.slug === categorySlug)?.name ?? "Products"}:`,
+          families.map((family) => ({
             label: family.name,
             value: family.slug,
           })),
-          { showExitHint: false },
+          {
+            showExitHint: true,
+            showBackHint: true,
+            promptText: "Choose a family number, or use /prev, /exit: ",
+          },
         );
 
-        if (!familySlug) {
+        if (familySelection.type === "exit") {
           return;
         }
+
+        if (familySelection.type === "back") {
+          categorySlug = null;
+          continue;
+        }
+
+        familySlug = familySelection.value;
       }
 
       const turkeyCatalog = await loadFamilyCatalog(turkeyStorefront, familySlug, {
@@ -259,6 +319,7 @@ export async function commandInteractive(values) {
       }
 
       if (nextAction === "families") {
+        categorySlug = null;
         familySlug = null;
         variantBrowserState = null;
       }

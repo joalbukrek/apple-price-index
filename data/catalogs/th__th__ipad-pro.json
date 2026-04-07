@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:41.145Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-ipad/ipad-pro",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4th_a",
+      "priceKeys": [
+        "mdwk4th_a",
+        "mdwl4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 35900,
+      "displayedPriceText": "฿35,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4th_a",
+      "priceKeys": [
+        "mdwm4th_a",
+        "mdwn4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 42900,
+      "displayedPriceText": "฿42,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4th_a",
+      "priceKeys": [
+        "me2n4th_a",
+        "me2p4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 42900,
+      "displayedPriceText": "฿42,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4th_a",
+      "priceKeys": [
+        "mdyj4th_a",
+        "mdyk4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 47900,
+      "displayedPriceText": "฿47,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4th_a",
+      "priceKeys": [
+        "me2q4th_a",
+        "me2t4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 49900,
+      "displayedPriceText": "฿49,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4th_a",
+      "priceKeys": [
+        "mdyl4th_a",
+        "mdym4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 54900,
+      "displayedPriceText": "฿54,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4th_a",
+      "priceKeys": [
+        "me7w4th_a",
+        "me7x4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 54900,
+      "displayedPriceText": "฿54,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4th_a",
+      "priceKeys": [
+        "mdwp4th_a",
+        "mdwq4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 57900,
+      "displayedPriceText": "฿57,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4th_a",
+      "priceKeys": [
+        "mdwr4th_a",
+        "mdwt4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 61900,
+      "displayedPriceText": "฿61,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4th_a",
+      "priceKeys": [
+        "me7y4th_a",
+        "me8c4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 61900,
+      "displayedPriceText": "฿61,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4th_a",
+      "priceKeys": [
+        "me2u4th_a",
+        "me2v4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 64900,
+      "displayedPriceText": "฿64,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4th_a",
+      "priceKeys": [
+        "me2w4th_a",
+        "me2x4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 68900,
+      "displayedPriceText": "฿68,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4th_a",
+      "priceKeys": [
+        "mdyn4th_a",
+        "mdyp4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 69900,
+      "displayedPriceText": "฿69,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4th_a",
+      "priceKeys": [
+        "mdwu4th_a",
+        "mdwv4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 72900,
+      "displayedPriceText": "฿72,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4th_a",
+      "priceKeys": [
+        "mdyq4th_a",
+        "mdyr4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 73900,
+      "displayedPriceText": "฿73,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4th_a",
+      "priceKeys": [
+        "mdww4th_a",
+        "mdwx4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 76900,
+      "displayedPriceText": "฿76,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4th_a",
+      "priceKeys": [
+        "me8d4th_a",
+        "me8f4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 76900,
+      "displayedPriceText": "฿76,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4th_a",
+      "priceKeys": [
+        "me2y4th_a",
+        "me6a4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 79900,
+      "displayedPriceText": "฿79,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4th_a",
+      "priceKeys": [
+        "me8g4th_a",
+        "me8h4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 80900,
+      "displayedPriceText": "฿80,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4th_a",
+      "priceKeys": [
+        "me6c4th_a",
+        "me6d4th_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 83900,
+      "displayedPriceText": "฿83,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4th_a",
+      "priceKeys": [
+        "mdyt4th_a",
+        "mdyu4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 84900,
+      "displayedPriceText": "฿84,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4th_a",
+      "priceKeys": [
+        "mdyv4th_a",
+        "mdyw4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 88900,
+      "displayedPriceText": "฿88,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4th_a",
+      "priceKeys": [
+        "me8j4th_a",
+        "me8k4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 91900,
+      "displayedPriceText": "฿91,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4th_a",
+      "priceKeys": [
+        "me8m4th_a",
+        "me8n4th_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 95900,
+      "displayedPriceText": "฿95,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

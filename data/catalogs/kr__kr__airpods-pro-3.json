@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:48.742Z",
+  "familyUrl": "https://www.apple.com/kr/shop/buy-airpods/airpods-pro-3",
+  "currency": "KRW",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "369000_00",
+      "priceKeys": [
+        "369000_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 369000,
+      "displayedPriceText": "₩369,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    }
+  ]
+}

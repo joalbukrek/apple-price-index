@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:54:10.632Z",
+  "familyUrl": "https://www.apple.com/dk/shop/buy-watch/apple-watch-se",
+  "currency": "DKK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gps",
+      "priceKey": "watch_cases-aluminum-40mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS",
+      "displayedPrice": 1999,
+      "displayedPriceText": "1.999,00 kr.",
+      "currency": "DKK",
+      "storefrontUrl": "https://www.apple.com/dk/",
+      "countryCode": "dk",
+      "countryName": "Danmark"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gps",
+      "priceKey": "watch_cases-aluminum-44mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS",
+      "displayedPrice": 2299,
+      "displayedPriceText": "2.299,00 kr.",
+      "currency": "DKK",
+      "storefrontUrl": "https://www.apple.com/dk/",
+      "countryCode": "dk",
+      "countryName": "Danmark"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gpscell",
+      "priceKey": "watch_cases-aluminum-40mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS + Cellular",
+      "displayedPrice": 2449,
+      "displayedPriceText": "2.449,00 kr.",
+      "currency": "DKK",
+      "storefrontUrl": "https://www.apple.com/dk/",
+      "countryCode": "dk",
+      "countryName": "Danmark"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gpscell",
+      "priceKey": "watch_cases-aluminum-44mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS + Cellular",
+      "displayedPrice": 2749,
+      "displayedPriceText": "2.749,00 kr.",
+      "currency": "DKK",
+      "storefrontUrl": "https://www.apple.com/dk/",
+      "countryCode": "dk",
+      "countryName": "Danmark"
+    }
+  ]
+}

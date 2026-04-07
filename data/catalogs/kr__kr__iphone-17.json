@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:29.110Z",
+  "familyUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+  "currency": "KRW",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4kh_a",
+      "priceKeys": [
+        "mg6j4kh_a",
+        "mg6k4kh_a",
+        "mg6l4kh_a",
+        "mg6m4kh_a",
+        "mg6n4kh_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 1290000,
+      "displayedPriceText": "₩1,290,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4kh_a",
+      "priceKeys": [
+        "mg6p4kh_a",
+        "mg6q4kh_a",
+        "mg6t4kh_a",
+        "mg6u4kh_a",
+        "mg6v4kh_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 1590000,
+      "displayedPriceText": "₩1,590,000",
+      "currency": "KRW",
+      "storefrontUrl": "https://www.apple.com/kr/",
+      "countryCode": "kr",
+      "countryName": "대한민국"
+    }
+  ]
+}

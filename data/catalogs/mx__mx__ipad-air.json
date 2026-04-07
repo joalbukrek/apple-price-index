@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:45:16.396Z",
+  "familyUrl": "https://www.apple.com/mx/shop/buy-ipad/ipad-air",
+  "currency": "MXN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304cl_a",
+      "priceKeys": [
+        "mh304cl_a",
+        "mh314cl_a",
+        "mh334cl_a",
+        "mh344cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 14999,
+      "displayedPriceText": "$14,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354cl_a",
+      "priceKeys": [
+        "mh354cl_a",
+        "mh364cl_a",
+        "mh374cl_a",
+        "mh394cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 17499,
+      "displayedPriceText": "$17,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784cl_a",
+      "priceKeys": [
+        "mh784cl_a",
+        "mh794cl_a",
+        "mh7a4cl_a",
+        "mh7c4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 18999,
+      "displayedPriceText": "$18,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4cl_a",
+      "priceKeys": [
+        "mh5n4cl_a",
+        "mh5p4cl_a",
+        "mh5q4cl_a",
+        "mh5t4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 19999,
+      "displayedPriceText": "$19,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4cl_a",
+      "priceKeys": [
+        "mh7d4cl_a",
+        "mh7e4cl_a",
+        "mh7f4cl_a",
+        "mh7g4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 21499,
+      "displayedPriceText": "$21,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4cl_a",
+      "priceKeys": [
+        "mh3a4cl_a",
+        "mh3c4cl_a",
+        "mh3d4cl_a",
+        "mh3e4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 22499,
+      "displayedPriceText": "$22,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4cl_a",
+      "priceKeys": [
+        "mh5u4cl_a",
+        "mh5v4cl_a",
+        "mh5w4cl_a",
+        "mh5x4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 22499,
+      "displayedPriceText": "$22,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4cl_a",
+      "priceKeys": [
+        "mh9d4cl_a",
+        "mh9e4cl_a",
+        "mh9f4cl_a",
+        "mh9g4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 23999,
+      "displayedPriceText": "$23,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4cl_a",
+      "priceKeys": [
+        "mh7h4cl_a",
+        "mh7j4cl_a",
+        "mh7k4cl_a",
+        "mh7l4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 26499,
+      "displayedPriceText": "$26,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4cl_a",
+      "priceKeys": [
+        "mh9h4cl_a",
+        "mh9j4cl_a",
+        "mh9k4cl_a",
+        "mh9l4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 26499,
+      "displayedPriceText": "$26,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4cl_a",
+      "priceKeys": [
+        "mh3g4cl_a",
+        "mh3h4cl_a",
+        "mh3j4cl_a",
+        "mh3k4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 27499,
+      "displayedPriceText": "$27,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4cl_a",
+      "priceKeys": [
+        "mh5y4cl_a",
+        "mh604cl_a",
+        "mh614cl_a",
+        "mh624cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 27499,
+      "displayedPriceText": "$27,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4cl_a",
+      "priceKeys": [
+        "mh7m4cl_a",
+        "mh7n4cl_a",
+        "mh7p4cl_a",
+        "mh7q4cl_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 31499,
+      "displayedPriceText": "$31,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4cl_a",
+      "priceKeys": [
+        "mh9m4cl_a",
+        "mh9n4cl_a",
+        "mh9p4cl_a",
+        "mh9q4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 31499,
+      "displayedPriceText": "$31,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634cl_a",
+      "priceKeys": [
+        "mh634cl_a",
+        "mh644cl_a",
+        "mh654cl_a",
+        "mhdk4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 32499,
+      "displayedPriceText": "$32,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4cl_a",
+      "priceKeys": [
+        "mh9r4cl_a",
+        "mh9t4cl_a",
+        "mh9u4cl_a",
+        "mh9v4cl_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 36499,
+      "displayedPriceText": "$36,499.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:47:11.828Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-ipad/ipad-air",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304hc_a",
+      "priceKeys": [
+        "mh304hc_a",
+        "mh314hc_a",
+        "mh334hc_a",
+        "mh344hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 279990,
+      "displayedPriceText": "279 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354hc_a",
+      "priceKeys": [
+        "mh354hc_a",
+        "mh364hc_a",
+        "mh374hc_a",
+        "mh394hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 329990,
+      "displayedPriceText": "329 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784hc_a",
+      "priceKeys": [
+        "mh784hc_a",
+        "mh794hc_a",
+        "mh7a4hc_a",
+        "mh7c4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 354990,
+      "displayedPriceText": "354 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4hc_a",
+      "priceKeys": [
+        "mh5n4hc_a",
+        "mh5p4hc_a",
+        "mh5q4hc_a",
+        "mh5t4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 379990,
+      "displayedPriceText": "379 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4hc_a",
+      "priceKeys": [
+        "mh7d4hc_a",
+        "mh7e4hc_a",
+        "mh7f4hc_a",
+        "mh7g4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 404990,
+      "displayedPriceText": "404 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4hc_a",
+      "priceKeys": [
+        "mh3a4hc_a",
+        "mh3c4hc_a",
+        "mh3d4hc_a",
+        "mh3e4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 429990,
+      "displayedPriceText": "429 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4hc_a",
+      "priceKeys": [
+        "mh5u4hc_a",
+        "mh5v4hc_a",
+        "mh5w4hc_a",
+        "mh5x4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 429990,
+      "displayedPriceText": "429 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4hc_a",
+      "priceKeys": [
+        "mh9d4hc_a",
+        "mh9e4hc_a",
+        "mh9f4hc_a",
+        "mh9g4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 454990,
+      "displayedPriceText": "454 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4hc_a",
+      "priceKeys": [
+        "mh7h4hc_a",
+        "mh7j4hc_a",
+        "mh7k4hc_a",
+        "mh7l4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 504990,
+      "displayedPriceText": "504 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4hc_a",
+      "priceKeys": [
+        "mh9h4hc_a",
+        "mh9j4hc_a",
+        "mh9k4hc_a",
+        "mh9l4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 504990,
+      "displayedPriceText": "504 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4hc_a",
+      "priceKeys": [
+        "mh3g4hc_a",
+        "mh3h4hc_a",
+        "mh3j4hc_a",
+        "mh3k4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 529990,
+      "displayedPriceText": "529 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4hc_a",
+      "priceKeys": [
+        "mh5y4hc_a",
+        "mh604hc_a",
+        "mh614hc_a",
+        "mh624hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 529990,
+      "displayedPriceText": "529 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4hc_a",
+      "priceKeys": [
+        "mh7m4hc_a",
+        "mh7n4hc_a",
+        "mh7p4hc_a",
+        "mh7q4hc_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 604990,
+      "displayedPriceText": "604 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4hc_a",
+      "priceKeys": [
+        "mh9m4hc_a",
+        "mh9n4hc_a",
+        "mh9p4hc_a",
+        "mh9q4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 604990,
+      "displayedPriceText": "604 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634hc_a",
+      "priceKeys": [
+        "mh634hc_a",
+        "mh644hc_a",
+        "mh654hc_a",
+        "mhdk4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 629990,
+      "displayedPriceText": "629 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4hc_a",
+      "priceKeys": [
+        "mh9r4hc_a",
+        "mh9t4hc_a",
+        "mh9u4hc_a",
+        "mh9v4hc_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 704990,
+      "displayedPriceText": "704 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

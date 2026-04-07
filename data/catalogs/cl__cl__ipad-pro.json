@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:37.765Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-ipad/ipad-pro",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4ci_a",
+      "priceKeys": [
+        "mdwk4ci_a",
+        "mdwl4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1299990,
+      "displayedPriceText": "$1.299.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4ci_a",
+      "priceKeys": [
+        "mdwm4ci_a",
+        "mdwn4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1539990,
+      "displayedPriceText": "$1.539.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4ci_a",
+      "priceKeys": [
+        "me2n4ci_a",
+        "me2p4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1539990,
+      "displayedPriceText": "$1.539.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4ci_a",
+      "priceKeys": [
+        "mdyj4ci_a",
+        "mdyk4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1699990,
+      "displayedPriceText": "$1.699.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4ci_a",
+      "priceKeys": [
+        "me2q4ci_a",
+        "me2t4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 1779990,
+      "displayedPriceText": "$1.779.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4ci_a",
+      "priceKeys": [
+        "mdyl4ci_a",
+        "mdym4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1939990,
+      "displayedPriceText": "$1.939.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4ci_a",
+      "priceKeys": [
+        "me7w4ci_a",
+        "me7x4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1939990,
+      "displayedPriceText": "$1.939.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4ci_a",
+      "priceKeys": [
+        "mdwp4ci_a",
+        "mdwq4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 2019990,
+      "displayedPriceText": "$2.019.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4ci_a",
+      "priceKeys": [
+        "mdwr4ci_a",
+        "mdwt4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 2139990,
+      "displayedPriceText": "$2.139.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4ci_a",
+      "priceKeys": [
+        "me7y4ci_a",
+        "me8c4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 2179990,
+      "displayedPriceText": "$2.179.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4ci_a",
+      "priceKeys": [
+        "me2u4ci_a",
+        "me2v4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2259990,
+      "displayedPriceText": "$2.259.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4ci_a",
+      "priceKeys": [
+        "me2w4ci_a",
+        "me2x4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2379990,
+      "displayedPriceText": "$2.379.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4ci_a",
+      "priceKeys": [
+        "mdyn4ci_a",
+        "mdyp4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 2419990,
+      "displayedPriceText": "$2.419.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4ci_a",
+      "priceKeys": [
+        "mdwu4ci_a",
+        "mdwv4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2499990,
+      "displayedPriceText": "$2.499.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4ci_a",
+      "priceKeys": [
+        "mdyq4ci_a",
+        "mdyr4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 2539990,
+      "displayedPriceText": "$2.539.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4ci_a",
+      "priceKeys": [
+        "mdww4ci_a",
+        "mdwx4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 2619990,
+      "displayedPriceText": "$2.619.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4ci_a",
+      "priceKeys": [
+        "me8d4ci_a",
+        "me8f4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2659990,
+      "displayedPriceText": "$2.659.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4ci_a",
+      "priceKeys": [
+        "me2y4ci_a",
+        "me6a4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 2739990,
+      "displayedPriceText": "$2.739.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4ci_a",
+      "priceKeys": [
+        "me8g4ci_a",
+        "me8h4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2779990,
+      "displayedPriceText": "$2.779.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4ci_a",
+      "priceKeys": [
+        "me6c4ci_a",
+        "me6d4ci_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 2859990,
+      "displayedPriceText": "$2.859.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4ci_a",
+      "priceKeys": [
+        "mdyt4ci_a",
+        "mdyu4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2899990,
+      "displayedPriceText": "$2.899.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4ci_a",
+      "priceKeys": [
+        "mdyv4ci_a",
+        "mdyw4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 3019990,
+      "displayedPriceText": "$3.019.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4ci_a",
+      "priceKeys": [
+        "me8j4ci_a",
+        "me8k4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 3139990,
+      "displayedPriceText": "$3.139.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4ci_a",
+      "priceKeys": [
+        "me8m4ci_a",
+        "me8n4ci_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 3259990,
+      "displayedPriceText": "$3.259.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

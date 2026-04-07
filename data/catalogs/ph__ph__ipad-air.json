@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:08.532Z",
+  "familyUrl": "https://www.apple.com/ph/shop/buy-ipad/ipad-air",
+  "currency": "PHP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304pp_a",
+      "priceKeys": [
+        "mh304pp_a",
+        "mh314pp_a",
+        "mh334pp_a",
+        "mh344pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 42990,
+      "displayedPriceText": "₱42,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354pp_a",
+      "priceKeys": [
+        "mh354pp_a",
+        "mh364pp_a",
+        "mh374pp_a",
+        "mh394pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 49990,
+      "displayedPriceText": "₱49,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784pp_a",
+      "priceKeys": [
+        "mh784pp_a",
+        "mh794pp_a",
+        "mh7a4pp_a",
+        "mh7c4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 52990,
+      "displayedPriceText": "₱52,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4pp_a",
+      "priceKeys": [
+        "mh5n4pp_a",
+        "mh5p4pp_a",
+        "mh5q4pp_a",
+        "mh5t4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 54990,
+      "displayedPriceText": "₱54,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4pp_a",
+      "priceKeys": [
+        "mh7d4pp_a",
+        "mh7e4pp_a",
+        "mh7f4pp_a",
+        "mh7g4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 59990,
+      "displayedPriceText": "₱59,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4pp_a",
+      "priceKeys": [
+        "mh5u4pp_a",
+        "mh5v4pp_a",
+        "mh5w4pp_a",
+        "mh5x4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 61990,
+      "displayedPriceText": "₱61,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4pp_a",
+      "priceKeys": [
+        "mh3a4pp_a",
+        "mh3c4pp_a",
+        "mh3d4pp_a",
+        "mh3e4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 63990,
+      "displayedPriceText": "₱63,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4pp_a",
+      "priceKeys": [
+        "mh9d4pp_a",
+        "mh9e4pp_a",
+        "mh9f4pp_a",
+        "mh9g4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 64990,
+      "displayedPriceText": "₱64,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4pp_a",
+      "priceKeys": [
+        "mh9h4pp_a",
+        "mh9j4pp_a",
+        "mh9k4pp_a",
+        "mh9l4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 71990,
+      "displayedPriceText": "₱71,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4pp_a",
+      "priceKeys": [
+        "mh7h4pp_a",
+        "mh7j4pp_a",
+        "mh7k4pp_a",
+        "mh7l4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 73990,
+      "displayedPriceText": "₱73,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4pp_a",
+      "priceKeys": [
+        "mh5y4pp_a",
+        "mh604pp_a",
+        "mh614pp_a",
+        "mh624pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 75990,
+      "displayedPriceText": "₱75,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4pp_a",
+      "priceKeys": [
+        "mh3g4pp_a",
+        "mh3h4pp_a",
+        "mh3j4pp_a",
+        "mh3k4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 77990,
+      "displayedPriceText": "₱77,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4pp_a",
+      "priceKeys": [
+        "mh9m4pp_a",
+        "mh9n4pp_a",
+        "mh9p4pp_a",
+        "mh9q4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 85990,
+      "displayedPriceText": "₱85,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4pp_a",
+      "priceKeys": [
+        "mh7m4pp_a",
+        "mh7n4pp_a",
+        "mh7p4pp_a",
+        "mh7q4pp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 87990,
+      "displayedPriceText": "₱87,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634pp_a",
+      "priceKeys": [
+        "mh634pp_a",
+        "mh644pp_a",
+        "mh654pp_a",
+        "mhdk4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 89990,
+      "displayedPriceText": "₱89,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4pp_a",
+      "priceKeys": [
+        "mh9r4pp_a",
+        "mh9t4pp_a",
+        "mh9u4pp_a",
+        "mh9v4pp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 99990,
+      "displayedPriceText": "₱99,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    }
+  ]
+}

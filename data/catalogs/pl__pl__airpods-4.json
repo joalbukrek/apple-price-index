@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:22.737Z",
+  "familyUrl": "https://www.apple.com/pl/shop/buy-airpods/airpods-4",
+  "currency": "PLN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "599_00",
+      "priceKeys": [
+        "599_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 599,
+      "displayedPriceText": "599,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "849_00",
+      "priceKeys": [
+        "849_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 849,
+      "displayedPriceText": "849,00 zł",
+      "currency": "PLN",
+      "storefrontUrl": "https://www.apple.com/pl/",
+      "countryCode": "pl",
+      "countryName": "Polska"
+    }
+  ]
+}

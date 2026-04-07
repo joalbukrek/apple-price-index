@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:15:42.458Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-iphone/iphone-17e",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrv4qn_a",
+      "priceKeys": [
+        "mhrv4qn_a",
+        "mhrw4qn_a",
+        "mhrx4qn_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 8990,
+      "displayedPriceText": "kr 8 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhry4qn_a",
+      "priceKeys": [
+        "mhry4qn_a",
+        "mhu04qn_a",
+        "mhu34qn_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 11990,
+      "displayedPriceText": "kr 11 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

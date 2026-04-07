@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:23.087Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304ta_a",
+      "priceKeys": [
+        "mh304ta_a",
+        "mh314ta_a",
+        "mh334ta_a",
+        "mh344ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 19900,
+      "displayedPriceText": "NT$19,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354ta_a",
+      "priceKeys": [
+        "mh354ta_a",
+        "mh364ta_a",
+        "mh374ta_a",
+        "mh394ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 23400,
+      "displayedPriceText": "NT$23,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784ta_a",
+      "priceKeys": [
+        "mh784ta_a",
+        "mh794ta_a",
+        "mh7a4ta_a",
+        "mh7c4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 24900,
+      "displayedPriceText": "NT$24,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4ta_a",
+      "priceKeys": [
+        "mh5n4ta_a",
+        "mh5p4ta_a",
+        "mh5q4ta_a",
+        "mh5t4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 26900,
+      "displayedPriceText": "NT$26,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4ta_a",
+      "priceKeys": [
+        "mh7d4ta_a",
+        "mh7e4ta_a",
+        "mh7f4ta_a",
+        "mh7g4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 28400,
+      "displayedPriceText": "NT$28,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4ta_a",
+      "priceKeys": [
+        "mh3a4ta_a",
+        "mh3c4ta_a",
+        "mh3d4ta_a",
+        "mh3e4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 30400,
+      "displayedPriceText": "NT$30,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4ta_a",
+      "priceKeys": [
+        "mh5u4ta_a",
+        "mh5v4ta_a",
+        "mh5w4ta_a",
+        "mh5x4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 30400,
+      "displayedPriceText": "NT$30,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4ta_a",
+      "priceKeys": [
+        "mh9d4ta_a",
+        "mh9e4ta_a",
+        "mh9f4ta_a",
+        "mh9g4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 31900,
+      "displayedPriceText": "NT$31,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4ta_a",
+      "priceKeys": [
+        "mh7h4ta_a",
+        "mh7j4ta_a",
+        "mh7k4ta_a",
+        "mh7l4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 35400,
+      "displayedPriceText": "NT$35,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4ta_a",
+      "priceKeys": [
+        "mh9h4ta_a",
+        "mh9j4ta_a",
+        "mh9k4ta_a",
+        "mh9l4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 35400,
+      "displayedPriceText": "NT$35,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4ta_a",
+      "priceKeys": [
+        "mh3g4ta_a",
+        "mh3h4ta_a",
+        "mh3j4ta_a",
+        "mh3k4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 37400,
+      "displayedPriceText": "NT$37,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4ta_a",
+      "priceKeys": [
+        "mh5y4ta_a",
+        "mh604ta_a",
+        "mh614ta_a",
+        "mh624ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 37400,
+      "displayedPriceText": "NT$37,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4ta_a",
+      "priceKeys": [
+        "mh7m4ta_a",
+        "mh7n4ta_a",
+        "mh7p4ta_a",
+        "mh7q4ta_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 42400,
+      "displayedPriceText": "NT$42,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4ta_a",
+      "priceKeys": [
+        "mh9m4ta_a",
+        "mh9n4ta_a",
+        "mh9p4ta_a",
+        "mh9q4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 42400,
+      "displayedPriceText": "NT$42,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634ta_a",
+      "priceKeys": [
+        "mh634ta_a",
+        "mh644ta_a",
+        "mh654ta_a",
+        "mhdk4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 44400,
+      "displayedPriceText": "NT$44,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4ta_a",
+      "priceKeys": [
+        "mh9r4ta_a",
+        "mh9t4ta_a",
+        "mh9u4ta_a",
+        "mh9v4ta_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 49400,
+      "displayedPriceText": "NT$49,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

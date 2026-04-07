@@ -7,6 +7,7 @@ import {
   buildVariantRecord,
   EXPANDABLE_DIMENSION_KEYS,
   extractDisplayedPriceText,
+  extractProductDimensions,
   extractPriceDataFromUpdateResponse,
   extractRawAmount,
   pickRepresentativeProduct,
@@ -262,11 +263,12 @@ async function expandRepresentativeProduct(
     );
   }
 
+  const representativeDimensions = extractProductDimensions(representative);
   let initialState;
   try {
     initialState = await resolveInitialCtoState(
       updateConfigUrl,
-      representative.dimensions ?? {},
+      representativeDimensions,
       sectionKeys,
       refresh,
     );
@@ -344,13 +346,13 @@ async function expandRepresentativeProduct(
         return null;
       }
 
-      const selectedDimensions = state.selectedDimensions ?? representative.dimensions ?? {};
+      const selectedDimensions = state.selectedDimensions ?? representativeDimensions;
       const selectedVariantKey = buildVariantKey({
         dimensions: selectedDimensions,
-        priceKey: representative.priceKey,
+        priceKey: representative.priceKey ?? representative.fullPrice ?? representative.basePartNumber,
       });
       const isCustomVariant =
-        serializeDimensions(selectedDimensions) !== serializeDimensions(representative.dimensions ?? {});
+        serializeDimensions(selectedDimensions) !== serializeDimensions(representativeDimensions);
 
       return buildVariantRecord({
         storefront,

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:01:27.684Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-airpods/airpods-4",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "1099_00",
+      "priceKeys": [
+        "1099_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 1099,
+      "displayedPriceText": "HK$1,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "1499_00",
+      "priceKeys": [
+        "1499_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 1499,
+      "displayedPriceText": "HK$1,499",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

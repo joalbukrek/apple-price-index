@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:44.115Z",
+  "familyUrl": "https://www.apple.com/my/shop/buy-airpods/airpods-pro-3",
+  "currency": "MYR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "999_00",
+      "priceKeys": [
+        "999_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 999,
+      "displayedPriceText": "RM 999.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    }
+  ]
+}

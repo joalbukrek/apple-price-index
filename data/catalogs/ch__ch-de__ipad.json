@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:42:47.476Z",
+  "familyUrl": "https://www.apple.com/ch-de/shop/buy-ipad/ipad",
+  "currency": "CHF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad::wifi-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-128gb",
+      "priceKey": "md3y4ty_a",
+      "priceKeys": [
+        "md3y4ty_a",
+        "md4a4ty_a",
+        "md4d4ty_a",
+        "md4e4ty_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi | 128GB",
+      "displayedPrice": 329,
+      "displayedPriceText": "CHF 329.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "ipad::wifi-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-256gb",
+      "priceKey": "md4g4ty_a",
+      "priceKeys": [
+        "md4g4ty_a",
+        "md4h4ty_a",
+        "md4j4ty_a",
+        "md4p4ty_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi | 256GB",
+      "displayedPrice": 429,
+      "displayedPriceText": "CHF 429.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "ipad::wificell-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-128gb",
+      "priceKey": "md7f4ty_a",
+      "priceKeys": [
+        "md7f4ty_a",
+        "md7g4ty_a",
+        "md7h4ty_a",
+        "md7j4ty_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 479,
+      "displayedPriceText": "CHF 479.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "ipad::wificell-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-256gb",
+      "priceKey": "md7k4ty_a",
+      "priceKeys": [
+        "md7k4ty_a",
+        "md7l4ty_a",
+        "md7m4ty_a",
+        "md7n4ty_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 579,
+      "displayedPriceText": "CHF 579.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "ipad::wifi-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-512gb",
+      "priceKey": "md4q4ty_a",
+      "priceKeys": [
+        "md4q4ty_a",
+        "md4y4ty_a",
+        "md5a4ty_a",
+        "md5c4ty_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi | 512GB",
+      "displayedPrice": 629,
+      "displayedPriceText": "CHF 629.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "ipad::wificell-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-512gb",
+      "priceKey": "md7p4ty_a",
+      "priceKeys": [
+        "md7p4ty_a",
+        "md7q4ty_a",
+        "md7r4ty_a",
+        "md7t4ty_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 779,
+      "displayedPriceText": "CHF 779.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:11.185Z",
+  "familyUrl": "https://www.apple.com/in/shop/buy-airpods/airpods-max-2",
+  "currency": "INR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "67900_00",
+      "priceKeys": [
+        "67900_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 67900,
+      "displayedPriceText": "₹67900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    }
+  ]
+}

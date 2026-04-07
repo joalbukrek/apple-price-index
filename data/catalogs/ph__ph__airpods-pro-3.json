@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:15.538Z",
+  "familyUrl": "https://www.apple.com/ph/shop/buy-airpods/airpods-pro-3",
+  "currency": "PHP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "14990_00",
+      "priceKeys": [
+        "14990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 14990,
+      "displayedPriceText": "₱14,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    }
+  ]
+}

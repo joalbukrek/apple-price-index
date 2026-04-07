@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:48:30.882Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-watch/apple-watch-se",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gps",
+      "priceKey": "watch_cases-aluminum-40mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS",
+      "displayedPrice": 37800,
+      "displayedPriceText": "37,800円",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gps",
+      "priceKey": "watch_cases-aluminum-44mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS",
+      "displayedPrice": 42800,
+      "displayedPriceText": "42,800円",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gpscell",
+      "priceKey": "watch_cases-aluminum-40mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS + Cellular",
+      "displayedPrice": 45800,
+      "displayedPriceText": "45,800円",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gpscell",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gpscell",
+      "priceKey": "watch_cases-aluminum-44mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS + Cellular",
+      "displayedPrice": 50800,
+      "displayedPriceText": "50,800円",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

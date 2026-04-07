@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:55.969Z",
+  "familyUrl": "https://www.apple.com/in/shop/buy-ipad/ipad-air",
+  "currency": "INR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304hn_a",
+      "priceKeys": [
+        "mh304hn_a",
+        "mh314hn_a",
+        "mh334hn_a",
+        "mh344hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 64900,
+      "displayedPriceText": "₹64900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354hn_a",
+      "priceKeys": [
+        "mh354hn_a",
+        "mh364hn_a",
+        "mh374hn_a",
+        "mh394hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 74900,
+      "displayedPriceText": "₹74900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784hn_a",
+      "priceKeys": [
+        "mh784hn_a",
+        "mh794hn_a",
+        "mh7a4hn_a",
+        "mh7c4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 79900,
+      "displayedPriceText": "₹79900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4hn_a",
+      "priceKeys": [
+        "mh5n4hn_a",
+        "mh5p4hn_a",
+        "mh5q4hn_a",
+        "mh5t4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 84900,
+      "displayedPriceText": "₹84900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4hn_a",
+      "priceKeys": [
+        "mh7d4hn_a",
+        "mh7e4hn_a",
+        "mh7f4hn_a",
+        "mh7g4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 89900,
+      "displayedPriceText": "₹89900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4hn_a",
+      "priceKeys": [
+        "mh3a4hn_a",
+        "mh3c4hn_a",
+        "mh3d4hn_a",
+        "mh3e4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 94900,
+      "displayedPriceText": "₹94900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4hn_a",
+      "priceKeys": [
+        "mh5u4hn_a",
+        "mh5v4hn_a",
+        "mh5w4hn_a",
+        "mh5x4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 94900,
+      "displayedPriceText": "₹94900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4hn_a",
+      "priceKeys": [
+        "mh9d4hn_a",
+        "mh9e4hn_a",
+        "mh9f4hn_a",
+        "mh9g4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 99900,
+      "displayedPriceText": "₹99900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4hn_a",
+      "priceKeys": [
+        "mh7h4hn_a",
+        "mh7j4hn_a",
+        "mh7k4hn_a",
+        "mh7l4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 109900,
+      "displayedPriceText": "₹109900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4hn_a",
+      "priceKeys": [
+        "mh9h4hn_a",
+        "mh9j4hn_a",
+        "mh9k4hn_a",
+        "mh9l4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 109900,
+      "displayedPriceText": "₹109900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4hn_a",
+      "priceKeys": [
+        "mh3g4hn_a",
+        "mh3h4hn_a",
+        "mh3j4hn_a",
+        "mh3k4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 114900,
+      "displayedPriceText": "₹114900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4hn_a",
+      "priceKeys": [
+        "mh5y4hn_a",
+        "mh604hn_a",
+        "mh614hn_a",
+        "mh624hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 114900,
+      "displayedPriceText": "₹114900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4hn_a",
+      "priceKeys": [
+        "mh7m4hn_a",
+        "mh7n4hn_a",
+        "mh7p4hn_a",
+        "mh7q4hn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 129900,
+      "displayedPriceText": "₹129900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4hn_a",
+      "priceKeys": [
+        "mh9m4hn_a",
+        "mh9n4hn_a",
+        "mh9p4hn_a",
+        "mh9q4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 129900,
+      "displayedPriceText": "₹129900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634hn_a",
+      "priceKeys": [
+        "mh634hn_a",
+        "mh644hn_a",
+        "mh654hn_a",
+        "mhdk4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 134900,
+      "displayedPriceText": "₹134900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4hn_a",
+      "priceKeys": [
+        "mh9r4hn_a",
+        "mh9t4hn_a",
+        "mh9u4hn_a",
+        "mh9v4hn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 149900,
+      "displayedPriceText": "₹149900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:18.054Z",
+  "familyUrl": "https://www.apple.com/ph/shop/buy-airpods/airpods-max-2",
+  "currency": "PHP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "34990_00",
+      "priceKeys": [
+        "34990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 34990,
+      "displayedPriceText": "₱34,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    }
+  ]
+}

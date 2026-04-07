@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:10.585Z",
+  "familyUrl": "https://www.apple.com/ph/shop/buy-ipad/ipad",
+  "currency": "PHP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad::wifi-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-128gb",
+      "priceKey": "md3y4pp_a",
+      "priceKeys": [
+        "md3y4pp_a",
+        "md4a4pp_a",
+        "md4d4pp_a",
+        "md4e4pp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi | 128GB",
+      "displayedPrice": 24990,
+      "displayedPriceText": "₱24,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad::wifi-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-256gb",
+      "priceKey": "md4g4pp_a",
+      "priceKeys": [
+        "md4g4pp_a",
+        "md4h4pp_a",
+        "md4j4pp_a",
+        "md4p4pp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi | 256GB",
+      "displayedPrice": 31990,
+      "displayedPriceText": "₱31,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad::wificell-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-128gb",
+      "priceKey": "md7f4pp_a",
+      "priceKeys": [
+        "md7f4pp_a",
+        "md7g4pp_a",
+        "md7h4pp_a",
+        "md7j4pp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 34990,
+      "displayedPriceText": "₱34,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad::wificell-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-256gb",
+      "priceKey": "md7k4pp_a",
+      "priceKeys": [
+        "md7k4pp_a",
+        "md7l4pp_a",
+        "md7m4pp_a",
+        "md7n4pp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 41990,
+      "displayedPriceText": "₱41,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad::wifi-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-512gb",
+      "priceKey": "md4q4pp_a",
+      "priceKeys": [
+        "md4q4pp_a",
+        "md4y4pp_a",
+        "md5a4pp_a",
+        "md5c4pp_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi | 512GB",
+      "displayedPrice": 45990,
+      "displayedPriceText": "₱45,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    },
+    {
+      "canonicalKey": "ipad::wificell-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-512gb",
+      "priceKey": "md7p4pp_a",
+      "priceKeys": [
+        "md7p4pp_a",
+        "md7q4pp_a",
+        "md7r4pp_a",
+        "md7t4pp_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 55990,
+      "displayedPriceText": "₱55,990.00",
+      "currency": "PHP",
+      "storefrontUrl": "https://www.apple.com/ph/",
+      "countryCode": "ph",
+      "countryName": "Philippines"
+    }
+  ]
+}

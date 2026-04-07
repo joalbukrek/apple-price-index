@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:39:16.579Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304j_a",
+      "priceKeys": [
+        "mh304j_a",
+        "mh314j_a",
+        "mh334j_a",
+        "mh344j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 98800,
+      "displayedPriceText": "<span>98,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354j_a",
+      "priceKeys": [
+        "mh354j_a",
+        "mh364j_a",
+        "mh374j_a",
+        "mh394j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 114800,
+      "displayedPriceText": "<span>114,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784j_a",
+      "priceKeys": [
+        "mh784j_a",
+        "mh794j_a",
+        "mh7a4j_a",
+        "mh7c4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 124800,
+      "displayedPriceText": "<span>124,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4j_a",
+      "priceKeys": [
+        "mh5n4j_a",
+        "mh5p4j_a",
+        "mh5q4j_a",
+        "mh5t4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 128800,
+      "displayedPriceText": "<span>128,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4j_a",
+      "priceKeys": [
+        "mh7d4j_a",
+        "mh7e4j_a",
+        "mh7f4j_a",
+        "mh7g4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 140800,
+      "displayedPriceText": "<span>140,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4j_a",
+      "priceKeys": [
+        "mh5u4j_a",
+        "mh5v4j_a",
+        "mh5w4j_a",
+        "mh5x4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 144800,
+      "displayedPriceText": "<span>144,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4j_a",
+      "priceKeys": [
+        "mh3a4j_a",
+        "mh3c4j_a",
+        "mh3d4j_a",
+        "mh3e4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 150800,
+      "displayedPriceText": "<span>150,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4j_a",
+      "priceKeys": [
+        "mh9d4j_a",
+        "mh9e4j_a",
+        "mh9f4j_a",
+        "mh9g4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 154800,
+      "displayedPriceText": "<span>154,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4j_a",
+      "priceKeys": [
+        "mh9h4j_a",
+        "mh9j4j_a",
+        "mh9k4j_a",
+        "mh9l4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 170800,
+      "displayedPriceText": "<span>170,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4j_a",
+      "priceKeys": [
+        "mh7h4j_a",
+        "mh7j4j_a",
+        "mh7k4j_a",
+        "mh7l4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 176800,
+      "displayedPriceText": "<span>176,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4j_a",
+      "priceKeys": [
+        "mh5y4j_a",
+        "mh604j_a",
+        "mh614j_a",
+        "mh624j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 180800,
+      "displayedPriceText": "<span>180,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4j_a",
+      "priceKeys": [
+        "mh3g4j_a",
+        "mh3h4j_a",
+        "mh3j4j_a",
+        "mh3k4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 186800,
+      "displayedPriceText": "<span>186,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4j_a",
+      "priceKeys": [
+        "mh9m4j_a",
+        "mh9n4j_a",
+        "mh9p4j_a",
+        "mh9q4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 206800,
+      "displayedPriceText": "<span>206,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4j_a",
+      "priceKeys": [
+        "mh7m4j_a",
+        "mh7n4j_a",
+        "mh7p4j_a",
+        "mh7q4j_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 212800,
+      "displayedPriceText": "<span>212,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634j_a",
+      "priceKeys": [
+        "mh634j_a",
+        "mh644j_a",
+        "mh654j_a",
+        "mhdk4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 216800,
+      "displayedPriceText": "<span>216,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4j_a",
+      "priceKeys": [
+        "mh9r4j_a",
+        "mh9t4j_a",
+        "mh9u4j_a",
+        "mh9v4j_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 242800,
+      "displayedPriceText": "<span>242,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:49:16.990Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-watch/apple-watch",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gps",
+      "priceKey": "watch_cases-aluminum-42mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 42mm | GPS",
+      "displayedPrice": 12900,
+      "displayedPriceText": "NT$12,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gps",
+      "priceKey": "watch_cases-aluminum-46mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 46mm | GPS",
+      "displayedPrice": 13900,
+      "displayedPriceText": "NT$13,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gpscell",
+      "priceKey": "watch_cases-aluminum-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 42mm | GPS + Cellular",
+      "displayedPrice": 15900,
+      "displayedPriceText": "NT$15,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gpscell",
+      "priceKey": "watch_cases-aluminum-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 46mm | GPS + Cellular",
+      "displayedPrice": 16900,
+      "displayedPriceText": "NT$16,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-42mm-gpscell",
+      "priceKey": "watch_cases-titanium-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 42mm | GPS + Cellular",
+      "displayedPrice": 22900,
+      "displayedPriceText": "NT$22,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-46mm-gpscell",
+      "priceKey": "watch_cases-titanium-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 46mm | GPS + Cellular",
+      "displayedPrice": 24400,
+      "displayedPriceText": "NT$24,400",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

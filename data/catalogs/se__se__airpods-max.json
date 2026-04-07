@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:07:06.770Z",
+  "familyUrl": "https://www.apple.com/se/shop/buy-airpods/airpods-max-2",
+  "currency": "SEK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "6495_00",
+      "priceKeys": [
+        "6495_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 6495,
+      "displayedPriceText": "6 495,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    }
+  ]
+}

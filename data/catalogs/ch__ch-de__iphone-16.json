@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:10:33.333Z",
+  "familyUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-16",
+  "currency": "CHF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-16::6_1inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_1inch-128gb",
+      "priceKey": "mye73ql_a",
+      "priceKeys": [
+        "mye73ql_a",
+        "mye93ql_a",
+        "myea3ql_a",
+        "myec3ql_a",
+        "myed3ql_a"
+      ],
+      "signature": "dimensionScreensize:6_1inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.1-Inch | 128GB",
+      "displayedPrice": 699,
+      "displayedPriceText": "CHF 699.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-128gb",
+      "priceKey": "mxvu3ql_a",
+      "priceKeys": [
+        "mxvu3ql_a",
+        "mxvv3ql_a",
+        "mxvw3ql_a",
+        "mxvx3ql_a",
+        "mxvy3ql_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.7-Inch | 128GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "CHF 799.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-256gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-256gb",
+      "priceKey": "mxwn3ql_a",
+      "priceKeys": [
+        "mxwn3ql_a",
+        "mxwv3ql_a",
+        "mxy13ql_a",
+        "mxy23ql_a",
+        "mxy53ql_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:256gb",
+      "title": "iPhone 16 | 6.7-Inch | 256GB",
+      "displayedPrice": 899,
+      "displayedPriceText": "CHF 899.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:46.015Z",
+  "familyUrl": "https://www.apple.com/au/shop/buy-airpods/airpods-4",
+  "currency": "AUD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "219_00",
+      "priceKeys": [
+        "219_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 219,
+      "displayedPriceText": "A$219.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "299_00",
+      "priceKeys": [
+        "299_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 299,
+      "displayedPriceText": "A$299.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    }
+  ]
+}

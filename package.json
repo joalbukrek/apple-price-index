@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node cli.mjs",
+    "test": "node cli.mjs self-test",
     "countries": "node src/cli.mjs countries",
     "products": "node src/cli.mjs list-products",
     "compare": "node src/cli.mjs compare",

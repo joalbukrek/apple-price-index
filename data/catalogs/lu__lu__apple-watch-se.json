@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:51:34.069Z",
+  "familyUrl": "https://www.apple.com/lu/shop/buy-watch/apple-watch-se",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-se::aluminum-40mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-40mm-gps",
+      "priceKey": "watch_cases-aluminum-40mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-40mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:40mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 40mm | GPS",
+      "displayedPrice": 260.1,
+      "displayedPriceText": "260,10 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    },
+    {
+      "canonicalKey": "apple-watch-se::aluminum-44mm-gps",
+      "familySlug": "apple-watch-se",
+      "familyName": "Apple Watch SE",
+      "variantKey": "aluminum-44mm-gps",
+      "priceKey": "watch_cases-aluminum-44mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-44mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:44mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch SE | Aluminum | 44mm | GPS",
+      "displayedPrice": 289.12,
+      "displayedPriceText": "289,12 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    }
+  ]
+}

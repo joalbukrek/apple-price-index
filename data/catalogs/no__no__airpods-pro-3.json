@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:53.253Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-airpods/airpods-pro-3",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "2990_00",
+      "priceKeys": [
+        "2990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 2990,
+      "displayedPriceText": "kr 2 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

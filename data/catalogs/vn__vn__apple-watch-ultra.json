@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:48:10.929Z",
+  "familyUrl": "https://www.apple.com/vn/shop/buy-watch/apple-watch-ultra",
+  "currency": "VND",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-ultra::49mm",
+      "familySlug": "apple-watch-ultra",
+      "familyName": "Apple Watch Ultra",
+      "variantKey": "49mm",
+      "priceKey": "watch_cases-49mm",
+      "priceKeys": [
+        "watch_cases-49mm"
+      ],
+      "signature": "watch_cases-dimensionCaseSize:49mm",
+      "title": "Apple Watch Ultra | 49mm",
+      "displayedPrice": 23999000,
+      "displayedPriceText": "23.999.000đ",
+      "currency": "VND",
+      "storefrontUrl": "https://www.apple.com/vn/",
+      "countryCode": "vn",
+      "countryName": "Việt Nam"
+    }
+  ]
+}

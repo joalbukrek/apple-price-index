@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:42:04.046Z",
+  "familyUrl": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
+  "currency": "CNY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63ch_a",
+      "priceKeys": [
+        "mxn63ch_a",
+        "mxn73ch_a",
+        "mxn83ch_a",
+        "mxn93ch_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 3999,
+      "displayedPriceText": "RMB 3,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3ch_a",
+      "priceKeys": [
+        "mxna3ch_a",
+        "mxnc3ch_a",
+        "mxnd3ch_a",
+        "mxne3ch_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 4499,
+      "displayedPriceText": "RMB 4,499",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxq03ch_a",
+      "priceKeys": [
+        "mxq03ch_a",
+        "mxq13ch_a",
+        "mxq23ch_a",
+        "mxq33ch_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 5299,
+      "displayedPriceText": "RMB 5,299",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxq43ch_a",
+      "priceKeys": [
+        "mxq43ch_a",
+        "mxq53ch_a",
+        "mxq63ch_a",
+        "mxq73ch_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 5799,
+      "displayedPriceText": "RMB 5,799",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3ch_a",
+      "priceKeys": [
+        "mygy3ch_a",
+        "myh13ch_a",
+        "myh23ch_a",
+        "myh33ch_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 6199,
+      "displayedPriceText": "RMB 6,199",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhg3ch_a",
+      "priceKeys": [
+        "myhg3ch_a",
+        "myhh3ch_a",
+        "myhj3ch_a",
+        "myhk3ch_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 7499,
+      "displayedPriceText": "RMB 7,499",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:10:15.410Z",
+  "familyUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-16",
+  "currency": "AUD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-16::6_1inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_1inch-128gb",
+      "priceKey": "mye73x_a",
+      "priceKeys": [
+        "mye73x_a",
+        "mye93x_a",
+        "myea3x_a",
+        "myec3x_a",
+        "myed3x_a"
+      ],
+      "signature": "dimensionScreensize:6_1inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.1-Inch | 128GB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "A$1,249.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-128gb",
+      "priceKey": "mxvu3x_a",
+      "priceKeys": [
+        "mxvu3x_a",
+        "mxvv3x_a",
+        "mxvw3x_a",
+        "mxvx3x_a",
+        "mxvy3x_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.7-Inch | 128GB",
+      "displayedPrice": 1399,
+      "displayedPriceText": "A$1,399.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-256gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-256gb",
+      "priceKey": "mxwn3x_a",
+      "priceKeys": [
+        "mxwn3x_a",
+        "mxwv3x_a",
+        "mxy13x_a",
+        "mxy23x_a",
+        "mxy53x_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:256gb",
+      "title": "iPhone 16 | 6.7-Inch | 256GB",
+      "displayedPrice": 1599,
+      "displayedPriceText": "A$1,599.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    }
+  ]
+}

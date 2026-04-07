@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:06.711Z",
+  "familyUrl": "https://www.apple.com/tr/shop/buy-airpods/airpods-pro-3",
+  "currency": "TRY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "13999_00",
+      "priceKeys": [
+        "13999_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 13999,
+      "displayedPriceText": "13.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    }
+  ]
+}

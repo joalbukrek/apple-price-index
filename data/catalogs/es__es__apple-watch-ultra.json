@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:52:42.888Z",
+  "familyUrl": "https://www.apple.com/es/shop/buy-watch/apple-watch-ultra",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-ultra::49mm",
+      "familySlug": "apple-watch-ultra",
+      "familyName": "Apple Watch Ultra",
+      "variantKey": "49mm",
+      "priceKey": "watch_cases-49mm",
+      "priceKeys": [
+        "watch_cases-49mm"
+      ],
+      "signature": "watch_cases-dimensionCaseSize:49mm",
+      "title": "Apple Watch Ultra | 49mm",
+      "displayedPrice": 899,
+      "displayedPriceText": "899,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/es/",
+      "countryCode": "es",
+      "countryName": "España"
+    }
+  ]
+}

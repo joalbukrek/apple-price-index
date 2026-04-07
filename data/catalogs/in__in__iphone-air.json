@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:07:01.903Z",
+  "familyUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
+  "currency": "INR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4hn_a",
+      "priceKeys": [
+        "mg2l4hn_a",
+        "mg2m4hn_a",
+        "mg2n4hn_a",
+        "mg2p4hn_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 119900,
+      "displayedPriceText": "₹119900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4hn_a",
+      "priceKeys": [
+        "mg2q4hn_a",
+        "mg2t4hn_a",
+        "mg2u4hn_a",
+        "mg2v4hn_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 139900,
+      "displayedPriceText": "₹139900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4hn_a",
+      "priceKeys": [
+        "mg2w4hn_a",
+        "mg2x4hn_a",
+        "mg2y4hn_a",
+        "mg304hn_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 159900,
+      "displayedPriceText": "₹159900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    }
+  ]
+}

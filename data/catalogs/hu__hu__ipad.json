@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:47:16.484Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-ipad/ipad",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad::wifi-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-128gb",
+      "priceKey": "md3y4hc_a",
+      "priceKeys": [
+        "md3y4hc_a",
+        "md4a4hc_a",
+        "md4d4hc_a",
+        "md4e4hc_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi | 128GB",
+      "displayedPrice": 159990,
+      "displayedPriceText": "159 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad::wifi-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-256gb",
+      "priceKey": "md4g4hc_a",
+      "priceKeys": [
+        "md4g4hc_a",
+        "md4h4hc_a",
+        "md4j4hc_a",
+        "md4p4hc_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi | 256GB",
+      "displayedPrice": 209990,
+      "displayedPriceText": "209 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad::wificell-128gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-128gb",
+      "priceKey": "md7f4hc_a",
+      "priceKeys": [
+        "md7f4hc_a",
+        "md7g4hc_a",
+        "md7h4hc_a",
+        "md7j4hc_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 234990,
+      "displayedPriceText": "234 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad::wificell-256gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-256gb",
+      "priceKey": "md7k4hc_a",
+      "priceKeys": [
+        "md7k4hc_a",
+        "md7l4hc_a",
+        "md7m4hc_a",
+        "md7n4hc_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 284990,
+      "displayedPriceText": "284 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad::wifi-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wifi-512gb",
+      "priceKey": "md4q4hc_a",
+      "priceKeys": [
+        "md4q4hc_a",
+        "md4y4hc_a",
+        "md5a4hc_a",
+        "md5c4hc_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi | 512GB",
+      "displayedPrice": 309990,
+      "displayedPriceText": "309 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "ipad::wificell-512gb",
+      "familySlug": "ipad",
+      "familyName": "iPad",
+      "variantKey": "wificell-512gb",
+      "priceKey": "md7p4hc_a",
+      "priceKeys": [
+        "md7p4hc_a",
+        "md7q4hc_a",
+        "md7r4hc_a",
+        "md7t4hc_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 384990,
+      "displayedPriceText": "384 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

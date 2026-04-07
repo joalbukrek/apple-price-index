@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:03.655Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-16",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-16::6_1inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_1inch-128gb",
+      "priceKey": "myev3za_a",
+      "priceKeys": [
+        "myev3za_a",
+        "myew3za_a",
+        "myex3za_a",
+        "myey3za_a",
+        "myf03za_a"
+      ],
+      "signature": "dimensionScreensize:6_1inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.1-Inch | 128GB",
+      "displayedPrice": 5999,
+      "displayedPriceText": "HK$5,999",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-128gb",
+      "priceKey": "mxu93za_a",
+      "priceKeys": [
+        "mxu93za_a",
+        "mxua3za_a",
+        "mxuc3za_a",
+        "mxud3za_a",
+        "mxue3za_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.7-Inch | 128GB",
+      "displayedPrice": 6899,
+      "displayedPriceText": "HK$6,899",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-256gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-256gb",
+      "priceKey": "mxuf3za_a",
+      "priceKeys": [
+        "mxuf3za_a",
+        "mxug3za_a",
+        "mxuh3za_a",
+        "mxuj3za_a",
+        "mxuk3za_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:256gb",
+      "title": "iPhone 16 | 6.7-Inch | 256GB",
+      "displayedPrice": 7699,
+      "displayedPriceText": "HK$7,699",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

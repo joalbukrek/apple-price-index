@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:15:45.261Z",
+  "familyUrl": "https://www.apple.com/no/shop/buy-iphone/iphone-16",
+  "currency": "NOK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-16::6_1inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_1inch-128gb",
+      "priceKey": "mye73qn_a",
+      "priceKeys": [
+        "mye73qn_a",
+        "mye93qn_a",
+        "myea3qn_a",
+        "myec3qn_a",
+        "myed3qn_a"
+      ],
+      "signature": "dimensionScreensize:6_1inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.1-Inch | 128GB",
+      "displayedPrice": 10490,
+      "displayedPriceText": "kr 10 490,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-128gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-128gb",
+      "priceKey": "mxvu3qn_a",
+      "priceKeys": [
+        "mxvu3qn_a",
+        "mxvv3qn_a",
+        "mxvw3qn_a",
+        "mxvx3qn_a",
+        "mxvy3qn_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:128gb",
+      "title": "iPhone 16 | 6.7-Inch | 128GB",
+      "displayedPrice": 11990,
+      "displayedPriceText": "kr 11 990,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    },
+    {
+      "canonicalKey": "iphone-16::6_7inch-256gb",
+      "familySlug": "iphone-16",
+      "familyName": "iPhone 16",
+      "variantKey": "6_7inch-256gb",
+      "priceKey": "mxwn3qn_a",
+      "priceKeys": [
+        "mxwn3qn_a",
+        "mxwv3qn_a",
+        "mxy13qn_a",
+        "mxy23qn_a",
+        "mxy53qn_a"
+      ],
+      "signature": "dimensionScreensize:6_7inch|dimensionCapacity:256gb",
+      "title": "iPhone 16 | 6.7-Inch | 256GB",
+      "displayedPrice": 13390,
+      "displayedPriceText": "kr 13 390,00",
+      "currency": "NOK",
+      "storefrontUrl": "https://www.apple.com/no/",
+      "countryCode": "no",
+      "countryName": "Norge"
+    }
+  ]
+}

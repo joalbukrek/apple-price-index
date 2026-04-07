@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:13:49.578Z",
+  "familyUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-air",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4qn_a",
+      "priceKeys": [
+        "mg2l4qn_a",
+        "mg2m4qn_a",
+        "mg2n4qn_a",
+        "mg2p4qn_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 1239,
+      "displayedPriceText": "€1,239.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4qn_a",
+      "priceKeys": [
+        "mg2q4qn_a",
+        "mg2t4qn_a",
+        "mg2u4qn_a",
+        "mg2v4qn_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 1489,
+      "displayedPriceText": "€1,489.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4qn_a",
+      "priceKeys": [
+        "mg2w4qn_a",
+        "mg2x4qn_a",
+        "mg2y4qn_a",
+        "mg304qn_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 1739,
+      "displayedPriceText": "€1,739.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    }
+  ]
+}

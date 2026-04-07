@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:33.218Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-airpods/airpods-4",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "159990_00",
+      "priceKeys": [
+        "159990_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 159990,
+      "displayedPriceText": "$159.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "219990_00",
+      "priceKeys": [
+        "219990_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 219990,
+      "displayedPriceText": "$219.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

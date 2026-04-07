@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:32.383Z",
+  "familyUrl": "https://www.apple.com.cn/shop/buy-airpods/airpods-max-2",
+  "currency": "CNY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "3999_00",
+      "priceKeys": [
+        "3999_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 3999,
+      "displayedPriceText": "RMB 3,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    }
+  ]
+}

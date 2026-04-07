@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:05.408Z",
+  "familyUrl": "https://www.apple.com/uk/shop/buy-airpods/airpods-4",
+  "currency": "GBP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "119_00",
+      "priceKeys": [
+        "119_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 119,
+      "displayedPriceText": "£119.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "169_00",
+      "priceKeys": [
+        "169_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 169,
+      "displayedPriceText": "£169.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    }
+  ]
+}

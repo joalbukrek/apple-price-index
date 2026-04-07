@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:41:31.002Z",
+  "familyUrl": "https://www.apple.com/tr/shop/buy-ipad/ipad-air",
+  "currency": "TRY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304tu_a",
+      "priceKeys": [
+        "mh304tu_a",
+        "mh314tu_a",
+        "mh334tu_a",
+        "mh344tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 37999,
+      "displayedPriceText": "37.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354tu_a",
+      "priceKeys": [
+        "mh354tu_a",
+        "mh364tu_a",
+        "mh374tu_a",
+        "mh394tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 43999,
+      "displayedPriceText": "43.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784tu_a",
+      "priceKeys": [
+        "mh784tu_a",
+        "mh794tu_a",
+        "mh7a4tu_a",
+        "mh7c4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 46999,
+      "displayedPriceText": "46.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4tu_a",
+      "priceKeys": [
+        "mh5n4tu_a",
+        "mh5p4tu_a",
+        "mh5q4tu_a",
+        "mh5t4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 47999,
+      "displayedPriceText": "47.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4tu_a",
+      "priceKeys": [
+        "mh7d4tu_a",
+        "mh7e4tu_a",
+        "mh7f4tu_a",
+        "mh7g4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 52999,
+      "displayedPriceText": "52.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4tu_a",
+      "priceKeys": [
+        "mh5u4tu_a",
+        "mh5v4tu_a",
+        "mh5w4tu_a",
+        "mh5x4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 53999,
+      "displayedPriceText": "53.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4tu_a",
+      "priceKeys": [
+        "mh3a4tu_a",
+        "mh3c4tu_a",
+        "mh3d4tu_a",
+        "mh3e4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 55999,
+      "displayedPriceText": "55.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4tu_a",
+      "priceKeys": [
+        "mh9d4tu_a",
+        "mh9e4tu_a",
+        "mh9f4tu_a",
+        "mh9g4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 56999,
+      "displayedPriceText": "56.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4tu_a",
+      "priceKeys": [
+        "mh9h4tu_a",
+        "mh9j4tu_a",
+        "mh9k4tu_a",
+        "mh9l4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 62999,
+      "displayedPriceText": "62.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4tu_a",
+      "priceKeys": [
+        "mh7h4tu_a",
+        "mh7j4tu_a",
+        "mh7k4tu_a",
+        "mh7l4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 64999,
+      "displayedPriceText": "64.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4tu_a",
+      "priceKeys": [
+        "mh5y4tu_a",
+        "mh604tu_a",
+        "mh614tu_a",
+        "mh624tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 65999,
+      "displayedPriceText": "65.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4tu_a",
+      "priceKeys": [
+        "mh3g4tu_a",
+        "mh3h4tu_a",
+        "mh3j4tu_a",
+        "mh3k4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 67999,
+      "displayedPriceText": "67.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4tu_a",
+      "priceKeys": [
+        "mh9m4tu_a",
+        "mh9n4tu_a",
+        "mh9p4tu_a",
+        "mh9q4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 74999,
+      "displayedPriceText": "74.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4tu_a",
+      "priceKeys": [
+        "mh7m4tu_a",
+        "mh7n4tu_a",
+        "mh7p4tu_a",
+        "mh7q4tu_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 76999,
+      "displayedPriceText": "76.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634tu_a",
+      "priceKeys": [
+        "mh634tu_a",
+        "mh644tu_a",
+        "mh654tu_a",
+        "mhdk4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 77999,
+      "displayedPriceText": "77.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4tu_a",
+      "priceKeys": [
+        "mh9r4tu_a",
+        "mh9t4tu_a",
+        "mh9u4tu_a",
+        "mh9v4tu_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 86999,
+      "displayedPriceText": "86.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    }
+  ]
+}

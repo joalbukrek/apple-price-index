@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:43:49.298Z",
+  "familyUrl": "https://www.apple.com/at/shop/buy-ipad/ipad-pro",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4ty_a",
+      "priceKeys": [
+        "mdwk4ty_a",
+        "mdwl4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1099,
+      "displayedPriceText": "1.099,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4ty_a",
+      "priceKeys": [
+        "mdwm4ty_a",
+        "mdwn4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1349,
+      "displayedPriceText": "1.349,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4ty_a",
+      "priceKeys": [
+        "me2n4ty_a",
+        "me2p4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1349,
+      "displayedPriceText": "1.349,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4ty_a",
+      "priceKeys": [
+        "mdyj4ty_a",
+        "mdyk4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 1449,
+      "displayedPriceText": "1.449,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4ty_a",
+      "priceKeys": [
+        "me2q4ty_a",
+        "me2t4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 1599,
+      "displayedPriceText": "1.599,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4ty_a",
+      "priceKeys": [
+        "mdyl4ty_a",
+        "mdym4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 1699,
+      "displayedPriceText": "1.699,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4ty_a",
+      "priceKeys": [
+        "me7w4ty_a",
+        "me7x4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 1699,
+      "displayedPriceText": "1.699,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4ty_a",
+      "priceKeys": [
+        "mdwp4ty_a",
+        "mdwq4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 1829,
+      "displayedPriceText": "1.829,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4ty_a",
+      "priceKeys": [
+        "me7y4ty_a",
+        "me8c4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 1949,
+      "displayedPriceText": "1.949,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4ty_a",
+      "priceKeys": [
+        "mdwr4ty_a",
+        "mdwt4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 1959,
+      "displayedPriceText": "1.959,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4ty_a",
+      "priceKeys": [
+        "me2u4ty_a",
+        "me2v4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2079,
+      "displayedPriceText": "2.079,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4ty_a",
+      "priceKeys": [
+        "mdyn4ty_a",
+        "mdyp4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 2179,
+      "displayedPriceText": "2.179,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4ty_a",
+      "priceKeys": [
+        "me2w4ty_a",
+        "me2x4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2209,
+      "displayedPriceText": "2.209,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4ty_a",
+      "priceKeys": [
+        "mdwu4ty_a",
+        "mdwv4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2309,
+      "displayedPriceText": "2.309,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4ty_a",
+      "priceKeys": [
+        "mdyq4ty_a",
+        "mdyr4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 2309,
+      "displayedPriceText": "2.309,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4ty_a",
+      "priceKeys": [
+        "me8d4ty_a",
+        "me8f4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 2429,
+      "displayedPriceText": "2.429,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4ty_a",
+      "priceKeys": [
+        "mdww4ty_a",
+        "mdwx4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 2439,
+      "displayedPriceText": "2.439,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4ty_a",
+      "priceKeys": [
+        "me2y4ty_a",
+        "me6a4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 2559,
+      "displayedPriceText": "2.559,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4ty_a",
+      "priceKeys": [
+        "me8g4ty_a",
+        "me8h4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 2559,
+      "displayedPriceText": "2.559,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4ty_a",
+      "priceKeys": [
+        "mdyt4ty_a",
+        "mdyu4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 2659,
+      "displayedPriceText": "2.659,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4ty_a",
+      "priceKeys": [
+        "me6c4ty_a",
+        "me6d4ty_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 2689,
+      "displayedPriceText": "2.689,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4ty_a",
+      "priceKeys": [
+        "mdyv4ty_a",
+        "mdyw4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 2789,
+      "displayedPriceText": "2.789,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4ty_a",
+      "priceKeys": [
+        "me8j4ty_a",
+        "me8k4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 2909,
+      "displayedPriceText": "2.909,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4ty_a",
+      "priceKeys": [
+        "me8m4ty_a",
+        "me8n4ty_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 3039,
+      "displayedPriceText": "3.039,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/at/",
+      "countryCode": "at",
+      "countryName": "Österreich"
+    }
+  ]
+}

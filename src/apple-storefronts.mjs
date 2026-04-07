@@ -1,13 +1,48 @@
 import { fetchText } from "./http.mjs";
 import { humanizeIdentifier, normalizeText, stripHtml, uniqueBy } from "./utils.mjs";
 
-export const MAC_FAMILIES = [
-  { slug: "macbook-neo", name: "MacBook Neo" },
-  { slug: "macbook-air", name: "MacBook Air" },
-  { slug: "macbook-pro", name: "MacBook Pro" },
-  { slug: "imac", name: "iMac" },
-  { slug: "mac-mini", name: "Mac mini" },
-  { slug: "mac-studio", name: "Mac Studio" },
+export const PRODUCT_CATEGORIES = [
+  { slug: "mac", name: "Mac" },
+  { slug: "iphone", name: "iPhone" },
+  { slug: "ipad", name: "iPad" },
+  { slug: "watch", name: "Watch" },
+  { slug: "airpods", name: "AirPods" },
+];
+
+export const PRODUCT_FAMILIES = [
+  { slug: "macbook-neo", name: "MacBook Neo", category: "mac", buyPath: "buy-mac" },
+  { slug: "macbook-air", name: "MacBook Air", category: "mac", buyPath: "buy-mac" },
+  { slug: "macbook-pro", name: "MacBook Pro", category: "mac", buyPath: "buy-mac" },
+  { slug: "imac", name: "iMac", category: "mac", buyPath: "buy-mac" },
+  { slug: "mac-mini", name: "Mac mini", category: "mac", buyPath: "buy-mac" },
+  { slug: "mac-studio", name: "Mac Studio", category: "mac", buyPath: "buy-mac" },
+  { slug: "iphone-17-pro", name: "iPhone 17 Pro", category: "iphone", buyPath: "buy-iphone" },
+  { slug: "iphone-air", name: "iPhone Air", category: "iphone", buyPath: "buy-iphone" },
+  { slug: "iphone-17", name: "iPhone 17", category: "iphone", buyPath: "buy-iphone" },
+  { slug: "iphone-17e", name: "iPhone 17e", category: "iphone", buyPath: "buy-iphone" },
+  { slug: "iphone-16", name: "iPhone 16", category: "iphone", buyPath: "buy-iphone" },
+  { slug: "ipad-pro", name: "iPad Pro", category: "ipad", buyPath: "buy-ipad" },
+  { slug: "ipad-air", name: "iPad Air", category: "ipad", buyPath: "buy-ipad" },
+  { slug: "ipad", name: "iPad", category: "ipad", buyPath: "buy-ipad" },
+  { slug: "ipad-mini", name: "iPad mini", category: "ipad", buyPath: "buy-ipad" },
+  { slug: "apple-watch", name: "Apple Watch", category: "watch", buyPath: "buy-watch" },
+  { slug: "apple-watch-se", name: "Apple Watch SE", category: "watch", buyPath: "buy-watch" },
+  { slug: "apple-watch-ultra", name: "Apple Watch Ultra", category: "watch", buyPath: "buy-watch" },
+  { slug: "airpods-4", name: "AirPods 4", category: "airpods", buyPath: "buy-airpods" },
+  {
+    slug: "airpods-pro-3",
+    path: "airpods-pro-3",
+    name: "AirPods Pro 3",
+    category: "airpods",
+    buyPath: "buy-airpods",
+  },
+  {
+    slug: "airpods-max",
+    path: "airpods-max-2",
+    name: "AirPods Max",
+    category: "airpods",
+    buyPath: "buy-airpods",
+  },
 ];
 
 const COUNTRY_REGION_URL = "https://www.apple.com/choose-country-region/";
@@ -193,14 +228,23 @@ function buildBuyLocalePath(localeKey) {
   return localeKey;
 }
 
+export function resolveProductFamily(familySlug) {
+  return PRODUCT_FAMILIES.find((family) => family.slug === familySlug) ?? null;
+}
+
 export function buildFamilyUrl(storefront, familySlug) {
   const localePath = buildBuyLocalePath(storefront.localeKey);
+  const family = resolveProductFamily(familySlug);
+  if (!family) {
+    throw new Error(`Unknown product family: ${familySlug}`);
+  }
+  const relativePath = `shop/${family.buyPath}/${family.path ?? family.slug}`;
 
   if (localePath !== storefront.localeKey) {
-    return `https://www.apple.com/${localePath}/shop/buy-mac/${familySlug}`;
+    return `https://www.apple.com/${localePath}/${relativePath}`;
   }
 
-  return new URL(`shop/buy-mac/${familySlug}`, storefront.url).toString();
+  return new URL(relativePath, storefront.url).toString();
 }
 
 export function resolveStorefront(storefronts, selector) {

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:05:50.473Z",
+  "familyUrl": "https://www.apple.com/cz/shop/buy-airpods/airpods-max-2",
+  "currency": "CZK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "13990_00",
+      "priceKeys": [
+        "13990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 13990,
+      "displayedPriceText": "13 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    }
+  ]
+}

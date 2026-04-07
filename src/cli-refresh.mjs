@@ -156,7 +156,7 @@ export async function ensureDefaultCatalogSnapshots(values, storefronts) {
   }
 
   console.log(
-    `Preparing a ${DEFAULT_CATALOG_CACHE_DAYS}-day Apple price snapshot for ${selectedStorefronts.length} countries and ${DEFAULT_WARMUP_FAMILY_SLUGS.length} Mac families.`,
+    `Preparing a ${DEFAULT_CATALOG_CACHE_DAYS}-day Apple price snapshot for ${selectedStorefronts.length} countries and ${DEFAULT_WARMUP_FAMILY_SLUGS.length} product families.`,
   );
   console.log("This may take a few minutes the first time.\n");
   await warmCatalogTasks(pendingTasks, {
@@ -194,7 +194,7 @@ export async function commandUpdatePrices(values) {
   );
 
   console.log(
-    `Updating Apple price snapshots for ${selectedStorefronts.length} countries and ${familySlugs.length} Mac families.\n`,
+    `Updating Apple price snapshots for ${selectedStorefronts.length} countries and ${familySlugs.length} product families.\n`,
   );
 
   if (checkpoint) {
@@ -420,6 +420,36 @@ export async function commandUpdatePrices(values) {
   }
 }
 
+export async function commandUpdateFx(values) {
+  const startedAtMs = Date.now();
+  const statsBefore = getHttpStatsSnapshot();
+  const fxSnapshot = await loadFxRates({ refresh: true });
+
+  if (values.bundle) {
+    await writeBundledFxSnapshot(fxSnapshot);
+  }
+
+  const statsAfter = getHttpStatsSnapshot();
+  const metrics = {
+    ...diffHttpStats(statsBefore, statsAfter),
+    elapsedMs: Date.now() - startedAtMs,
+  };
+
+  console.log("FX rates refreshed.");
+  console.log(`Updated: ${fxSnapshot.time_last_update_utc ?? "unknown"}`);
+  if (fxSnapshot.base_code) {
+    console.log(`Base currency: ${fxSnapshot.base_code}`);
+  }
+  if (fxSnapshot.rates) {
+    console.log(`Currencies: ${Object.keys(fxSnapshot.rates).length}`);
+  }
+  console.log(`Request metrics: ${formatRefreshMetrics(metrics)}`);
+
+  if (values.bundle) {
+    console.log("Bundled FX snapshot updated.");
+  }
+}
+
 export async function commandBundleData(values) {
   const requestedFamily = values.family ?? "all";
   const familySlugs = resolveFamilySlugs(requestedFamily);
@@ -436,7 +466,7 @@ export async function commandBundleData(values) {
   const tasks = buildCatalogTasks(selectedStorefronts, familySlugs);
 
   console.log(
-    `Bundling saved catalog snapshots for ${selectedStorefronts.length} countries and ${familySlugs.length} Mac families.\n`,
+    `Bundling saved catalog snapshots for ${selectedStorefronts.length} countries and ${familySlugs.length} product families.\n`,
   );
 
   let completed = 0;

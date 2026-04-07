@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:04.627Z",
+  "familyUrl": "https://www.apple.com/tr/shop/buy-airpods/airpods-4",
+  "currency": "TRY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "7999_00",
+      "priceKeys": [
+        "7999_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 7999,
+      "displayedPriceText": "7.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "10999_00",
+      "priceKeys": [
+        "10999_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 10999,
+      "displayedPriceText": "10.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    }
+  ]
+}

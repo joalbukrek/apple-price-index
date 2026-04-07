@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:40:50.565Z",
+  "familyUrl": "https://www.apple.com/my/shop/buy-ipad/ipad-pro",
+  "currency": "MYR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-256gb-glossy",
+      "priceKey": "mdwk4zp_a",
+      "priceKeys": [
+        "mdwk4zp_a",
+        "mdwl4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 4499,
+      "displayedPriceText": "RM 4,499.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-512gb-glossy",
+      "priceKey": "mdwm4zp_a",
+      "priceKeys": [
+        "mdwm4zp_a",
+        "mdwn4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 5399,
+      "displayedPriceText": "RM 5,399.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-256gb-glossy",
+      "priceKey": "me2n4zp_a",
+      "priceKeys": [
+        "me2n4zp_a",
+        "me2p4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 5399,
+      "displayedPriceText": "RM 5,399.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-256gb-glossy",
+      "priceKey": "mdyj4zp_a",
+      "priceKeys": [
+        "mdyj4zp_a",
+        "mdyk4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 256GB | Glossy",
+      "displayedPrice": 5799,
+      "displayedPriceText": "RM 5,799.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-512gb-glossy",
+      "priceKey": "me2q4zp_a",
+      "priceKeys": [
+        "me2q4zp_a",
+        "me2t4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 6299,
+      "displayedPriceText": "RM 6,299.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-512gb-glossy",
+      "priceKey": "mdyl4zp_a",
+      "priceKeys": [
+        "mdyl4zp_a",
+        "mdym4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 512GB | Glossy",
+      "displayedPrice": 6699,
+      "displayedPriceText": "RM 6,699.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-256gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-256gb-glossy",
+      "priceKey": "me7w4zp_a",
+      "priceKeys": [
+        "me7w4zp_a",
+        "me7x4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 256GB | Glossy",
+      "displayedPrice": 6699,
+      "displayedPriceText": "RM 6,699.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-glossy",
+      "priceKey": "mdwp4zp_a",
+      "priceKeys": [
+        "mdwp4zp_a",
+        "mdwq4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 7199,
+      "displayedPriceText": "RM 7,199.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-1tb-matte",
+      "priceKey": "mdwr4zp_a",
+      "priceKeys": [
+        "mdwr4zp_a",
+        "mdwt4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 7599,
+      "displayedPriceText": "RM 7,599.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-512gb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-512gb-glossy",
+      "priceKey": "me7y4zp_a",
+      "priceKeys": [
+        "me7y4zp_a",
+        "me8c4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 512GB | Glossy",
+      "displayedPrice": 7599,
+      "displayedPriceText": "RM 7,599.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-glossy",
+      "priceKey": "me2u4zp_a",
+      "priceKeys": [
+        "me2u4zp_a",
+        "me2v4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 8099,
+      "displayedPriceText": "RM 8,099.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-1tb-matte",
+      "priceKey": "me2w4zp_a",
+      "priceKeys": [
+        "me2w4zp_a",
+        "me2x4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 8499,
+      "displayedPriceText": "RM 8,499.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-glossy",
+      "priceKey": "mdyn4zp_a",
+      "priceKeys": [
+        "mdyn4zp_a",
+        "mdyp4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Glossy",
+      "displayedPrice": 8499,
+      "displayedPriceText": "RM 8,499.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-1tb-matte",
+      "priceKey": "mdyq4zp_a",
+      "priceKeys": [
+        "mdyq4zp_a",
+        "mdyr4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 1TB | Matte",
+      "displayedPrice": 8899,
+      "displayedPriceText": "RM 8,899.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-glossy",
+      "priceKey": "mdwu4zp_a",
+      "priceKeys": [
+        "mdwu4zp_a",
+        "mdwv4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 8999,
+      "displayedPriceText": "RM 8,999.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wifi-2tb-matte",
+      "priceKey": "mdww4zp_a",
+      "priceKeys": [
+        "mdww4zp_a",
+        "mdwx4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 9399,
+      "displayedPriceText": "RM 9,399.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-glossy",
+      "priceKey": "me8d4zp_a",
+      "priceKeys": [
+        "me8d4zp_a",
+        "me8f4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Glossy",
+      "displayedPrice": 9399,
+      "displayedPriceText": "RM 9,399.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-1tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-1tb-matte",
+      "priceKey": "me8g4zp_a",
+      "priceKeys": [
+        "me8g4zp_a",
+        "me8h4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 1TB | Matte",
+      "displayedPrice": 9799,
+      "displayedPriceText": "RM 9,799.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-glossy",
+      "priceKey": "me2y4zp_a",
+      "priceKeys": [
+        "me2y4zp_a",
+        "me6a4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 9899,
+      "displayedPriceText": "RM 9,899.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::11inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "11inch-wificell-2tb-matte",
+      "priceKey": "me6c4zp_a",
+      "priceKeys": [
+        "me6c4zp_a",
+        "me6d4zp_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 11-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 10299,
+      "displayedPriceText": "RM 10,299.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-glossy",
+      "priceKey": "mdyt4zp_a",
+      "priceKeys": [
+        "mdyt4zp_a",
+        "mdyu4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Glossy",
+      "displayedPrice": 10299,
+      "displayedPriceText": "RM 10,299.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wifi-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wifi-2tb-matte",
+      "priceKey": "mdyv4zp_a",
+      "priceKeys": [
+        "mdyv4zp_a",
+        "mdyw4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi | 2TB | Matte",
+      "displayedPrice": 10699,
+      "displayedPriceText": "RM 10,699.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-glossy",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-glossy",
+      "priceKey": "me8j4zp_a",
+      "priceKeys": [
+        "me8j4zp_a",
+        "me8k4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:glossy",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Glossy",
+      "displayedPrice": 11199,
+      "displayedPriceText": "RM 11,199.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "ipad-pro::13inch-wificell-2tb-matte",
+      "familySlug": "ipad-pro",
+      "familyName": "iPad Pro",
+      "variantKey": "13inch-wificell-2tb-matte",
+      "priceKey": "me8m4zp_a",
+      "priceKeys": [
+        "me8m4zp_a",
+        "me8n4zp_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:2tb|dimensionFinish:matte",
+      "title": "iPad Pro | 13-Inch | Wi-Fi + Cellular | 2TB | Matte",
+      "displayedPrice": 11599,
+      "displayedPriceText": "RM 11,599.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    }
+  ]
+}

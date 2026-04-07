@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:14:26.290Z",
+  "familyUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-air",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4ql_a",
+      "priceKeys": [
+        "mg2l4ql_a",
+        "mg2m4ql_a",
+        "mg2n4ql_a",
+        "mg2p4ql_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "1 249,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/pt/",
+      "countryCode": "pt",
+      "countryName": "Portugal"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4ql_a",
+      "priceKeys": [
+        "mg2q4ql_a",
+        "mg2t4ql_a",
+        "mg2u4ql_a",
+        "mg2v4ql_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 1499,
+      "displayedPriceText": "1 499,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/pt/",
+      "countryCode": "pt",
+      "countryName": "Portugal"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4ql_a",
+      "priceKeys": [
+        "mg2w4ql_a",
+        "mg2x4ql_a",
+        "mg2y4ql_a",
+        "mg304ql_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 1749,
+      "displayedPriceText": "1 749,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/pt/",
+      "countryCode": "pt",
+      "countryName": "Portugal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:20.276Z",
+  "familyUrl": "https://www.apple.com/lu/shop/buy-airpods/airpods-max-2",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "559_86",
+      "priceKeys": [
+        "559_86"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 559.86,
+      "displayedPriceText": "559,86 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/lu/",
+      "countryCode": "lu",
+      "countryName": "Luxembourg"
+    }
+  ]
+}

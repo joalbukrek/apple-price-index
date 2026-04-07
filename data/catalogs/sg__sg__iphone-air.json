@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:48.209Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-air",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4x_a",
+      "priceKeys": [
+        "mg2l4x_a",
+        "mg2m4x_a",
+        "mg2n4x_a",
+        "mg2p4x_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 1599,
+      "displayedPriceText": "S$1,599.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4x_a",
+      "priceKeys": [
+        "mg2q4x_a",
+        "mg2t4x_a",
+        "mg2u4x_a",
+        "mg2v4x_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 1899,
+      "displayedPriceText": "S$1,899.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4x_a",
+      "priceKeys": [
+        "mg2w4x_a",
+        "mg2x4x_a",
+        "mg2y4x_a",
+        "mg304x_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 2199,
+      "displayedPriceText": "S$2,199.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}

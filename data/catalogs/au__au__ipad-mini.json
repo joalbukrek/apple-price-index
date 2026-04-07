@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:42:33.726Z",
+  "familyUrl": "https://www.apple.com/au/shop/buy-ipad/ipad-mini",
+  "currency": "AUD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-mini::wifi-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-128gb",
+      "priceKey": "mxn63x_a",
+      "priceKeys": [
+        "mxn63x_a",
+        "mxn73x_a",
+        "mxn83x_a",
+        "mxn93x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi | 128GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "A$799.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-256gb",
+      "priceKey": "mxna3x_a",
+      "priceKeys": [
+        "mxna3x_a",
+        "mxnc3x_a",
+        "mxnd3x_a",
+        "mxne3x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi | 256GB",
+      "displayedPrice": 999,
+      "displayedPriceText": "A$999.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-128gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-128gb",
+      "priceKey": "mxpn3x_a",
+      "priceKeys": [
+        "mxpn3x_a",
+        "mxpp3x_a",
+        "mxpq3x_a",
+        "mxpr3x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 1049,
+      "displayedPriceText": "A$1,049.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-256gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-256gb",
+      "priceKey": "mxpt3x_a",
+      "priceKeys": [
+        "mxpt3x_a",
+        "mxpw3x_a",
+        "mxpx3x_a",
+        "mxpy3x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 1249,
+      "displayedPriceText": "A$1,249.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "ipad-mini::wifi-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wifi-512gb",
+      "priceKey": "mygy3x_a",
+      "priceKeys": [
+        "mygy3x_a",
+        "myh13x_a",
+        "myh23x_a",
+        "myh33x_a"
+      ],
+      "signature": "dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi | 512GB",
+      "displayedPrice": 1349,
+      "displayedPriceText": "A$1,349.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    },
+    {
+      "canonicalKey": "ipad-mini::wificell-512gb",
+      "familySlug": "ipad-mini",
+      "familyName": "iPad mini",
+      "variantKey": "wificell-512gb",
+      "priceKey": "myhc3x_a",
+      "priceKeys": [
+        "myhc3x_a",
+        "myhd3x_a",
+        "myhe3x_a",
+        "myhf3x_a"
+      ],
+      "signature": "dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad mini | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 1599,
+      "displayedPriceText": "A$1,599.00",
+      "currency": "AUD",
+      "storefrontUrl": "https://www.apple.com/au/",
+      "countryCode": "au",
+      "countryName": "Australia"
+    }
+  ]
+}

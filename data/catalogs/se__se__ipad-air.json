@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:47:39.338Z",
+  "familyUrl": "https://www.apple.com/se/shop/buy-ipad/ipad-air",
+  "currency": "SEK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-128gb",
+      "priceKey": "mh304kn_a",
+      "priceKeys": [
+        "mh304kn_a",
+        "mh314kn_a",
+        "mh334kn_a",
+        "mh344kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 7795,
+      "displayedPriceText": "7 795,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-256gb",
+      "priceKey": "mh354kn_a",
+      "priceKeys": [
+        "mh354kn_a",
+        "mh364kn_a",
+        "mh374kn_a",
+        "mh394kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 9195,
+      "displayedPriceText": "9 195,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-128gb",
+      "priceKey": "mh784kn_a",
+      "priceKeys": [
+        "mh784kn_a",
+        "mh794kn_a",
+        "mh7a4kn_a",
+        "mh7c4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 9895,
+      "displayedPriceText": "9 895,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-128gb",
+      "priceKey": "mh5n4kn_a",
+      "priceKeys": [
+        "mh5n4kn_a",
+        "mh5p4kn_a",
+        "mh5q4kn_a",
+        "mh5t4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 128GB",
+      "displayedPrice": 10495,
+      "displayedPriceText": "10 495,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-256gb",
+      "priceKey": "mh7d4kn_a",
+      "priceKeys": [
+        "mh7d4kn_a",
+        "mh7e4kn_a",
+        "mh7f4kn_a",
+        "mh7g4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 11295,
+      "displayedPriceText": "11 295,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-256gb",
+      "priceKey": "mh5u4kn_a",
+      "priceKeys": [
+        "mh5u4kn_a",
+        "mh5v4kn_a",
+        "mh5w4kn_a",
+        "mh5x4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 256GB",
+      "displayedPrice": 11895,
+      "displayedPriceText": "11 895,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-512gb",
+      "priceKey": "mh3a4kn_a",
+      "priceKeys": [
+        "mh3a4kn_a",
+        "mh3c4kn_a",
+        "mh3d4kn_a",
+        "mh3e4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 11995,
+      "displayedPriceText": "11 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-128gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-128gb",
+      "priceKey": "mh9d4kn_a",
+      "priceKeys": [
+        "mh9d4kn_a",
+        "mh9e4kn_a",
+        "mh9f4kn_a",
+        "mh9g4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:128gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 128GB",
+      "displayedPrice": 12595,
+      "displayedPriceText": "12 595,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-256gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-256gb",
+      "priceKey": "mh9h4kn_a",
+      "priceKeys": [
+        "mh9h4kn_a",
+        "mh9j4kn_a",
+        "mh9k4kn_a",
+        "mh9l4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:256gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 256GB",
+      "displayedPrice": 13995,
+      "displayedPriceText": "13 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-512gb",
+      "priceKey": "mh7h4kn_a",
+      "priceKeys": [
+        "mh7h4kn_a",
+        "mh7j4kn_a",
+        "mh7k4kn_a",
+        "mh7l4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 14095,
+      "displayedPriceText": "14 095,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-512gb",
+      "priceKey": "mh5y4kn_a",
+      "priceKeys": [
+        "mh5y4kn_a",
+        "mh604kn_a",
+        "mh614kn_a",
+        "mh624kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 512GB",
+      "displayedPrice": 14695,
+      "displayedPriceText": "14 695,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wifi-1tb",
+      "priceKey": "mh3g4kn_a",
+      "priceKeys": [
+        "mh3g4kn_a",
+        "mh3h4kn_a",
+        "mh3j4kn_a",
+        "mh3k4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 14795,
+      "displayedPriceText": "14 795,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-512gb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-512gb",
+      "priceKey": "mh9m4kn_a",
+      "priceKeys": [
+        "mh9m4kn_a",
+        "mh9n4kn_a",
+        "mh9p4kn_a",
+        "mh9q4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:512gb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 512GB",
+      "displayedPrice": 16795,
+      "displayedPriceText": "16 795,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::11inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "11inch-wificell-1tb",
+      "priceKey": "mh7m4kn_a",
+      "priceKeys": [
+        "mh7m4kn_a",
+        "mh7n4kn_a",
+        "mh7p4kn_a",
+        "mh7q4kn_a"
+      ],
+      "signature": "dimensionScreensize:11inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 11-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 16895,
+      "displayedPriceText": "16 895,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wifi-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wifi-1tb",
+      "priceKey": "mh634kn_a",
+      "priceKeys": [
+        "mh634kn_a",
+        "mh644kn_a",
+        "mh654kn_a",
+        "mhdk4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wifi|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi | 1TB",
+      "displayedPrice": 17495,
+      "displayedPriceText": "17 495,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "ipad-air::13inch-wificell-1tb",
+      "familySlug": "ipad-air",
+      "familyName": "iPad Air",
+      "variantKey": "13inch-wificell-1tb",
+      "priceKey": "mh9r4kn_a",
+      "priceKeys": [
+        "mh9r4kn_a",
+        "mh9t4kn_a",
+        "mh9u4kn_a",
+        "mh9v4kn_a"
+      ],
+      "signature": "dimensionScreensize:13inch|dimensionConnection:wificell|dimensionCapacity:1tb",
+      "title": "iPad Air | 13-Inch | Wi-Fi + Cellular | 1TB",
+      "displayedPrice": 19595,
+      "displayedPriceText": "19 595,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    }
+  ]
+}

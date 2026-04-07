@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:13:18.481Z",
+  "familyUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-17",
+  "currency": "MXN",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg674e_a",
+      "priceKeys": [
+        "mg674e_a",
+        "mg684e_a",
+        "mg694e_a",
+        "mg6a4e_a",
+        "mg6c4e_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 19999,
+      "displayedPriceText": "$19,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6d4e_a",
+      "priceKeys": [
+        "mg6d4e_a",
+        "mg6e4e_a",
+        "mg6f4e_a",
+        "mg6g4e_a",
+        "mg6h4e_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 24999,
+      "displayedPriceText": "$24,999.00",
+      "currency": "MXN",
+      "storefrontUrl": "https://www.apple.com/mx/",
+      "countryCode": "mx",
+      "countryName": "México"
+    }
+  ]
+}

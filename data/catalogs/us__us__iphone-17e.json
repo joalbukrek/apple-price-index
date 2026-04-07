@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:08:47.482Z",
+  "familyUrl": "https://www.apple.com/us/shop/buy-iphone/iphone-17e",
+  "currency": "USD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrn4ll_a_unlocked_us",
+      "priceKeys": [
+        "mhrn4ll_a_att_iphone17e",
+        "mhrn4ll_a_boost_iphone17e",
+        "mhrn4ll_a_tmobile_iphone17e",
+        "mhrn4ll_a_unlocked_us",
+        "mhrn4ll_a_verizon_iphone17e",
+        "mhrp4ll_a_att_iphone17e",
+        "mhrp4ll_a_boost_iphone17e",
+        "mhrp4ll_a_tmobile_iphone17e",
+        "mhrp4ll_a_unlocked_us",
+        "mhrp4ll_a_verizon_iphone17e",
+        "mhrq4ll_a_att_iphone17e",
+        "mhrq4ll_a_boost_iphone17e",
+        "mhrq4ll_a_tmobile_iphone17e",
+        "mhrq4ll_a_unlocked_us",
+        "mhrq4ll_a_verizon_iphone17e"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 599,
+      "displayedPriceText": "$599.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhrr4ll_a_unlocked_us",
+      "priceKeys": [
+        "mhrr4ll_a_att_iphone17e",
+        "mhrr4ll_a_boost_iphone17e",
+        "mhrr4ll_a_tmobile_iphone17e",
+        "mhrr4ll_a_unlocked_us",
+        "mhrr4ll_a_verizon_iphone17e",
+        "mhrt4ll_a_att_iphone17e",
+        "mhrt4ll_a_boost_iphone17e",
+        "mhrt4ll_a_tmobile_iphone17e",
+        "mhrt4ll_a_unlocked_us",
+        "mhrt4ll_a_verizon_iphone17e",
+        "mhru4ll_a_att_iphone17e",
+        "mhru4ll_a_boost_iphone17e",
+        "mhru4ll_a_tmobile_iphone17e",
+        "mhru4ll_a_unlocked_us",
+        "mhru4ll_a_verizon_iphone17e"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "$799.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    }
+  ]
+}

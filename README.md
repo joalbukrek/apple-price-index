@@ -1,13 +1,14 @@
 # Apple Price Index
 
-CLI prototype for comparing Apple Mac prices against Turkey.
+CLI prototype for comparing Apple product prices against Turkey.
 
 The default mode is interactive:
 
 1. Open the CLI
-2. Choose a Mac family
-3. Pick the product
-4. Get the price comparison
+2. Choose a category
+3. Choose a product family
+4. Pick the product
+5. Get the price comparison
 
 ## Quick start
 
@@ -34,12 +35,12 @@ apple-price-index
 
 The interactive CLI lets you:
 
-- choose the Mac family
+- choose a category first, then a product family
 - filter products by typing text like `m5 pro`
 - select the exact product from a numbered list
 - page through large product sets with `/next`, show all matches with `/all`, and move back a level with `/prev`
 - stay inside the CLI after a comparison and leave only with `/exit`
-- compare against your curated 38-country basket
+- compare Mac, iPhone, iPad, Watch, and AirPods variants against your curated 38-country basket
 - see only the 20 cheapest rows by `average_try` when a result set is large
 - see full RAM and storage CTO variants, not just Apple’s surfaced presets
 - instantly compare against the default country set you selected
@@ -61,6 +62,18 @@ List products from Turkey:
 node cli.mjs list-products --family macbook-pro --country tr
 ```
 
+List iPhone storage variants from Turkey:
+
+```bash
+node cli.mjs list-products --family iphone-air --country tr
+```
+
+List iPad variants from Turkey:
+
+```bash
+node cli.mjs list-products --family ipad-air --country tr
+```
+
 Compare one product directly:
 
 ```bash
@@ -79,8 +92,15 @@ node cli.mjs cheapest --family macbook-pro --countries all --limit 20
 Refresh the monthly catalog snapshot on demand:
 
 ```bash
+npm test
+node cli.mjs self-test
+node cli.mjs update-fx --bundle
 node cli.mjs update-prices
 node cli.mjs update-prices --family macbook-pro --countries tr,ch,fr
+node cli.mjs update-prices --family iphone --countries all --bundle
+node cli.mjs update-prices --family ipad --countries all --bundle
+node cli.mjs update-prices --family watch --countries all --bundle
+node cli.mjs update-prices --family airpods --countries all --bundle
 node cli.mjs update-prices --family all --countries all
 node cli.mjs update-prices --family all --countries all --bundle
 ```
@@ -95,9 +115,12 @@ node cli.mjs bundle-data --family all --countries all
 If a long refresh stops in the middle, rerun the exact same `update-prices` command and it will resume from the last completed country/family pair instead of starting over.
 Each refresh line also shows the Apple request count and elapsed time for that country/family task.
 
+`self-test` is a read-only smoke test. It checks the bundled country/family matrix, then runs representative `list-products`, `compare`, and `cheapest` flows automatically so you do not have to click through every selection manually.
+
 ## Tax rules
 
 The CLI loads Glocalzone VAT refund rules for Switzerland, France, Spain, and Germany.
+Local overrides also cover Taiwan, Hong Kong, South Korea, Malaysia, Philippines, Japan, the United Arab Emirates, Vietnam, Thailand, Singapore, New Zealand, China, Luxembourg, and India.
 
 Local overrides still live in `data/tax-rules.json`.
 
@@ -108,7 +131,10 @@ Local overrides still live in `data/tax-rules.json`.
 - `refundType`
 
 Mac comparisons use the Glocalzone tiered refund percentages when available, with a built-in fallback snapshot if Glocalzone is unreachable.
-Turkey is overridden to show `tax_free_try` equal to the local list price with `no refund`.
+The same tax logic applies to iPhone, iPad, Watch, and AirPods comparisons.
+Turkey is overridden to show a `tax_free` refund amount of `0` with `no refund`.
+Hong Kong is modeled as `no VAT`, so its `tax_free` refund amount is `0`.
+The `tax_free_local` and `tax_free_try` columns show the refund amount itself. Ranking columns still use the final post-refund net price behind the scenes.
 
 ## Notes
 
@@ -120,12 +146,14 @@ Turkey is overridden to show `tax_free_try` equal to the local list price with `
 - `update-prices` forces a fresh rebuild of the saved catalog snapshots.
 - `update-prices --bundle` refreshes Apple data and also rewrites the committed bundled dataset in `data/`.
 - `bundle-data` copies your existing local cache into the committed bundled dataset without scraping Apple again.
-- Refresh progress is checkpointed per country and Mac family, so interrupted runs can resume later.
+- Refresh progress is checkpointed per country and product family, so interrupted runs can resume later.
 - If Apple starts returning blocking responses such as `403` or `429`, the refresh stops immediately and keeps the completed checkpoints.
 - Transient network failures use bounded retry/backoff, but Apple blocking responses still stop the job immediately.
 - The default comparison basket is limited to your selected 38 supported countries.
 - Large result sets are ranked by `average_try`, which averages displayed TRY and tax-free TRY when tax-free pricing exists.
 - FX conversion uses the bundled FX snapshot by default and can be refreshed manually.
+- `update-fx --bundle` refreshes only the FX snapshot without touching product catalogs.
 - Tax rules use the bundled snapshot plus your local overrides by default and can be refreshed manually.
 - Results are cached under `~/.cache/apple-price-index/`.
+- Group aliases available for `update-prices`, `bundle-data`, and `cheapest`: `mac`, `iphone`, `ipad`, `watch`, `airpods`.
 - This follows the same CLI-first direction emphasized by [CLI-Anything](https://github.com/HKUDS/CLI-Anything): simple entrypoint, self-describing commands, and an agent-friendly terminal workflow.

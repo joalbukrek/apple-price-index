@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:07:05.085Z",
+  "familyUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-17",
+  "currency": "INR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4hn_a",
+      "priceKeys": [
+        "mg6j4hn_a",
+        "mg6k4hn_a",
+        "mg6l4hn_a",
+        "mg6m4hn_a",
+        "mg6n4hn_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 82900,
+      "displayedPriceText": "₹82900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4hn_a",
+      "priceKeys": [
+        "mg6p4hn_a",
+        "mg6q4hn_a",
+        "mg6t4hn_a",
+        "mg6u4hn_a",
+        "mg6v4hn_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 102900,
+      "displayedPriceText": "₹102900.00",
+      "currency": "INR",
+      "storefrontUrl": "https://www.apple.com/in/",
+      "countryCode": "in",
+      "countryName": "India"
+    }
+  ]
+}

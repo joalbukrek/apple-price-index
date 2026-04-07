@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:48:53.496Z",
+  "familyUrl": "https://www.apple.com/th/shop/buy-watch/apple-watch-ultra",
+  "currency": "THB",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch-ultra::49mm",
+      "familySlug": "apple-watch-ultra",
+      "familyName": "Apple Watch Ultra",
+      "variantKey": "49mm",
+      "priceKey": "watch_cases-49mm",
+      "priceKeys": [
+        "watch_cases-49mm"
+      ],
+      "signature": "watch_cases-dimensionCaseSize:49mm",
+      "title": "Apple Watch Ultra | 49mm",
+      "displayedPrice": 29900,
+      "displayedPriceText": "฿29,900.00",
+      "currency": "THB",
+      "storefrontUrl": "https://www.apple.com/th/",
+      "countryCode": "th",
+      "countryName": "ไทย"
+    }
+  ]
+}

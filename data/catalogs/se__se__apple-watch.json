@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T05:54:34.460Z",
+  "familyUrl": "https://www.apple.com/se/shop/buy-watch/apple-watch",
+  "currency": "SEK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gps",
+      "priceKey": "watch_cases-aluminum-42mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 42mm | GPS",
+      "displayedPrice": 4995,
+      "displayedPriceText": "4 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gps",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gps",
+      "priceKey": "watch_cases-aluminum-46mm-gps",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gps"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gps",
+      "title": "Apple Watch | Aluminum | 46mm | GPS",
+      "displayedPrice": 5395,
+      "displayedPriceText": "5 395,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-42mm-gpscell",
+      "priceKey": "watch_cases-aluminum-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 42mm | GPS + Cellular",
+      "displayedPrice": 6195,
+      "displayedPriceText": "6 195,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "apple-watch::aluminum-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "aluminum-46mm-gpscell",
+      "priceKey": "watch_cases-aluminum-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-aluminum-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:aluminum|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Aluminum | 46mm | GPS + Cellular",
+      "displayedPrice": 6595,
+      "displayedPriceText": "6 595,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-42mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-42mm-gpscell",
+      "priceKey": "watch_cases-titanium-42mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-42mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:42mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 42mm | GPS + Cellular",
+      "displayedPrice": 8995,
+      "displayedPriceText": "8 995,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    },
+    {
+      "canonicalKey": "apple-watch::titanium-46mm-gpscell",
+      "familySlug": "apple-watch",
+      "familyName": "Apple Watch",
+      "variantKey": "titanium-46mm-gpscell",
+      "priceKey": "watch_cases-titanium-46mm-gpscell",
+      "priceKeys": [
+        "watch_cases-titanium-46mm-gpscell"
+      ],
+      "signature": "watch_cases-dimensionCaseMaterial:titanium|watch_cases-dimensionCaseSize:46mm|watch_cases-dimensionConnection:gpscell",
+      "title": "Apple Watch | Titanium | 46mm | GPS + Cellular",
+      "displayedPrice": 9595,
+      "displayedPriceText": "9 595,00 kr",
+      "currency": "SEK",
+      "storefrontUrl": "https://www.apple.com/se/",
+      "countryCode": "se",
+      "countryName": "Sverige"
+    }
+  ]
+}

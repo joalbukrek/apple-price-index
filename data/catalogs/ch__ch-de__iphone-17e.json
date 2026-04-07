@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:10:30.068Z",
+  "familyUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17e",
+  "currency": "CHF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrv4ql_a",
+      "priceKeys": [
+        "mhrv4ql_a",
+        "mhrw4ql_a",
+        "mhrx4ql_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 599,
+      "displayedPriceText": "CHF 599.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhry4ql_a",
+      "priceKeys": [
+        "mhry4ql_a",
+        "mhu04ql_a",
+        "mhu34ql_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 799,
+      "displayedPriceText": "CHF 799.00",
+      "currency": "CHF",
+      "storefrontUrl": "https://www.apple.com/ch-de/",
+      "countryCode": "ch",
+      "countryName": "Schweiz"
+    }
+  ]
+}

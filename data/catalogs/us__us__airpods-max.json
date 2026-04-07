@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:01.942Z",
+  "familyUrl": "https://www.apple.com/us/shop/buy-airpods/airpods-max-2",
+  "currency": "USD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "549_00_fp",
+      "priceKeys": [
+        "549_00_fp"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 549,
+      "displayedPriceText": "$549.00",
+      "currency": "USD",
+      "storefrontUrl": "https://www.apple.com/us/",
+      "countryCode": "us",
+      "countryName": "United States"
+    }
+  ]
+}

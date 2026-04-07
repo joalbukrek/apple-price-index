@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:13:28.543Z",
+  "familyUrl": "https://www.apple.com/cz/shop/buy-iphone/iphone-17-pro",
+  "currency": "CZK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-256gb",
+      "priceKey": "mg8g4sx_a",
+      "priceKeys": [
+        "mg8g4sx_a",
+        "mg8h4sx_a",
+        "mg8j4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 256GB",
+      "displayedPrice": 32990,
+      "displayedPriceText": "32 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-256gb",
+      "priceKey": "mfym4sx_a",
+      "priceKeys": [
+        "mfym4sx_a",
+        "mfyn4sx_a",
+        "mfyp4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 256GB",
+      "displayedPrice": 34990,
+      "displayedPriceText": "34 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-512gb",
+      "priceKey": "mg8k4sx_a",
+      "priceKeys": [
+        "mg8k4sx_a",
+        "mg8m4sx_a",
+        "mg8n4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 512GB",
+      "displayedPrice": 38990,
+      "displayedPriceText": "38 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-512gb",
+      "priceKey": "mfyq4sx_a",
+      "priceKeys": [
+        "mfyq4sx_a",
+        "mfyt4sx_a",
+        "mfyu4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 512GB",
+      "displayedPrice": 40990,
+      "displayedPriceText": "40 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-1tb",
+      "priceKey": "mg8p4sx_a",
+      "priceKeys": [
+        "mg8p4sx_a",
+        "mg8q4sx_a",
+        "mg8r4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 1TB",
+      "displayedPrice": 44990,
+      "displayedPriceText": "44 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-1tb",
+      "priceKey": "mfyv4sx_a",
+      "priceKeys": [
+        "mfyv4sx_a",
+        "mfyw4sx_a",
+        "mfyx4sx_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 1TB",
+      "displayedPrice": 46990,
+      "displayedPriceText": "46 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-2tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-2tb",
+      "priceKey": "mfyy4sx_a",
+      "priceKeys": [
+        "mfyy4sx_a",
+        "mg004sx_a",
+        "mg014sx_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:2tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 2TB",
+      "displayedPrice": 58990,
+      "displayedPriceText": "58 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    }
+  ]
+}

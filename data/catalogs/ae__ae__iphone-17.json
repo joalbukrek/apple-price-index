@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:07:51.353Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg674ah_a",
+      "priceKeys": [
+        "mg674ah_a",
+        "mg684ah_a",
+        "mg694ah_a",
+        "mg6a4ah_a",
+        "mg6c4ah_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 3399,
+      "displayedPriceText": "AED 3,399.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6d4ah_a",
+      "priceKeys": [
+        "mg6d4ah_a",
+        "mg6e4ah_a",
+        "mg6f4ah_a",
+        "mg6g4ah_a",
+        "mg6h4ah_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 4249,
+      "displayedPriceText": "AED 4,249.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

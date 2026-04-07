@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:50.781Z",
+  "familyUrl": "https://www.apple.com/ca/shop/buy-airpods/airpods-pro-3",
+  "currency": "CAD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "329_00",
+      "priceKeys": [
+        "329_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 329,
+      "displayedPriceText": "$329.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    }
+  ]
+}

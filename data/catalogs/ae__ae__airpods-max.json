@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:38.340Z",
+  "familyUrl": "https://www.apple.com/ae/shop/buy-airpods/airpods-max-2",
+  "currency": "AED",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "2099_00",
+      "priceKeys": [
+        "2099_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 2099,
+      "displayedPriceText": "AED 2,099.00",
+      "currency": "AED",
+      "storefrontUrl": "https://www.apple.com/ae/",
+      "countryCode": "ae",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

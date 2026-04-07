@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:02:40.972Z",
+  "familyUrl": "https://www.apple.com/my/shop/buy-airpods/airpods-4",
+  "currency": "MYR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "599_00",
+      "priceKeys": [
+        "599_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 599,
+      "displayedPriceText": "RM 599.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "829_00",
+      "priceKeys": [
+        "829_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 829,
+      "displayedPriceText": "RM 829.00",
+      "currency": "MYR",
+      "storefrontUrl": "https://www.apple.com/my/",
+      "countryCode": "my",
+      "countryName": "Malaysia"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:05:52.999Z",
+  "familyUrl": "https://www.apple.com/ie/shop/buy-airpods/airpods-4",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-4::withoutactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withoutactivenoisecancellation",
+      "priceKey": "149_00",
+      "priceKeys": [
+        "149_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withoutactivenoisecancellation",
+      "title": "AirPods 4 | Without Active Noise Cancellation",
+      "displayedPrice": 149,
+      "displayedPriceText": "€149.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    },
+    {
+      "canonicalKey": "airpods-4::withactivenoisecancellation",
+      "familySlug": "airpods-4",
+      "familyName": "AirPods 4",
+      "variantKey": "withactivenoisecancellation",
+      "priceKey": "199_00",
+      "priceKeys": [
+        "199_00"
+      ],
+      "signature": "dimensionActiveNoiseCancellation:withactivenoisecancellation",
+      "title": "AirPods 4 | With Active Noise Cancellation",
+      "displayedPrice": 199,
+      "displayedPriceText": "€199.00",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/ie/",
+      "countryCode": "ie",
+      "countryName": "Ireland"
+    }
+  ]
+}

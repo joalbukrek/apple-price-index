@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:11:31.974Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-iphone/iphone-17",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4be_a",
+      "priceKeys": [
+        "mg6j4be_a",
+        "mg6k4be_a",
+        "mg6l4be_a",
+        "mg6m4be_a",
+        "mg6n4be_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 999990,
+      "displayedPriceText": "$999.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4be_a",
+      "priceKeys": [
+        "mg6p4be_a",
+        "mg6q4be_a",
+        "mg6t4be_a",
+        "mg6u4be_a",
+        "mg6v4be_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 1259990,
+      "displayedPriceText": "$1.259.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

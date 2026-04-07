@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:48.949Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-airpods/airpods-max-2",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "239990_00",
+      "priceKeys": [
+        "239990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 239990,
+      "displayedPriceText": "239 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

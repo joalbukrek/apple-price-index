@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:07:31.911Z",
+  "familyUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro",
+  "currency": "TWD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-256gb",
+      "priceKey": "mg8g4zp_a",
+      "priceKeys": [
+        "mg8g4zp_a",
+        "mg8h4zp_a",
+        "mg8j4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 256GB",
+      "displayedPrice": 39900,
+      "displayedPriceText": "NT$39,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-256gb",
+      "priceKey": "mfym4zp_a",
+      "priceKeys": [
+        "mfym4zp_a",
+        "mfyn4zp_a",
+        "mfyp4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 256GB",
+      "displayedPrice": 44900,
+      "displayedPriceText": "NT$44,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-512gb",
+      "priceKey": "mg8k4zp_a",
+      "priceKeys": [
+        "mg8k4zp_a",
+        "mg8m4zp_a",
+        "mg8n4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 512GB",
+      "displayedPrice": 46900,
+      "displayedPriceText": "NT$46,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-512gb",
+      "priceKey": "mfyq4zp_a",
+      "priceKeys": [
+        "mfyq4zp_a",
+        "mfyt4zp_a",
+        "mfyu4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 512GB",
+      "displayedPrice": 51900,
+      "displayedPriceText": "NT$51,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-1tb",
+      "priceKey": "mg8p4zp_a",
+      "priceKeys": [
+        "mg8p4zp_a",
+        "mg8q4zp_a",
+        "mg8r4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 1TB",
+      "displayedPrice": 53900,
+      "displayedPriceText": "NT$53,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-1tb",
+      "priceKey": "mfyv4zp_a",
+      "priceKeys": [
+        "mfyv4zp_a",
+        "mfyw4zp_a",
+        "mfyx4zp_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 1TB",
+      "displayedPrice": 58900,
+      "displayedPriceText": "NT$58,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-2tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-2tb",
+      "priceKey": "mfyy4zp_a",
+      "priceKeys": [
+        "mfyy4zp_a",
+        "mg004zp_a",
+        "mg014zp_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:2tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 2TB",
+      "displayedPrice": 72900,
+      "displayedPriceText": "NT$72,900",
+      "currency": "TWD",
+      "storefrontUrl": "https://www.apple.com/tw/",
+      "countryCode": "tw",
+      "countryName": "台灣"
+    }
+  ]
+}

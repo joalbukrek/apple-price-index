@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:09.980Z",
+  "familyUrl": "https://www.apple.com/tr/shop/buy-airpods/airpods-max-2",
+  "currency": "TRY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "36999_00",
+      "priceKeys": [
+        "36999_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 36999,
+      "displayedPriceText": "36.999,00 TL",
+      "currency": "TRY",
+      "storefrontUrl": "https://www.apple.com/tr/",
+      "countryCode": "tr",
+      "countryName": "Türkiye"
+    }
+  ]
+}

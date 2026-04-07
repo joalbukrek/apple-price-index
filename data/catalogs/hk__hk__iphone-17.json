@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:05:55.826Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4za_a",
+      "priceKeys": [
+        "mg6j4za_a",
+        "mg6k4za_a",
+        "mg6l4za_a",
+        "mg6m4za_a",
+        "mg6n4za_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 6899,
+      "displayedPriceText": "HK$6,899",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4za_a",
+      "priceKeys": [
+        "mg6p4za_a",
+        "mg6q4za_a",
+        "mg6t4za_a",
+        "mg6u4za_a",
+        "mg6v4za_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 8599,
+      "displayedPriceText": "HK$8,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

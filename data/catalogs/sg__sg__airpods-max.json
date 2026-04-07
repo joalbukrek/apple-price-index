@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:03:42.962Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-airpods/airpods-max-2",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "749_00",
+      "priceKeys": [
+        "749_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 749,
+      "displayedPriceText": "S$749.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}

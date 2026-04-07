@@ -15,7 +15,8 @@ import { buildVariants } from "./apple-cto.mjs";
 import {
   buildFamilyUrl,
   discoverStorefronts,
-  MAC_FAMILIES,
+  PRODUCT_CATEGORIES,
+  PRODUCT_FAMILIES,
   resolveStorefront,
 } from "./apple-storefronts.mjs";
 
@@ -89,9 +90,9 @@ export async function loadFamilyCatalog(
   familySlug,
   { refresh = false, snapshotDays = DEFAULT_CATALOG_CACHE_DAYS } = {},
 ) {
-  const family = MAC_FAMILIES.find((candidate) => candidate.slug === familySlug);
+  const family = PRODUCT_FAMILIES.find((candidate) => candidate.slug === familySlug);
   if (!family) {
-    throw new Error(`Unknown Mac family: ${familySlug}`);
+    throw new Error(`Unknown product family: ${familySlug}`);
   }
 
   const familyUrl = buildFamilyUrl(storefront, familySlug);
@@ -100,7 +101,7 @@ export async function loadFamilyCatalog(
       maxAgeDays: snapshotDays,
     });
 
-    if (cachedCatalog) {
+    if (cachedCatalog && (cachedCatalog.unsupported || cachedCatalog.variants.length > 0)) {
       const resolvedCurrency = resolveCatalogCurrency(storefront, cachedCatalog.currency);
       return {
         storefront,
@@ -154,4 +155,4 @@ export async function loadFamilyCatalog(
   };
 }
 
-export { discoverStorefronts, filterVariants, MAC_FAMILIES, resolveStorefront };
+export { discoverStorefronts, filterVariants, PRODUCT_CATEGORIES, PRODUCT_FAMILIES, resolveStorefront };

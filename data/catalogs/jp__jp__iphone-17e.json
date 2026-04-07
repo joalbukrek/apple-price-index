@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:06:15.186Z",
+  "familyUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17e",
+  "currency": "JPY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17e::256gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "256gb",
+      "priceKey": "mhrn4j_a_unlocked_jp",
+      "priceKeys": [
+        "mhrn4j_a_docomo_iphone17e",
+        "mhrn4j_a_softbankiphone17e",
+        "mhrn4j_a_unlocked_jp",
+        "mhrp4j_a_docomo_iphone17e",
+        "mhrp4j_a_softbankiphone17e",
+        "mhrp4j_a_unlocked_jp",
+        "mhrq4j_a_docomo_iphone17e",
+        "mhrq4j_a_softbankiphone17e",
+        "mhrq4j_a_unlocked_jp"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17e | 256GB",
+      "displayedPrice": 99800,
+      "displayedPriceText": "<span>99,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    },
+    {
+      "canonicalKey": "iphone-17e::512gb",
+      "familySlug": "iphone-17e",
+      "familyName": "iPhone 17e",
+      "variantKey": "512gb",
+      "priceKey": "mhrr4j_a_unlocked_jp",
+      "priceKeys": [
+        "mhrr4j_a_docomo_iphone17e",
+        "mhrr4j_a_softbankiphone17e",
+        "mhrr4j_a_unlocked_jp",
+        "mhrt4j_a_docomo_iphone17e",
+        "mhrt4j_a_softbankiphone17e",
+        "mhrt4j_a_unlocked_jp",
+        "mhru4j_a_docomo_iphone17e",
+        "mhru4j_a_softbankiphone17e",
+        "mhru4j_a_unlocked_jp"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17e | 512GB",
+      "displayedPrice": 134800,
+      "displayedPriceText": "<span>134,800円</span>",
+      "currency": "JPY",
+      "storefrontUrl": "https://www.apple.com/jp/",
+      "countryCode": "jp",
+      "countryName": "日本"
+    }
+  ]
+}

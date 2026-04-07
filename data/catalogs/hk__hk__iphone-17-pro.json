@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:05:47.749Z",
+  "familyUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17-pro",
+  "currency": "HKD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-256gb",
+      "priceKey": "mg8g4za_a",
+      "priceKeys": [
+        "mg8g4za_a",
+        "mg8h4za_a",
+        "mg8j4za_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 256GB",
+      "displayedPrice": 9399,
+      "displayedPriceText": "HK$9,399",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-256gb",
+      "priceKey": "mfym4za_a",
+      "priceKeys": [
+        "mfym4za_a",
+        "mfyn4za_a",
+        "mfyp4za_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 256GB",
+      "displayedPrice": 10199,
+      "displayedPriceText": "HK$10,199",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-512gb",
+      "priceKey": "mg8k4za_a",
+      "priceKeys": [
+        "mg8k4za_a",
+        "mg8m4za_a",
+        "mg8n4za_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 512GB",
+      "displayedPrice": 11099,
+      "displayedPriceText": "HK$11,099",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-512gb",
+      "priceKey": "mfyq4za_a",
+      "priceKeys": [
+        "mfyq4za_a",
+        "mfyt4za_a",
+        "mfyu4za_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 512GB",
+      "displayedPrice": 11899,
+      "displayedPriceText": "HK$11,899",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-1tb",
+      "priceKey": "mg8p4za_a",
+      "priceKeys": [
+        "mg8p4za_a",
+        "mg8q4za_a",
+        "mg8r4za_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 1TB",
+      "displayedPrice": 12799,
+      "displayedPriceText": "HK$12,799",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-1tb",
+      "priceKey": "mfyv4za_a",
+      "priceKeys": [
+        "mfyv4za_a",
+        "mfyw4za_a",
+        "mfyx4za_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 1TB",
+      "displayedPrice": 13599,
+      "displayedPriceText": "HK$13,599",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-2tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-2tb",
+      "priceKey": "mfyy4za_a",
+      "priceKeys": [
+        "mfyy4za_a",
+        "mg004za_a",
+        "mg014za_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:2tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 2TB",
+      "displayedPrice": 16999,
+      "displayedPriceText": "HK$16,999",
+      "currency": "HKD",
+      "storefrontUrl": "https://www.apple.com/hk/",
+      "countryCode": "hk",
+      "countryName": "香港"
+    }
+  ]
+}

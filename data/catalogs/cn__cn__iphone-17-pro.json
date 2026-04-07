@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:27.320Z",
+  "familyUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17-pro",
+  "currency": "CNY",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-256gb",
+      "priceKey": "mg8t4ch_a",
+      "priceKeys": [
+        "mg8t4ch_a",
+        "mg8u4ch_a",
+        "mg8v4ch_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 256GB",
+      "displayedPrice": 8999,
+      "displayedPriceText": "RMB 8,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-256gb",
+      "priceKey": "mg034ch_a",
+      "priceKeys": [
+        "mg034ch_a",
+        "mg044ch_a",
+        "mg054ch_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 256GB",
+      "displayedPrice": 9999,
+      "displayedPriceText": "RMB 9,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-512gb",
+      "priceKey": "mg8w4ch_a",
+      "priceKeys": [
+        "mg8w4ch_a",
+        "mg8x4ch_a",
+        "mg8y4ch_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 512GB",
+      "displayedPrice": 10999,
+      "displayedPriceText": "RMB 10,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-512gb",
+      "priceKey": "mg064ch_a",
+      "priceKeys": [
+        "mg064ch_a",
+        "mg074ch_a",
+        "mg084ch_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 512GB",
+      "displayedPrice": 11999,
+      "displayedPriceText": "RMB 11,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-1tb",
+      "priceKey": "mg904ch_a",
+      "priceKeys": [
+        "mg904ch_a",
+        "mg914ch_a",
+        "mg924ch_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 1TB",
+      "displayedPrice": 12999,
+      "displayedPriceText": "RMB 12,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-1tb",
+      "priceKey": "mg094ch_a",
+      "priceKeys": [
+        "mg094ch_a",
+        "mg0a4ch_a",
+        "mg0e4ch_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 1TB",
+      "displayedPrice": 13999,
+      "displayedPriceText": "RMB 13,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-2tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-2tb",
+      "priceKey": "mg0f4ch_a",
+      "priceKeys": [
+        "mg0f4ch_a",
+        "mg0g4ch_a",
+        "mg0q4ch_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:2tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 2TB",
+      "displayedPrice": 17999,
+      "displayedPriceText": "RMB 17,999",
+      "currency": "CNY",
+      "storefrontUrl": "https://www.apple.com.cn/",
+      "countryCode": "cn",
+      "countryName": "中国大陆"
+    }
+  ]
+}

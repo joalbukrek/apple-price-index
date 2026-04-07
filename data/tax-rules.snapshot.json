@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "savedAt": "2026-04-06T19:38:57.016Z",
+  "savedAt": "2026-04-07T19:07:19.653Z",
   "rules": {
     "ch": {
       "name": "Switzerland",
@@ -105,6 +105,38 @@
       "defaultSalesTaxLabel": "Toronto HST 13%",
       "notes": "Apple Canada prices are shown before sales tax. This prototype adds Toronto HST by default."
     },
+    "tw": {
+      "name": "Taiwan",
+      "taxFreeEnabled": true,
+      "effectiveRefundRate": 0.038095,
+      "notes": "Taiwan tourist refunds return the 5% business tax less a 20% administrative fee on the refund amount, for an effective refund of about 3.81% of a tax-included shelf price."
+    },
+    "hk": {
+      "name": "Hong Kong",
+      "taxFreeEnabled": false,
+      "showDisplayedAsTaxFree": true,
+      "noRefundLabel": "no VAT",
+      "notes": "Hong Kong has no sales tax or VAT, so the listed Apple price is already the final retail price for this comparison."
+    },
+    "kr": {
+      "name": "South Korea",
+      "displayPriceIncludesTax": true,
+      "taxFreeEnabled": true,
+      "vatRate": 0.1,
+      "notes": "South Korea supports tourist VAT refunds. This prototype models the pre-fee 10% VAT removal; actual cash refunds can be slightly lower after operator fees."
+    },
+    "my": {
+      "name": "Malaysia",
+      "taxFreeEnabled": false,
+      "notes": "A reliable current tourist refund rate could not be verified under Malaysia's current SST regime."
+    },
+    "ph": {
+      "name": "Philippines",
+      "displayPriceIncludesTax": true,
+      "taxFreeEnabled": true,
+      "vatRate": 0.12,
+      "notes": "The Philippines tourist VAT refund is modeled using the statutory 12% VAT rate."
+    },
     "uk": {
       "name": "United Kingdom",
       "taxFreeEnabled": false,
@@ -112,13 +144,57 @@
     },
     "jp": {
       "name": "Japan",
-      "taxFreeEnabled": false,
-      "notes": "Japan tourist tax-free rules are not configured in this prototype."
+      "displayPriceIncludesTax": true,
+      "taxFreeEnabled": true,
+      "vatRate": 0.1,
+      "notes": "Japan tax-free shopping is modeled using the current 10% consumption tax rate."
     },
-    "kr": {
-      "name": "South Korea",
+    "ae": {
+      "name": "United Arab Emirates",
+      "taxFreeEnabled": true,
+      "effectiveRefundRate": 0.041429,
+      "notes": "The UAE tourist refund is modeled as 87% of the 5% VAT component, which is about 4.143% of a tax-included shelf price. The fixed AED 4.80 transaction fee is not deducted here."
+    },
+    "vn": {
+      "name": "Vietnam",
+      "taxFreeEnabled": true,
+      "effectiveRefundRate": 0.077273,
+      "notes": "Vietnam refunds 85% of the standard 10% VAT amount, which is about 7.727% of a tax-included shelf price."
+    },
+    "th": {
+      "name": "Thailand",
+      "displayPriceIncludesTax": true,
+      "taxFreeEnabled": true,
+      "vatRate": 0.07,
+      "notes": "Thailand tourist VAT refunds are modeled using the statutory 7% VAT rate. Actual net refunds can be slightly lower after processing fees."
+    },
+    "sg": {
+      "name": "Singapore",
+      "displayPriceIncludesTax": true,
+      "taxFreeEnabled": true,
+      "vatRate": 0.09,
+      "notes": "Singapore tourist refunds are modeled using the statutory 9% GST rate. Actual net refunds can be lower after retailer or refund-agent handling fees."
+    },
+    "nz": {
+      "name": "New Zealand",
       "taxFreeEnabled": false,
-      "notes": "South Korea tourist tax-free rules are not configured in this prototype."
+      "notes": "New Zealand does not currently provide a general tourist GST refund scheme for normal in-country Apple Store purchases."
+    },
+    "cn": {
+      "name": "China",
+      "taxFreeEnabled": true,
+      "effectiveRefundRate": 0.09,
+      "notes": "China tourist refunds are modeled at 9% of shelf price, assuming Apple products follow the 13% VAT / 11% refund track and a 2% refund-agency commission applies."
+    },
+    "lu": {
+      "name": "Luxembourg",
+      "taxFreeEnabled": false,
+      "notes": "Luxembourg tourist VAT refunds need manual review before enabling in this prototype."
+    },
+    "in": {
+      "name": "India",
+      "taxFreeEnabled": false,
+      "notes": "India's international tourist refund rules are limited to specific airport departure retail contexts and are not usable for normal Apple Store purchases in this prototype."
     }
   }
 }

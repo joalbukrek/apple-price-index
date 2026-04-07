@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:08:24.414Z",
+  "familyUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
+  "currency": "CAD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg184vc_a",
+      "priceKeys": [
+        "mg184vc_a",
+        "mg194vc_a",
+        "mg1a4vc_a",
+        "mg1d4vc_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 1449,
+      "displayedPriceText": "$1,449.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg1e4vc_a",
+      "priceKeys": [
+        "mg1e4vc_a",
+        "mg1g4vc_a",
+        "mg1h4vc_a",
+        "mg1j4vc_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 1749,
+      "displayedPriceText": "$1,749.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg1l4vc_a",
+      "priceKeys": [
+        "mg1l4vc_a",
+        "mg1n4vc_a",
+        "mg1p4vc_a",
+        "mg1q4vc_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 2049,
+      "displayedPriceText": "$2,049.00",
+      "currency": "CAD",
+      "storefrontUrl": "https://www.apple.com/ca/",
+      "countryCode": "ca",
+      "countryName": "Canada (English)"
+    }
+  ]
+}

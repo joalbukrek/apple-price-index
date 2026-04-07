@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:39.449Z",
+  "familyUrl": "https://www.apple.com/cl/shop/buy-airpods/airpods-max-2",
+  "currency": "CLP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "649990_00",
+      "priceKeys": [
+        "649990_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 649990,
+      "displayedPriceText": "$649.990",
+      "currency": "CLP",
+      "storefrontUrl": "https://www.apple.com/cl/",
+      "countryCode": "cl",
+      "countryName": "Chile"
+    }
+  ]
+}

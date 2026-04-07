@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:05:47.887Z",
+  "familyUrl": "https://www.apple.com/cz/shop/buy-airpods/airpods-pro-3",
+  "currency": "CZK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-pro-3::default",
+      "familySlug": "airpods-pro-3",
+      "familyName": "AirPods Pro 3",
+      "variantKey": "default",
+      "priceKey": "6490_00",
+      "priceKeys": [
+        "6490_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Pro 3",
+      "displayedPrice": 6490,
+      "displayedPriceText": "6 490,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    }
+  ]
+}

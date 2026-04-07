@@ -241,8 +241,9 @@ export function applyDisplayedPriceRule(displayedPrice, rule) {
 export function applyTaxRule(displayedPrice, rule) {
   if (!rule?.taxFreeEnabled) {
     return {
-      taxAdjustedPrice: rule?.showDisplayedAsTaxFree ? displayedPrice : null,
-      note: rule?.showDisplayedAsTaxFree ? "no refund" : "",
+      refundAmount: rule?.showDisplayedAsTaxFree ? 0 : null,
+      finalPriceAfterRefund: rule?.showDisplayedAsTaxFree ? displayedPrice : null,
+      note: rule?.showDisplayedAsTaxFree ? (rule?.noRefundLabel ?? "no refund") : "",
     };
   }
 
@@ -250,7 +251,8 @@ export function applyTaxRule(displayedPrice, rule) {
     const minimumAmount = Number(rule.minimumAmount);
     if (Number.isFinite(minimumAmount) && displayedPrice <= minimumAmount) {
       return {
-        taxAdjustedPrice: null,
+        refundAmount: null,
+        finalPriceAfterRefund: null,
         note: `min ${minimumAmount} ${rule.currency ?? ""}`.trim(),
       };
     }
@@ -258,34 +260,43 @@ export function applyTaxRule(displayedPrice, rule) {
     const refundRate = resolveTieredRefundRate(displayedPrice, rule);
     if (!Number.isFinite(refundRate)) {
       return {
-        taxAdjustedPrice: null,
+        refundAmount: null,
+        finalPriceAfterRefund: null,
         note: "",
       };
     }
 
     const refundAmount = Number(((displayedPrice * refundRate) / 100).toFixed(2));
     return {
-      taxAdjustedPrice: displayedPrice - refundAmount,
+      refundAmount,
+      finalPriceAfterRefund: Number((displayedPrice - refundAmount).toFixed(2)),
       note: `refund ${refundRate}%`,
     };
   }
 
   if (typeof rule.effectiveRefundRate === "number") {
+    const effectiveRefundRate = Number(rule.effectiveRefundRate);
+    const refundAmount = Number((displayedPrice * effectiveRefundRate).toFixed(2));
     return {
-      taxAdjustedPrice: displayedPrice * (1 - rule.effectiveRefundRate),
-      note: `refund ${Math.round(rule.effectiveRefundRate * 100)}%`,
+      refundAmount,
+      finalPriceAfterRefund: Number((displayedPrice - refundAmount).toFixed(2)),
+      note: `refund ${formatRatePercent(effectiveRefundRate)}`,
     };
   }
 
   if (rule.displayPriceIncludesTax && typeof rule.vatRate === "number") {
+    const vatRate = Number(rule.vatRate);
+    const finalPriceAfterRefund = Number((displayedPrice / (1 + vatRate)).toFixed(2));
     return {
-      taxAdjustedPrice: displayedPrice / (1 + rule.vatRate),
-      note: `ex VAT ${Math.round(rule.vatRate * 100)}%`,
+      refundAmount: Number((displayedPrice - finalPriceAfterRefund).toFixed(2)),
+      finalPriceAfterRefund,
+      note: `ex VAT ${formatRatePercent(vatRate)}`,
     };
   }
 
   return {
-    taxAdjustedPrice: null,
+    refundAmount: null,
+    finalPriceAfterRefund: null,
     note: "",
   };
 }

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:15:19.514Z",
+  "familyUrl": "https://www.apple.com/hu/shop/buy-iphone/iphone-17",
+  "currency": "HUF",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4hx_a",
+      "priceKeys": [
+        "mg6j4hx_a",
+        "mg6k4hx_a",
+        "mg6l4hx_a",
+        "mg6m4hx_a",
+        "mg6n4hx_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 399990,
+      "displayedPriceText": "399 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4hx_a",
+      "priceKeys": [
+        "mg6p4hx_a",
+        "mg6q4hx_a",
+        "mg6t4hx_a",
+        "mg6u4hx_a",
+        "mg6v4hx_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 499990,
+      "displayedPriceText": "499 990 Ft",
+      "currency": "HUF",
+      "storefrontUrl": "https://www.apple.com/hu/",
+      "countryCode": "hu",
+      "countryName": "Magyarország"
+    }
+  ]
+}

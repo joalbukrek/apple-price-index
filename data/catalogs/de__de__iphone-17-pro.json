@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:12:12.029Z",
+  "familyUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-17-pro",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-256gb",
+      "priceKey": "mg8g4zd_a",
+      "priceKeys": [
+        "mg8g4zd_a",
+        "mg8h4zd_a",
+        "mg8j4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 256GB",
+      "displayedPrice": 1299,
+      "displayedPriceText": "1.299,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-256gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-256gb",
+      "priceKey": "mfym4zd_a",
+      "priceKeys": [
+        "mfym4zd_a",
+        "mfyn4zd_a",
+        "mfyp4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:256gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 256GB",
+      "displayedPrice": 1449,
+      "displayedPriceText": "1.449,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-512gb",
+      "priceKey": "mg8k4zd_a",
+      "priceKeys": [
+        "mg8k4zd_a",
+        "mg8m4zd_a",
+        "mg8n4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 512GB",
+      "displayedPrice": 1549,
+      "displayedPriceText": "1.549,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-512gb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-512gb",
+      "priceKey": "mfyq4zd_a",
+      "priceKeys": [
+        "mfyq4zd_a",
+        "mfyt4zd_a",
+        "mfyu4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:512gb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 512GB",
+      "displayedPrice": 1699,
+      "displayedPriceText": "1.699,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_3inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_3inch-1tb",
+      "priceKey": "mg8p4zd_a",
+      "priceKeys": [
+        "mg8p4zd_a",
+        "mg8q4zd_a",
+        "mg8r4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_3inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.3-Inch | 1TB",
+      "displayedPrice": 1799,
+      "displayedPriceText": "1.799,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-1tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-1tb",
+      "priceKey": "mfyv4zd_a",
+      "priceKeys": [
+        "mfyv4zd_a",
+        "mfyw4zd_a",
+        "mfyx4zd_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:1tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 1TB",
+      "displayedPrice": 1949,
+      "displayedPriceText": "1.949,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    },
+    {
+      "canonicalKey": "iphone-17-pro::6_9inch-2tb",
+      "familySlug": "iphone-17-pro",
+      "familyName": "iPhone 17 Pro",
+      "variantKey": "6_9inch-2tb",
+      "priceKey": "mfyy4zd_a",
+      "priceKeys": [
+        "mfyy4zd_a",
+        "mg004zd_a",
+        "mg014zd_a"
+      ],
+      "signature": "dimensionScreensize:6_9inch|dimensionCapacity:2tb",
+      "title": "iPhone 17 Pro | 6.9-Inch | 2TB",
+      "displayedPrice": 2449,
+      "displayedPriceText": "2.449,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/de/",
+      "countryCode": "de",
+      "countryName": "Deutschland"
+    }
+  ]
+}

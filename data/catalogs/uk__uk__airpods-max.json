@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:04:10.089Z",
+  "familyUrl": "https://www.apple.com/uk/shop/buy-airpods/airpods-max-2",
+  "currency": "GBP",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "499_00",
+      "priceKeys": [
+        "499_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 499,
+      "displayedPriceText": "£499.00",
+      "currency": "GBP",
+      "storefrontUrl": "https://www.apple.com/uk/",
+      "countryCode": "uk",
+      "countryName": "United Kingdom"
+    }
+  ]
+}

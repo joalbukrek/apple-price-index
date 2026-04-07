@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:12:48.785Z",
+  "familyUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-17",
+  "currency": "EUR",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4f_a",
+      "priceKeys": [
+        "mg6j4f_a",
+        "mg6k4f_a",
+        "mg6l4f_a",
+        "mg6m4f_a",
+        "mg6n4f_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 969,
+      "displayedPriceText": "969,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/fr/",
+      "countryCode": "fr",
+      "countryName": "France"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4f_a",
+      "priceKeys": [
+        "mg6p4f_a",
+        "mg6q4f_a",
+        "mg6t4f_a",
+        "mg6u4f_a",
+        "mg6v4f_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 1219,
+      "displayedPriceText": "1 219,00 €",
+      "currency": "EUR",
+      "storefrontUrl": "https://www.apple.com/fr/",
+      "countryCode": "fr",
+      "countryName": "France"
+    }
+  ]
+}

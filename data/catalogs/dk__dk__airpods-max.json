@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-07T19:06:39.188Z",
+  "familyUrl": "https://www.apple.com/dk/shop/buy-airpods/airpods-max-2",
+  "currency": "DKK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "airpods-max::default",
+      "familySlug": "airpods-max",
+      "familyName": "AirPods Max",
+      "variantKey": "default",
+      "priceKey": "4299_00",
+      "priceKeys": [
+        "4299_00"
+      ],
+      "signature": "default",
+      "title": "AirPods Max",
+      "displayedPrice": 4299,
+      "displayedPriceText": "4.299,00 kr.",
+      "currency": "DKK",
+      "storefrontUrl": "https://www.apple.com/dk/",
+      "countryCode": "dk",
+      "countryName": "Danmark"
+    }
+  ]
+}

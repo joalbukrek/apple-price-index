@@ -8,7 +8,8 @@ import {
   commandListProducts,
 } from "./cli-compare.mjs";
 import { commandInteractive } from "./cli-interactive.mjs";
-import { commandBundleData, commandUpdatePrices } from "./cli-refresh.mjs";
+import { commandBundleData, commandUpdateFx, commandUpdatePrices } from "./cli-refresh.mjs";
+import { commandSelfTest } from "./cli-self-test.mjs";
 
 async function main() {
   const { command, values } = parseOptions();
@@ -37,8 +38,14 @@ async function main() {
     case "update-prices":
       await commandUpdatePrices(values);
       break;
+    case "update-fx":
+      await commandUpdateFx(values);
+      break;
     case "bundle-data":
       await commandBundleData(values);
+      break;
+    case "self-test":
+      await commandSelfTest(values);
       break;
     default:
       throw new Error(`Unknown command: ${command}`);

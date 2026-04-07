@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:16:10.774Z",
+  "familyUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-17",
+  "currency": "BRL",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4br_a",
+      "priceKeys": [
+        "mg6j4br_a",
+        "mg6k4br_a",
+        "mg6l4br_a",
+        "mg6m4br_a",
+        "mg6n4br_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 7999,
+      "displayedPriceText": "R$ 7.999,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4br_a",
+      "priceKeys": [
+        "mg6p4br_a",
+        "mg6q4br_a",
+        "mg6t4br_a",
+        "mg6u4br_a",
+        "mg6v4br_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 9499,
+      "displayedPriceText": "R$ 9.499,00",
+      "currency": "BRL",
+      "storefrontUrl": "https://www.apple.com/br/",
+      "countryCode": "br",
+      "countryName": "Brasil"
+    }
+  ]
+}

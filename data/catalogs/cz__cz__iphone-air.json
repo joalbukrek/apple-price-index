@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:13:31.677Z",
+  "familyUrl": "https://www.apple.com/cz/shop/buy-iphone/iphone-air",
+  "currency": "CZK",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-air::256gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "256gb",
+      "priceKey": "mg2l4sx_a",
+      "priceKeys": [
+        "mg2l4sx_a",
+        "mg2m4sx_a",
+        "mg2n4sx_a",
+        "mg2p4sx_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone Air | 256GB",
+      "displayedPrice": 29990,
+      "displayedPriceText": "29 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-air::512gb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "512gb",
+      "priceKey": "mg2q4sx_a",
+      "priceKeys": [
+        "mg2q4sx_a",
+        "mg2t4sx_a",
+        "mg2u4sx_a",
+        "mg2v4sx_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone Air | 512GB",
+      "displayedPrice": 35990,
+      "displayedPriceText": "35 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    },
+    {
+      "canonicalKey": "iphone-air::1tb",
+      "familySlug": "iphone-air",
+      "familyName": "iPhone Air",
+      "variantKey": "1tb",
+      "priceKey": "mg2w4sx_a",
+      "priceKeys": [
+        "mg2w4sx_a",
+        "mg2x4sx_a",
+        "mg2y4sx_a",
+        "mg304sx_a"
+      ],
+      "signature": "dimensionCapacity:1tb",
+      "title": "iPhone Air | 1TB",
+      "displayedPrice": 41990,
+      "displayedPriceText": "41 990,00 Kč",
+      "currency": "CZK",
+      "storefrontUrl": "https://www.apple.com/cz/",
+      "countryCode": "cz",
+      "countryName": "Česko"
+    }
+  ]
+}

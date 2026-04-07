@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-04-06T21:09:51.451Z",
+  "familyUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
+  "currency": "SGD",
+  "unsupported": false,
+  "variants": [
+    {
+      "canonicalKey": "iphone-17::256gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "256gb",
+      "priceKey": "mg6j4x_a",
+      "priceKeys": [
+        "mg6j4x_a",
+        "mg6k4x_a",
+        "mg6l4x_a",
+        "mg6m4x_a",
+        "mg6n4x_a"
+      ],
+      "signature": "dimensionCapacity:256gb",
+      "title": "iPhone 17 | 256GB",
+      "displayedPrice": 1299,
+      "displayedPriceText": "S$1,299.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    },
+    {
+      "canonicalKey": "iphone-17::512gb",
+      "familySlug": "iphone-17",
+      "familyName": "iPhone 17",
+      "variantKey": "512gb",
+      "priceKey": "mg6p4x_a",
+      "priceKeys": [
+        "mg6p4x_a",
+        "mg6q4x_a",
+        "mg6t4x_a",
+        "mg6u4x_a",
+        "mg6v4x_a"
+      ],
+      "signature": "dimensionCapacity:512gb",
+      "title": "iPhone 17 | 512GB",
+      "displayedPrice": 1599,
+      "displayedPriceText": "S$1,599.00",
+      "currency": "SGD",
+      "storefrontUrl": "https://www.apple.com/sg/",
+      "countryCode": "sg",
+      "countryName": "Singapore"
+    }
+  ]
+}
